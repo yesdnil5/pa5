@@ -1,0 +1,13546 @@
+#files: 1
+#words: 4513
+
+<file>
+0 "taleoftwo.txt"
+</file>
+
+<list> 000
+taleoftwo.txt 1 
+</list>
+<list> ﻿the
+taleoftwo.txt 1 
+</list>
+<list> 1
+taleoftwo.txt 45 
+</list>
+<list> 1500
+taleoftwo.txt 1 
+</list>
+<list> 1757
+taleoftwo.txt 1 
+</list>
+<list> 1767
+taleoftwo.txt 2 
+</list>
+<list> 1792
+taleoftwo.txt 1 
+</list>
+<list> 1887
+taleoftwo.txt 1 
+</list>
+<list> 1994
+taleoftwo.txt 1 
+</list>
+<list> 20
+taleoftwo.txt 1 
+</list>
+<list> 2001
+taleoftwo.txt 1 
+</list>
+<list> 2009
+taleoftwo.txt 1 
+</list>
+<list> 2011
+taleoftwo.txt 1 
+</list>
+<list> 21
+taleoftwo.txt 1 
+</list>
+<list> 23
+taleoftwo.txt 1 
+</list>
+<list> 28
+taleoftwo.txt 1 
+</list>
+<list> 3
+taleoftwo.txt 10 
+</list>
+<list> 30
+taleoftwo.txt 1 
+</list>
+<list> 4
+taleoftwo.txt 5 
+</list>
+<list> 4557
+taleoftwo.txt 1 
+</list>
+<list> 5
+taleoftwo.txt 4 
+</list>
+<list> 50
+taleoftwo.txt 1 
+</list>
+<list> 501
+taleoftwo.txt 2 
+</list>
+<list> 596
+taleoftwo.txt 1 
+</list>
+<list> 6
+taleoftwo.txt 2 
+</list>
+<list> 60
+taleoftwo.txt 1 
+</list>
+<list> 6221541
+taleoftwo.txt 1 
+</list>
+<list> 64
+taleoftwo.txt 1 
+</list>
+<list> 7
+taleoftwo.txt 3 
+</list>
+<list> 8
+taleoftwo.txt 6 
+</list>
+<list> 801
+taleoftwo.txt 1 
+</list>
+<list> 809
+taleoftwo.txt 1 
+</list>
+<list> 84116
+taleoftwo.txt 1 
+</list>
+<list> 9
+taleoftwo.txt 4 
+</list>
+<list> 90
+taleoftwo.txt 2 
+</list>
+<list> 98
+taleoftwo.txt 4 
+</list>
+<list> 99712
+taleoftwo.txt 1 
+</list>
+<list> a
+taleoftwo.txt 3017 
+</list>
+<list> abandoned
+taleoftwo.txt 1 
+</list>
+<list> abate
+taleoftwo.txt 1 
+</list>
+<list> abated
+taleoftwo.txt 1 
+</list>
+<list> abbaye
+taleoftwo.txt 5 
+</list>
+<list> abed
+taleoftwo.txt 2 
+</list>
+<list> abhorrence
+taleoftwo.txt 1 
+</list>
+<list> abide
+taleoftwo.txt 1 
+</list>
+<list> abided
+taleoftwo.txt 1 
+</list>
+<list> abilities
+taleoftwo.txt 1 
+</list>
+<list> ability
+taleoftwo.txt 2 
+</list>
+<list> abject
+taleoftwo.txt 1 
+</list>
+<list> ablaze
+taleoftwo.txt 1 
+</list>
+<list> able
+taleoftwo.txt 17 
+</list>
+<list> abnegating
+taleoftwo.txt 1 
+</list>
+<list> about
+taleoftwo.txt 169 
+</list>
+<list> above
+taleoftwo.txt 23 
+</list>
+<list> abreast
+taleoftwo.txt 2 
+</list>
+<list> abridge
+taleoftwo.txt 1 
+</list>
+<list> abroad
+taleoftwo.txt 2 
+</list>
+<list> abrupt
+taleoftwo.txt 3 
+</list>
+<list> abruptly
+taleoftwo.txt 1 
+</list>
+<list> absolute
+taleoftwo.txt 1 
+</list>
+<list> absolutely
+taleoftwo.txt 1 
+</list>
+<list> abstractedly
+taleoftwo.txt 1 
+</list>
+<list> abstraction
+taleoftwo.txt 3 
+</list>
+<list> absurd
+taleoftwo.txt 1 
+</list>
+<list> abuse
+taleoftwo.txt 1 
+</list>
+<list> abused
+taleoftwo.txt 1 
+</list>
+<list> abyss
+taleoftwo.txt 1 
+</list>
+<list> abyssinia
+taleoftwo.txt 1 
+</list>
+<list> accepted
+taleoftwo.txt 2 
+</list>
+<list> accepting
+taleoftwo.txt 1 
+</list>
+<list> accessible
+taleoftwo.txt 1 
+</list>
+<list> accomplished
+taleoftwo.txt 1 
+</list>
+<list> accordance
+taleoftwo.txt 2 
+</list>
+<list> according
+taleoftwo.txt 1 
+</list>
+<list> accoutred
+taleoftwo.txt 1 
+</list>
+<list> accused
+taleoftwo.txt 13 
+</list>
+<list> accustomed
+taleoftwo.txt 7 
+</list>
+<list> ace
+taleoftwo.txt 3 
+</list>
+<list> achievements
+taleoftwo.txt 1 
+</list>
+<list> achieving
+taleoftwo.txt 1 
+</list>
+<list> acknowledge
+taleoftwo.txt 1 
+</list>
+<list> acknowledged
+taleoftwo.txt 4 
+</list>
+<list> acknowledgment
+taleoftwo.txt 2 
+</list>
+<list> acknowledgments
+taleoftwo.txt 1 
+</list>
+<list> acoustical
+taleoftwo.txt 1 
+</list>
+<list> acquiesced
+taleoftwo.txt 1 
+</list>
+<list> acquit
+taleoftwo.txt 1 
+</list>
+<list> acquittal
+taleoftwo.txt 1 
+</list>
+<list> acquitted
+taleoftwo.txt 3 
+</list>
+<list> acres
+taleoftwo.txt 1 
+</list>
+<list> across
+taleoftwo.txt 36 
+</list>
+<list> active
+taleoftwo.txt 2 
+</list>
+<list> actual
+taleoftwo.txt 4 
+</list>
+<list> actually
+taleoftwo.txt 5 
+</list>
+<list> acute
+taleoftwo.txt 1 
+</list>
+<list> acuteness
+taleoftwo.txt 1 
+</list>
+<list> adam
+taleoftwo.txt 1 
+</list>
+<list> addressed
+taleoftwo.txt 2 
+</list>
+<list> addresses
+taleoftwo.txt 2 
+</list>
+<list> addressing
+taleoftwo.txt 5 
+</list>
+<list> adequately
+taleoftwo.txt 1 
+</list>
+<list> adieu
+taleoftwo.txt 3 
+</list>
+<list> adjourned
+taleoftwo.txt 1 
+</list>
+<list> adjured
+taleoftwo.txt 1 
+</list>
+<list> adjusted
+taleoftwo.txt 2 
+</list>
+<list> adjusting
+taleoftwo.txt 2 
+</list>
+<list> administered
+taleoftwo.txt 1 
+</list>
+<list> admirable
+taleoftwo.txt 2 
+</list>
+<list> admired
+taleoftwo.txt 1 
+</list>
+<list> admiring
+taleoftwo.txt 1 
+</list>
+<list> admit
+taleoftwo.txt 4 
+</list>
+<list> admittance
+taleoftwo.txt 1 
+</list>
+<list> admitted
+taleoftwo.txt 4 
+</list>
+<list> admonish
+taleoftwo.txt 1 
+</list>
+<list> admonitory
+taleoftwo.txt 1 
+</list>
+<list> adopted
+taleoftwo.txt 1 
+</list>
+<list> adorable
+taleoftwo.txt 1 
+</list>
+<list> adorn
+taleoftwo.txt 1 
+</list>
+<list> adorned
+taleoftwo.txt 1 
+</list>
+<list> adornments
+taleoftwo.txt 1 
+</list>
+<list> adust
+taleoftwo.txt 1 
+</list>
+<list> advanced
+taleoftwo.txt 2 
+</list>
+<list> advantages
+taleoftwo.txt 1 
+</list>
+<list> adviser
+taleoftwo.txt 1 
+</list>
+<list> advocate
+taleoftwo.txt 3 
+</list>
+<list> afar
+taleoftwo.txt 4 
+</list>
+<list> affectionate
+taleoftwo.txt 4 
+</list>
+<list> affirmative
+taleoftwo.txt 1 
+</list>
+<list> afflicted
+taleoftwo.txt 3 
+</list>
+<list> affliction
+taleoftwo.txt 1 
+</list>
+<list> afforded
+taleoftwo.txt 1 
+</list>
+<list> affrighted
+taleoftwo.txt 1 
+</list>
+<list> afire
+taleoftwo.txt 1 
+</list>
+<list> afoot
+taleoftwo.txt 1 
+</list>
+<list> afore
+taleoftwo.txt 1 
+</list>
+<list> aforesaid
+taleoftwo.txt 2 
+</list>
+<list> afraid
+taleoftwo.txt 17 
+</list>
+<list> afresh
+taleoftwo.txt 4 
+</list>
+<list> after
+taleoftwo.txt 14 
+</list>
+<list> afternoon
+taleoftwo.txt 18 
+</list>
+<list> afterwards
+taleoftwo.txt 25 
+</list>
+<list> again
+taleoftwo.txt 228 
+</list>
+<list> against
+taleoftwo.txt 78 
+</list>
+<list> aged
+taleoftwo.txt 1 
+</list>
+<list> agency
+taleoftwo.txt 1 
+</list>
+<list> agent
+taleoftwo.txt 2 
+</list>
+<list> ages
+taleoftwo.txt 5 
+</list>
+<list> aggravated
+taleoftwo.txt 1 
+</list>
+<list> aggravation
+taleoftwo.txt 1 
+</list>
+<list> agitated
+taleoftwo.txt 6 
+</list>
+<list> agitation
+taleoftwo.txt 10 
+</list>
+<list> ago
+taleoftwo.txt 32 
+</list>
+<list> agonised
+taleoftwo.txt 1 
+</list>
+<list> agony
+taleoftwo.txt 7 
+</list>
+<list> agreed
+taleoftwo.txt 5 
+</list>
+<list> agreement
+taleoftwo.txt 20 
+</list>
+<list> ah
+taleoftwo.txt 24 
+</list>
+<list> aha
+taleoftwo.txt 1 
+</list>
+<list> ahead
+taleoftwo.txt 2 
+</list>
+<list> aid
+taleoftwo.txt 14 
+</list>
+<list> aids
+taleoftwo.txt 1 
+</list>
+<list> ailing
+taleoftwo.txt 1 
+</list>
+<list> aiming
+taleoftwo.txt 2 
+</list>
+<list> aims
+taleoftwo.txt 1 
+</list>
+<list> ain
+taleoftwo.txt 9 
+</list>
+<list> air
+taleoftwo.txt 24 
+</list>
+<list> airs
+taleoftwo.txt 2 
+</list>
+<list> airy
+taleoftwo.txt 2 
+</list>
+<list> ajar
+taleoftwo.txt 1 
+</list>
+<list> ak
+taleoftwo.txt 1 
+</list>
+<list> akin
+taleoftwo.txt 2 
+</list>
+<list> al
+taleoftwo.txt 2 
+</list>
+<list> alarmingly
+taleoftwo.txt 1 
+</list>
+<list> alas
+taleoftwo.txt 2 
+</list>
+<list> albeit
+taleoftwo.txt 1 
+</list>
+<list> alcove
+taleoftwo.txt 1 
+</list>
+<list> alert
+taleoftwo.txt 1 
+</list>
+<list> alexandre
+taleoftwo.txt 6 
+</list>
+<list> alighted
+taleoftwo.txt 1 
+</list>
+<list> alike
+taleoftwo.txt 6 
+</list>
+<list> alive
+taleoftwo.txt 10 
+</list>
+<list> all
+taleoftwo.txt 172 
+</list>
+<list> allow
+taleoftwo.txt 1 
+</list>
+<list> allowed
+taleoftwo.txt 2 
+</list>
+<list> allusions
+taleoftwo.txt 1 
+</list>
+<list> alluvial
+taleoftwo.txt 1 
+</list>
+<list> ally
+taleoftwo.txt 1 
+</list>
+<list> almost
+taleoftwo.txt 49 
+</list>
+<list> alone
+taleoftwo.txt 12 
+</list>
+<list> along
+taleoftwo.txt 43 
+</list>
+<list> aloud
+taleoftwo.txt 8 
+</list>
+<list> already
+taleoftwo.txt 42 
+</list>
+<list> also
+taleoftwo.txt 30 
+</list>
+<list> alteration
+taleoftwo.txt 1 
+</list>
+<list> altered
+taleoftwo.txt 3 
+</list>
+<list> alternate
+taleoftwo.txt 1 
+</list>
+<list> although
+taleoftwo.txt 3 
+</list>
+<list> altitude
+taleoftwo.txt 1 
+</list>
+<list> altogether
+taleoftwo.txt 13 
+</list>
+<list> always
+taleoftwo.txt 105 
+</list>
+<list> am
+taleoftwo.txt 225 
+</list>
+<list> amazed
+taleoftwo.txt 3 
+</list>
+<list> amazement
+taleoftwo.txt 3 
+</list>
+<list> amazingly
+taleoftwo.txt 1 
+</list>
+<list> ambassadors
+taleoftwo.txt 1 
+</list>
+<list> ambition
+taleoftwo.txt 4 
+</list>
+<list> ambuscade
+taleoftwo.txt 1 
+</list>
+<list> amendment
+taleoftwo.txt 1 
+</list>
+<list> amends
+taleoftwo.txt 2 
+</list>
+<list> america
+taleoftwo.txt 3 
+</list>
+<list> americans
+taleoftwo.txt 1 
+</list>
+<list> amiable
+taleoftwo.txt 1 
+</list>
+<list> amiably
+taleoftwo.txt 1 
+</list>
+<list> amidst
+taleoftwo.txt 3 
+</list>
+<list> amiss
+taleoftwo.txt 2 
+</list>
+<list> ammunition
+taleoftwo.txt 1 
+</list>
+<list> among
+taleoftwo.txt 107 
+</list>
+<list> amount
+taleoftwo.txt 1 
+</list>
+<list> ample
+taleoftwo.txt 1 
+</list>
+<list> amselle
+taleoftwo.txt 1 
+</list>
+<list> amused
+taleoftwo.txt 3 
+</list>
+<list> an
+taleoftwo.txt 351 
+</list>
+<list> analyse
+taleoftwo.txt 1 
+</list>
+<list> anathematised
+taleoftwo.txt 1 
+</list>
+<list> anatomise
+taleoftwo.txt 1 
+</list>
+<list> anchor
+taleoftwo.txt 1 
+</list>
+<list> anchorage
+taleoftwo.txt 1 
+</list>
+<list> ancient
+taleoftwo.txt 10 
+</list>
+<list> and
+taleoftwo.txt 5067 
+</list>
+<list> anew
+taleoftwo.txt 7 
+</list>
+<list> angel
+taleoftwo.txt 1 
+</list>
+<list> angry
+taleoftwo.txt 15 
+</list>
+<list> anguish
+taleoftwo.txt 4 
+</list>
+<list> animated
+taleoftwo.txt 3 
+</list>
+<list> animosity
+taleoftwo.txt 2 
+</list>
+<list> aniseed
+taleoftwo.txt 1 
+</list>
+<list> ankles
+taleoftwo.txt 1 
+</list>
+<list> annihilation
+taleoftwo.txt 1 
+</list>
+<list> anniversary
+taleoftwo.txt 1 
+</list>
+<list> announced
+taleoftwo.txt 2 
+</list>
+<list> announcement
+taleoftwo.txt 1 
+</list>
+<list> announcing
+taleoftwo.txt 1 
+</list>
+<list> annoyed
+taleoftwo.txt 2 
+</list>
+<list> anon
+taleoftwo.txt 1 
+</list>
+<list> another
+taleoftwo.txt 135 
+</list>
+<list> answer
+taleoftwo.txt 3 
+</list>
+<list> answered
+taleoftwo.txt 20 
+</list>
+<list> answering
+taleoftwo.txt 10 
+</list>
+<list> answers
+taleoftwo.txt 2 
+</list>
+<list> antiquity
+taleoftwo.txt 5 
+</list>
+<list> antoine
+taleoftwo.txt 52 
+</list>
+<list> anxiety
+taleoftwo.txt 1 
+</list>
+<list> anxious
+taleoftwo.txt 16 
+</list>
+<list> anxiously
+taleoftwo.txt 2 
+</list>
+<list> any
+taleoftwo.txt 27 
+</list>
+<list> anyone
+taleoftwo.txt 3 
+</list>
+<list> anyways
+taleoftwo.txt 1 
+</list>
+<list> anywhere
+taleoftwo.txt 6 
+</list>
+<list> apart
+taleoftwo.txt 7 
+</list>
+<list> apartment
+taleoftwo.txt 3 
+</list>
+<list> apartments
+taleoftwo.txt 2 
+</list>
+<list> aphorism
+taleoftwo.txt 1 
+</list>
+<list> apocryphal
+taleoftwo.txt 1 
+</list>
+<list> apologetic
+taleoftwo.txt 1 
+</list>
+<list> apostrophise
+taleoftwo.txt 1 
+</list>
+<list> apostrophising
+taleoftwo.txt 1 
+</list>
+<list> apprised
+taleoftwo.txt 1 
+</list>
+<list> approach
+taleoftwo.txt 1 
+</list>
+<list> approved
+taleoftwo.txt 2 
+</list>
+<list> approvingly
+taleoftwo.txt 2 
+</list>
+<list> aquiline
+taleoftwo.txt 3 
+</list>
+<list> arabian
+taleoftwo.txt 1 
+</list>
+<list> architecture
+taleoftwo.txt 3 
+</list>
+<list> archive
+taleoftwo.txt 13 
+</list>
+<list> ardent
+taleoftwo.txt 3 
+</list>
+<list> ardour
+taleoftwo.txt 2 
+</list>
+<list> are
+taleoftwo.txt 335 
+</list>
+<list> area
+taleoftwo.txt 1 
+</list>
+<list> argued
+taleoftwo.txt 3 
+</list>
+<list> argument
+taleoftwo.txt 1 
+</list>
+<list> argumentative
+taleoftwo.txt 1 
+</list>
+<list> arise
+taleoftwo.txt 1 
+</list>
+<list> aristocratic
+taleoftwo.txt 3 
+</list>
+<list> aristocrats
+taleoftwo.txt 2 
+</list>
+<list> armorial
+taleoftwo.txt 1 
+</list>
+<list> arms
+taleoftwo.txt 49 
+</list>
+<list> army
+taleoftwo.txt 3 
+</list>
+<list> around
+taleoftwo.txt 19 
+</list>
+<list> arouse
+taleoftwo.txt 1 
+</list>
+<list> array
+taleoftwo.txt 1 
+</list>
+<list> arrived
+taleoftwo.txt 14 
+</list>
+<list> arriving
+taleoftwo.txt 2 
+</list>
+<list> articles
+taleoftwo.txt 2 
+</list>
+<list> articulate
+taleoftwo.txt 1 
+</list>
+<list> artless
+taleoftwo.txt 1 
+</list>
+<list> arts
+taleoftwo.txt 4 
+</list>
+<list> as
+taleoftwo.txt 1174 
+</list>
+<list> ascertained
+taleoftwo.txt 3 
+</list>
+<list> ascii
+taleoftwo.txt 2 
+</list>
+<list> ashes
+taleoftwo.txt 8 
+</list>
+<list> ashy
+taleoftwo.txt 2 
+</list>
+<list> aside
+taleoftwo.txt 23 
+</list>
+<list> ask
+taleoftwo.txt 1 
+</list>
+<list> asked
+taleoftwo.txt 1 
+</list>
+<list> asking
+taleoftwo.txt 6 
+</list>
+<list> asks
+taleoftwo.txt 4 
+</list>
+<list> asleep
+taleoftwo.txt 21 
+</list>
+<list> aspect
+taleoftwo.txt 11 
+</list>
+<list> aspirations
+taleoftwo.txt 2 
+</list>
+<list> aspired
+taleoftwo.txt 1 
+</list>
+<list> assistance
+taleoftwo.txt 1 
+</list>
+<list> assisted
+taleoftwo.txt 1 
+</list>
+<list> associated
+taleoftwo.txt 8 
+</list>
+<list> assume
+taleoftwo.txt 1 
+</list>
+<list> assurances
+taleoftwo.txt 1 
+</list>
+<list> assuredly
+taleoftwo.txt 3 
+</list>
+<list> assures
+taleoftwo.txt 1 
+</list>
+<list> astir
+taleoftwo.txt 1 
+</list>
+<list> astonishment
+taleoftwo.txt 2 
+</list>
+<list> astounded
+taleoftwo.txt 2 
+</list>
+<list> astounding
+taleoftwo.txt 1 
+</list>
+<list> astray
+taleoftwo.txt 1 
+</list>
+<list> asunder
+taleoftwo.txt 1 
+</list>
+<list> at
+taleoftwo.txt 1050 
+</list>
+<list> ate
+taleoftwo.txt 7 
+</list>
+<list> atheistical
+taleoftwo.txt 1 
+</list>
+<list> athirst
+taleoftwo.txt 1 
+</list>
+<list> atmosphere
+taleoftwo.txt 3 
+</list>
+<list> atmospheric
+taleoftwo.txt 1 
+</list>
+<list> atomics
+taleoftwo.txt 1 
+</list>
+<list> atonement
+taleoftwo.txt 1 
+</list>
+<list> atop
+taleoftwo.txt 1 
+</list>
+<list> atrocious
+taleoftwo.txt 1 
+</list>
+<list> attached
+taleoftwo.txt 1 
+</list>
+<list> attentively
+taleoftwo.txt 1 
+</list>
+<list> attitude
+taleoftwo.txt 2 
+</list>
+<list> attract
+taleoftwo.txt 2 
+</list>
+<list> attracted
+taleoftwo.txt 3 
+</list>
+<list> attracting
+taleoftwo.txt 1 
+</list>
+<list> attraction
+taleoftwo.txt 3 
+</list>
+<list> attractive
+taleoftwo.txt 1 
+</list>
+<list> attributable
+taleoftwo.txt 1 
+</list>
+<list> attribute
+taleoftwo.txt 1 
+</list>
+<list> audible
+taleoftwo.txt 1 
+</list>
+<list> audience
+taleoftwo.txt 7 
+</list>
+<list> auditory
+taleoftwo.txt 1 
+</list>
+<list> augment
+taleoftwo.txt 1 
+</list>
+<list> august
+taleoftwo.txt 3 
+</list>
+<list> aulnais
+taleoftwo.txt 1 
+</list>
+<list> auspicious
+taleoftwo.txt 1 
+</list>
+<list> authorised
+taleoftwo.txt 1 
+</list>
+<list> authority
+taleoftwo.txt 10 
+</list>
+<list> autumn
+taleoftwo.txt 3 
+</list>
+<list> avail
+taleoftwo.txt 3 
+</list>
+<list> available
+taleoftwo.txt 2 
+</list>
+<list> avenues
+taleoftwo.txt 2 
+</list>
+<list> aversion
+taleoftwo.txt 1 
+</list>
+<list> avert
+taleoftwo.txt 1 
+</list>
+<list> averted
+taleoftwo.txt 1 
+</list>
+<list> avoid
+taleoftwo.txt 7 
+</list>
+<list> avoided
+taleoftwo.txt 1 
+</list>
+<list> avoiding
+taleoftwo.txt 1 
+</list>
+<list> avow
+taleoftwo.txt 1 
+</list>
+<list> avowal
+taleoftwo.txt 1 
+</list>
+<list> awaricious
+taleoftwo.txt 1 
+</list>
+<list> away
+taleoftwo.txt 137 
+</list>
+<list> awe
+taleoftwo.txt 3 
+</list>
+<list> awful
+taleoftwo.txt 8 
+</list>
+<list> awfulness
+taleoftwo.txt 1 
+</list>
+<list> awkward
+taleoftwo.txt 1 
+</list>
+<list> awoke
+taleoftwo.txt 5 
+</list>
+<list> awry
+taleoftwo.txt 2 
+</list>
+<list> axe
+taleoftwo.txt 10 
+</list>
+<list> axes
+taleoftwo.txt 2 
+</list>
+<list> ay
+taleoftwo.txt 5 
+</list>
+<list> b
+taleoftwo.txt 4 
+</list>
+<list> babies
+taleoftwo.txt 1 
+</list>
+<list> baby
+taleoftwo.txt 5 
+</list>
+<list> bachelor
+taleoftwo.txt 1 
+</list>
+<list> back
+taleoftwo.txt 53 
+</list>
+<list> backward
+taleoftwo.txt 2 
+</list>
+<list> backwards
+taleoftwo.txt 3 
+</list>
+<list> bad
+taleoftwo.txt 44 
+</list>
+<list> baffled
+taleoftwo.txt 2 
+</list>
+<list> bag
+taleoftwo.txt 2 
+</list>
+<list> bah
+taleoftwo.txt 3 
+</list>
+<list> bailey
+taleoftwo.txt 20 
+</list>
+<list> bailiff
+taleoftwo.txt 1 
+</list>
+<list> baker
+taleoftwo.txt 2 
+</list>
+<list> bakers
+taleoftwo.txt 1 
+</list>
+<list> balance
+taleoftwo.txt 1 
+</list>
+<list> balanced
+taleoftwo.txt 1 
+</list>
+<list> ballad
+taleoftwo.txt 1 
+</list>
+<list> balustrades
+taleoftwo.txt 2 
+</list>
+<list> bank
+taleoftwo.txt 6 
+</list>
+<list> banker
+taleoftwo.txt 1 
+</list>
+<list> banking
+taleoftwo.txt 5 
+</list>
+<list> bankruptcy
+taleoftwo.txt 1 
+</list>
+<list> banks
+taleoftwo.txt 2 
+</list>
+<list> banquets
+taleoftwo.txt 1 
+</list>
+<list> bars
+taleoftwo.txt 10 
+</list>
+<list> barsad
+taleoftwo.txt 45 
+</list>
+<list> based
+taleoftwo.txt 2 
+</list>
+<list> basin
+taleoftwo.txt 2 
+</list>
+<list> baskets
+taleoftwo.txt 2 
+</list>
+<list> bastille
+taleoftwo.txt 22 
+</list>
+<list> batch
+taleoftwo.txt 2 
+</list>
+<list> bath
+taleoftwo.txt 1 
+</list>
+<list> bathed
+taleoftwo.txt 1 
+</list>
+<list> battered
+taleoftwo.txt 1 
+</list>
+<list> battles
+taleoftwo.txt 1 
+</list>
+<list> bawled
+taleoftwo.txt 1 
+</list>
+<list> bawling
+taleoftwo.txt 1 
+</list>
+<list> bay
+taleoftwo.txt 2 
+</list>
+<list> bayonets
+taleoftwo.txt 3 
+</list>
+<list> be
+taleoftwo.txt 786 
+</list>
+<list> bears
+taleoftwo.txt 1 
+</list>
+<list> beating
+taleoftwo.txt 1 
+</list>
+<list> beautiful
+taleoftwo.txt 2 
+</list>
+<list> beauty
+taleoftwo.txt 9 
+</list>
+<list> beauvais
+taleoftwo.txt 12 
+</list>
+<list> became
+taleoftwo.txt 1 
+</list>
+<list> because
+taleoftwo.txt 1 
+</list>
+<list> becomes
+taleoftwo.txt 2 
+</list>
+<list> becoming
+taleoftwo.txt 3 
+</list>
+<list> becomingly
+taleoftwo.txt 1 
+</list>
+<list> bed
+taleoftwo.txt 4 
+</list>
+<list> beds
+taleoftwo.txt 2 
+</list>
+<list> bedside
+taleoftwo.txt 2 
+</list>
+<list> been
+taleoftwo.txt 381 
+</list>
+<list> beer
+taleoftwo.txt 4 
+</list>
+<list> beery
+taleoftwo.txt 1 
+</list>
+<list> before
+taleoftwo.txt 52 
+</list>
+<list> beforehand
+taleoftwo.txt 4 
+</list>
+<list> befriend
+taleoftwo.txt 1 
+</list>
+<list> begin
+taleoftwo.txt 1 
+</list>
+<list> beginning
+taleoftwo.txt 3 
+</list>
+<list> beguiled
+taleoftwo.txt 2 
+</list>
+<list> begun
+taleoftwo.txt 8 
+</list>
+<list> beheld
+taleoftwo.txt 2 
+</list>
+<list> behind
+taleoftwo.txt 12 
+</list>
+<list> behold
+taleoftwo.txt 2 
+</list>
+<list> beholder
+taleoftwo.txt 1 
+</list>
+<list> beholders
+taleoftwo.txt 2 
+</list>
+<list> behoved
+taleoftwo.txt 1 
+</list>
+<list> being
+taleoftwo.txt 134 
+</list>
+<list> beings
+taleoftwo.txt 1 
+</list>
+<list> beloved
+taleoftwo.txt 5 
+</list>
+<list> below
+taleoftwo.txt 15 
+</list>
+<list> belt
+taleoftwo.txt 1 
+</list>
+<list> bench
+taleoftwo.txt 3 
+</list>
+<list> bent
+taleoftwo.txt 26 
+</list>
+<list> benumbed
+taleoftwo.txt 1 
+</list>
+<list> bereft
+taleoftwo.txt 2 
+</list>
+<list> besought
+taleoftwo.txt 2 
+</list>
+<list> best
+taleoftwo.txt 11 
+</list>
+<list> bestow
+taleoftwo.txt 1 
+</list>
+<list> bestowal
+taleoftwo.txt 1 
+</list>
+<list> bestowed
+taleoftwo.txt 7 
+</list>
+<list> bestowing
+taleoftwo.txt 1 
+</list>
+<list> bestrewn
+taleoftwo.txt 2 
+</list>
+<list> bethought
+taleoftwo.txt 1 
+</list>
+<list> better
+taleoftwo.txt 90 
+</list>
+<list> between
+taleoftwo.txt 64 
+</list>
+<list> betwixt
+taleoftwo.txt 1 
+</list>
+<list> bewildered
+taleoftwo.txt 4 
+</list>
+<list> bewildering
+taleoftwo.txt 1 
+</list>
+<list> bewilderment
+taleoftwo.txt 2 
+</list>
+<list> beyond
+taleoftwo.txt 28 
+</list>
+<list> bid
+taleoftwo.txt 1 
+</list>
+<list> bidden
+taleoftwo.txt 2 
+</list>
+<list> biding
+taleoftwo.txt 1 
+</list>
+<list> big
+taleoftwo.txt 3 
+</list>
+<list> billet
+taleoftwo.txt 1 
+</list>
+<list> billets
+taleoftwo.txt 2 
+</list>
+<list> billows
+taleoftwo.txt 1 
+</list>
+<list> billowy
+taleoftwo.txt 1 
+</list>
+<list> binary
+taleoftwo.txt 1 
+</list>
+<list> bind
+taleoftwo.txt 3 
+</list>
+<list> birds
+taleoftwo.txt 1 
+</list>
+<list> birth
+taleoftwo.txt 2 
+</list>
+<list> birthday
+taleoftwo.txt 2 
+</list>
+<list> birthdays
+taleoftwo.txt 1 
+</list>
+<list> bitterly
+taleoftwo.txt 5 
+</list>
+<list> bitterness
+taleoftwo.txt 1 
+</list>
+<list> blackguard
+taleoftwo.txt 1 
+</list>
+<list> blade
+taleoftwo.txt 1 
+</list>
+<list> blank
+taleoftwo.txt 1 
+</list>
+<list> blaze
+taleoftwo.txt 1 
+</list>
+<list> blazed
+taleoftwo.txt 2 
+</list>
+<list> blazing
+taleoftwo.txt 7 
+</list>
+<list> bless
+taleoftwo.txt 1 
+</list>
+<list> blessing
+taleoftwo.txt 5 
+</list>
+<list> blest
+taleoftwo.txt 5 
+</list>
+<list> blew
+taleoftwo.txt 2 
+</list>
+<list> blinded
+taleoftwo.txt 1 
+</list>
+<list> blindness
+taleoftwo.txt 1 
+</list>
+<list> blindnesses
+taleoftwo.txt 1 
+</list>
+<list> blinds
+taleoftwo.txt 1 
+</list>
+<list> blink
+taleoftwo.txt 1 
+</list>
+<list> bliss
+taleoftwo.txt 2 
+</list>
+<list> blots
+taleoftwo.txt 1 
+</list>
+<list> blotting
+taleoftwo.txt 1 
+</list>
+<list> blow
+taleoftwo.txt 4 
+</list>
+<list> blowing
+taleoftwo.txt 2 
+</list>
+<list> blown
+taleoftwo.txt 3 
+</list>
+<list> blows
+taleoftwo.txt 4 
+</list>
+<list> blue
+taleoftwo.txt 2 
+</list>
+<list> blunt
+taleoftwo.txt 1 
+</list>
+<list> blurred
+taleoftwo.txt 1 
+</list>
+<list> blush
+taleoftwo.txt 1 
+</list>
+<list> boasting
+taleoftwo.txt 1 
+</list>
+<list> boat
+taleoftwo.txt 4 
+</list>
+<list> bodily
+taleoftwo.txt 2 
+</list>
+<list> body
+taleoftwo.txt 21 
+</list>
+<list> bodyguard
+taleoftwo.txt 1 
+</list>
+<list> boiled
+taleoftwo.txt 2 
+</list>
+<list> boiling
+taleoftwo.txt 4 
+</list>
+<list> bold
+taleoftwo.txt 1 
+</list>
+<list> boldest
+taleoftwo.txt 2 
+</list>
+<list> boldface
+taleoftwo.txt 1 
+</list>
+<list> boldly
+taleoftwo.txt 1 
+</list>
+<list> bolt
+taleoftwo.txt 1 
+</list>
+<list> bonfires
+taleoftwo.txt 1 
+</list>
+<list> bonnet
+taleoftwo.txt 4 
+</list>
+<list> bony
+taleoftwo.txt 2 
+</list>
+<list> bootless
+taleoftwo.txt 1 
+</list>
+<list> boots
+taleoftwo.txt 12 
+</list>
+<list> bore
+taleoftwo.txt 1 
+</list>
+<list> born
+taleoftwo.txt 8 
+</list>
+<list> borne
+taleoftwo.txt 2 
+</list>
+<list> borrow
+taleoftwo.txt 1 
+</list>
+<list> borrowed
+taleoftwo.txt 1 
+</list>
+<list> bosom
+taleoftwo.txt 18 
+</list>
+<list> boss
+taleoftwo.txt 2 
+</list>
+<list> both
+taleoftwo.txt 23 
+</list>
+<list> bottles
+taleoftwo.txt 2 
+</list>
+<list> bottom
+taleoftwo.txt 3 
+</list>
+<list> bound
+taleoftwo.txt 4 
+</list>
+<list> boundaries
+taleoftwo.txt 1 
+</list>
+<list> boundless
+taleoftwo.txt 1 
+</list>
+<list> bowed
+taleoftwo.txt 4 
+</list>
+<list> bowing
+taleoftwo.txt 4 
+</list>
+<list> bowl
+taleoftwo.txt 4 
+</list>
+<list> box
+taleoftwo.txt 12 
+</list>
+<list> boxes
+taleoftwo.txt 2 
+</list>
+<list> boy
+taleoftwo.txt 44 
+</list>
+<list> boys
+taleoftwo.txt 4 
+</list>
+<list> brandy
+taleoftwo.txt 4 
+</list>
+<list> brave
+taleoftwo.txt 3 
+</list>
+<list> bravely
+taleoftwo.txt 1 
+</list>
+<list> bravo
+taleoftwo.txt 1 
+</list>
+<list> brawling
+taleoftwo.txt 1 
+</list>
+<list> brawny
+taleoftwo.txt 1 
+</list>
+<list> brazen
+taleoftwo.txt 1 
+</list>
+<list> breach
+taleoftwo.txt 2 
+</list>
+<list> breath
+taleoftwo.txt 1 
+</list>
+<list> breathe
+taleoftwo.txt 1 
+</list>
+<list> breathed
+taleoftwo.txt 1 
+</list>
+<list> breathing
+taleoftwo.txt 7 
+</list>
+<list> breathless
+taleoftwo.txt 2 
+</list>
+<list> bred
+taleoftwo.txt 1 
+</list>
+<list> breeding
+taleoftwo.txt 4 
+</list>
+<list> brethren
+taleoftwo.txt 1 
+</list>
+<list> brevity
+taleoftwo.txt 1 
+</list>
+<list> brewery
+taleoftwo.txt 1 
+</list>
+<list> bring
+taleoftwo.txt 1 
+</list>
+<list> bringing
+taleoftwo.txt 1 
+</list>
+<list> british
+taleoftwo.txt 5 
+</list>
+<list> briton
+taleoftwo.txt 2 
+</list>
+<list> broken
+taleoftwo.txt 2 
+</list>
+<list> brought
+taleoftwo.txt 43 
+</list>
+<list> brown
+taleoftwo.txt 13 
+</list>
+<list> brows
+taleoftwo.txt 3 
+</list>
+<list> brute
+taleoftwo.txt 2 
+</list>
+<list> brutus
+taleoftwo.txt 4 
+</list>
+<list> buckles
+taleoftwo.txt 1 
+</list>
+<list> buffeted
+taleoftwo.txt 1 
+</list>
+<list> building
+taleoftwo.txt 1 
+</list>
+<list> buildings
+taleoftwo.txt 7 
+</list>
+<list> built
+taleoftwo.txt 4 
+</list>
+<list> bullets
+taleoftwo.txt 1 
+</list>
+<list> bully
+taleoftwo.txt 1 
+</list>
+<list> bullying
+taleoftwo.txt 2 
+</list>
+<list> bump
+taleoftwo.txt 1 
+</list>
+<list> bumped
+taleoftwo.txt 1 
+</list>
+<list> bumper
+taleoftwo.txt 3 
+</list>
+<list> bumpers
+taleoftwo.txt 1 
+</list>
+<list> bunch
+taleoftwo.txt 1 
+</list>
+<list> bunches
+taleoftwo.txt 1 
+</list>
+<list> bundle
+taleoftwo.txt 8 
+</list>
+<list> burnt
+taleoftwo.txt 2 
+</list>
+<list> burst
+taleoftwo.txt 3 
+</list>
+<list> bursting
+taleoftwo.txt 3 
+</list>
+<list> buryin
+taleoftwo.txt 1 
+</list>
+<list> burying
+taleoftwo.txt 1 
+</list>
+<list> busily
+taleoftwo.txt 1 
+</list>
+<list> business
+taleoftwo.txt 11 
+</list>
+<list> bustled
+taleoftwo.txt 1 
+</list>
+<list> busy
+taleoftwo.txt 11 
+</list>
+<list> but
+taleoftwo.txt 202 
+</list>
+<list> butcherly
+taleoftwo.txt 1 
+</list>
+<list> butchery
+taleoftwo.txt 1 
+</list>
+<list> butt
+taleoftwo.txt 2 
+</list>
+<list> butted
+taleoftwo.txt 1 
+</list>
+<list> butter
+taleoftwo.txt 3 
+</list>
+<list> buy
+taleoftwo.txt 6 
+</list>
+<list> buzz
+taleoftwo.txt 2 
+</list>
+<list> buzzed
+taleoftwo.txt 1 
+</list>
+<list> buzzing
+taleoftwo.txt 1 
+</list>
+<list> by
+taleoftwo.txt 594 
+</list>
+<list> bye
+taleoftwo.txt 9 
+</list>
+<list> byway
+taleoftwo.txt 1 
+</list>
+<list> byways
+taleoftwo.txt 1 
+</list>
+<list> c
+taleoftwo.txt 7 
+</list>
+<list> cabin
+taleoftwo.txt 2 
+</list>
+<list> cabinet
+taleoftwo.txt 1 
+</list>
+<list> cachet
+taleoftwo.txt 1 
+</list>
+<list> cadaverous
+taleoftwo.txt 2 
+</list>
+<list> cadence
+taleoftwo.txt 1 
+</list>
+<list> cage
+taleoftwo.txt 3 
+</list>
+<list> cages
+taleoftwo.txt 1 
+</list>
+<list> calculate
+taleoftwo.txt 1 
+</list>
+<list> calculated
+taleoftwo.txt 1 
+</list>
+<list> call
+taleoftwo.txt 1 
+</list>
+<list> called
+taleoftwo.txt 2 
+</list>
+<list> calling
+taleoftwo.txt 1 
+</list>
+<list> calm
+taleoftwo.txt 9 
+</list>
+<list> calmed
+taleoftwo.txt 1 
+</list>
+<list> calmly
+taleoftwo.txt 3 
+</list>
+<list> calmness
+taleoftwo.txt 2 
+</list>
+<list> cambridge
+taleoftwo.txt 1 
+</list>
+<list> came
+taleoftwo.txt 141 
+</list>
+<list> cannonier
+taleoftwo.txt 1 
+</list>
+<list> cannot
+taleoftwo.txt 16 
+</list>
+<list> canonised
+taleoftwo.txt 1 
+</list>
+<list> cant
+taleoftwo.txt 1 
+</list>
+<list> canter
+taleoftwo.txt 1 
+</list>
+<list> canvas
+taleoftwo.txt 1 
+</list>
+<list> cap
+taleoftwo.txt 2 
+</list>
+<list> capable
+taleoftwo.txt 1 
+</list>
+<list> capital
+taleoftwo.txt 1 
+</list>
+<list> captivity
+taleoftwo.txt 6 
+</list>
+<list> captured
+taleoftwo.txt 1 
+</list>
+<list> card
+taleoftwo.txt 1 
+</list>
+<list> carry
+taleoftwo.txt 1 
+</list>
+<list> cart
+taleoftwo.txt 4 
+</list>
+<list> carton
+taleoftwo.txt 1 
+</list>
+<list> cartridges
+taleoftwo.txt 1 
+</list>
+<list> carts
+taleoftwo.txt 7 
+</list>
+<list> carved
+taleoftwo.txt 2 
+</list>
+<list> carver
+taleoftwo.txt 1 
+</list>
+<list> cases
+taleoftwo.txt 1 
+</list>
+<list> cast
+taleoftwo.txt 3 
+</list>
+<list> caste
+taleoftwo.txt 2 
+</list>
+<list> casting
+taleoftwo.txt 4 
+</list>
+<list> casual
+taleoftwo.txt 2 
+</list>
+<list> casually
+taleoftwo.txt 1 
+</list>
+<list> catechist
+taleoftwo.txt 1 
+</list>
+<list> cathedral
+taleoftwo.txt 5 
+</list>
+<list> cattle
+taleoftwo.txt 2 
+</list>
+<list> caught
+taleoftwo.txt 1 
+</list>
+<list> cause
+taleoftwo.txt 2 
+</list>
+<list> caused
+taleoftwo.txt 4 
+</list>
+<list> cautionary
+taleoftwo.txt 1 
+</list>
+<list> cautious
+taleoftwo.txt 4 
+</list>
+<list> cautiously
+taleoftwo.txt 5 
+</list>
+<list> cavalcade
+taleoftwo.txt 1 
+</list>
+<list> cavalier
+taleoftwo.txt 1 
+</list>
+<list> cavalry
+taleoftwo.txt 1 
+</list>
+<list> cavernous
+taleoftwo.txt 1 
+</list>
+<list> cease
+taleoftwo.txt 3 
+</list>
+<list> ceased
+taleoftwo.txt 12 
+</list>
+<list> ceiling
+taleoftwo.txt 12 
+</list>
+<list> celestial
+taleoftwo.txt 1 
+</list>
+<list> cell
+taleoftwo.txt 2 
+</list>
+<list> cellars
+taleoftwo.txt 2 
+</list>
+<list> cells
+taleoftwo.txt 4 
+</list>
+<list> centre
+taleoftwo.txt 4 
+</list>
+<list> centres
+taleoftwo.txt 1 
+</list>
+<list> centuries
+taleoftwo.txt 2 
+</list>
+<list> certain
+taleoftwo.txt 5 
+</list>
+<list> certainty
+taleoftwo.txt 5 
+</list>
+<list> certificate
+taleoftwo.txt 4 
+</list>
+<list> cessation
+taleoftwo.txt 3 
+</list>
+<list> cesspools
+taleoftwo.txt 1 
+</list>
+<list> charges
+taleoftwo.txt 1 
+</list>
+<list> charitable
+taleoftwo.txt 1 
+</list>
+<list> charities
+taleoftwo.txt 1 
+</list>
+<list> charles
+taleoftwo.txt 8 
+</list>
+<list> charming
+taleoftwo.txt 1 
+</list>
+<list> chattered
+taleoftwo.txt 1 
+</list>
+<list> chatting
+taleoftwo.txt 2 
+</list>
+<list> check
+taleoftwo.txt 3 
+</list>
+<list> checks
+taleoftwo.txt 1 
+</list>
+<list> cheek
+taleoftwo.txt 1 
+</list>
+<list> chemist
+taleoftwo.txt 3 
+</list>
+<list> cherished
+taleoftwo.txt 2 
+</list>
+<list> cherishing
+taleoftwo.txt 1 
+</list>
+<list> chestnuts
+taleoftwo.txt 1 
+</list>
+<list> chewing
+taleoftwo.txt 2 
+</list>
+<list> chief
+taleoftwo.txt 1 
+</list>
+<list> child
+taleoftwo.txt 4 
+</list>
+<list> childhood
+taleoftwo.txt 2 
+</list>
+<list> children
+taleoftwo.txt 2 
+</list>
+<list> chimney
+taleoftwo.txt 3 
+</list>
+<list> chimneys
+taleoftwo.txt 2 
+</list>
+<list> chin
+taleoftwo.txt 1 
+</list>
+<list> chisel
+taleoftwo.txt 1 
+</list>
+<list> chiselled
+taleoftwo.txt 1 
+</list>
+<list> chivalrous
+taleoftwo.txt 1 
+</list>
+<list> choke
+taleoftwo.txt 3 
+</list>
+<list> choose
+taleoftwo.txt 3 
+</list>
+<list> chorus
+taleoftwo.txt 1 
+</list>
+<list> chosen
+taleoftwo.txt 2 
+</list>
+<list> choused
+taleoftwo.txt 1 
+</list>
+<list> christmas
+taleoftwo.txt 1 
+</list>
+<list> chronically
+taleoftwo.txt 1 
+</list>
+<list> chronicle
+taleoftwo.txt 1 
+</list>
+<list> church
+taleoftwo.txt 11 
+</list>
+<list> churches
+taleoftwo.txt 3 
+</list>
+<list> churchyard
+taleoftwo.txt 3 
+</list>
+<list> cinderella
+taleoftwo.txt 1 
+</list>
+<list> cinderous
+taleoftwo.txt 1 
+</list>
+<list> circumstances
+taleoftwo.txt 22 
+</list>
+<list> circumstantial
+taleoftwo.txt 2 
+</list>
+<list> circumwented
+taleoftwo.txt 1 
+</list>
+<list> citizens
+taleoftwo.txt 3 
+</list>
+<list> city
+taleoftwo.txt 38 
+</list>
+<list> civil
+taleoftwo.txt 1 
+</list>
+<list> claim
+taleoftwo.txt 1 
+</list>
+<list> clasped
+taleoftwo.txt 1 
+</list>
+<list> clasping
+taleoftwo.txt 1 
+</list>
+<list> clasps
+taleoftwo.txt 1 
+</list>
+<list> class
+taleoftwo.txt 1 
+</list>
+<list> clatter
+taleoftwo.txt 1 
+</list>
+<list> clattered
+taleoftwo.txt 2 
+</list>
+<list> clattering
+taleoftwo.txt 2 
+</list>
+<list> clay
+taleoftwo.txt 2 
+</list>
+<list> clearly
+taleoftwo.txt 3 
+</list>
+<list> clears
+taleoftwo.txt 1 
+</list>
+<list> clenched
+taleoftwo.txt 4 
+</list>
+<list> clerkenwell
+taleoftwo.txt 3 
+</list>
+<list> clerks
+taleoftwo.txt 7 
+</list>
+<list> climate
+taleoftwo.txt 1 
+</list>
+<list> climbing
+taleoftwo.txt 2 
+</list>
+<list> clinging
+taleoftwo.txt 6 
+</list>
+<list> clink
+taleoftwo.txt 1 
+</list>
+<list> clocks
+taleoftwo.txt 1 
+</list>
+<list> close
+taleoftwo.txt 2 
+</list>
+<list> clothes
+taleoftwo.txt 1 
+</list>
+<list> clouded
+taleoftwo.txt 1 
+</list>
+<list> clouds
+taleoftwo.txt 6 
+</list>
+<list> cloudy
+taleoftwo.txt 1 
+</list>
+<list> clustered
+taleoftwo.txt 1 
+</list>
+<list> clutched
+taleoftwo.txt 4 
+</list>
+<list> clutching
+taleoftwo.txt 3 
+</list>
+<list> cly
+taleoftwo.txt 14 
+</list>
+<list> co
+taleoftwo.txt 4 
+</list>
+<list> coach
+taleoftwo.txt 10 
+</list>
+<list> coarse
+taleoftwo.txt 6 
+</list>
+<list> coat
+taleoftwo.txt 17 
+</list>
+<list> coats
+taleoftwo.txt 1 
+</list>
+<list> coaxed
+taleoftwo.txt 1 
+</list>
+<list> cocked
+taleoftwo.txt 3 
+</list>
+<list> cocking
+taleoftwo.txt 1 
+</list>
+<list> code
+taleoftwo.txt 1 
+</list>
+<list> codes
+taleoftwo.txt 1 
+</list>
+<list> codgers
+taleoftwo.txt 1 
+</list>
+<list> coercion
+taleoftwo.txt 1 
+</list>
+<list> coffee
+taleoftwo.txt 10 
+</list>
+<list> coffin
+taleoftwo.txt 6 
+</list>
+<list> cogitated
+taleoftwo.txt 1 
+</list>
+<list> cogitation
+taleoftwo.txt 1 
+</list>
+<list> cognac
+taleoftwo.txt 7 
+</list>
+<list> coherently
+taleoftwo.txt 1 
+</list>
+<list> coinage
+taleoftwo.txt 1 
+</list>
+<list> coiner
+taleoftwo.txt 1 
+</list>
+<list> coins
+taleoftwo.txt 1 
+</list>
+<list> coldly
+taleoftwo.txt 1 
+</list>
+<list> collection
+taleoftwo.txt 4 
+</list>
+<list> colour
+taleoftwo.txt 1 
+</list>
+<list> coloured
+taleoftwo.txt 1 
+</list>
+<list> colours
+taleoftwo.txt 3 
+</list>
+<list> committed
+taleoftwo.txt 1 
+</list>
+<list> compliance
+taleoftwo.txt 4 
+</list>
+<list> complying
+taleoftwo.txt 1 
+</list>
+<list> computer
+taleoftwo.txt 2 
+</list>
+<list> computers
+taleoftwo.txt 2 
+</list>
+<list> comrade
+taleoftwo.txt 1 
+</list>
+<list> comrades
+taleoftwo.txt 1 
+</list>
+<list> concerning
+taleoftwo.txt 1 
+</list>
+<list> confirmed
+taleoftwo.txt 1 
+</list>
+<list> contract
+taleoftwo.txt 1 
+</list>
+<list> contributions
+taleoftwo.txt 2 
+</list>
+<list> converse
+taleoftwo.txt 1 
+</list>
+<list> convert
+taleoftwo.txt 1 
+</list>
+<list> conveyance
+taleoftwo.txt 1 
+</list>
+<list> conwenient
+taleoftwo.txt 1 
+</list>
+<list> conwey
+taleoftwo.txt 1 
+</list>
+<list> conwictions
+taleoftwo.txt 1 
+</list>
+<list> coolest
+taleoftwo.txt 2 
+</list>
+<list> coolly
+taleoftwo.txt 2 
+</list>
+<list> copying
+taleoftwo.txt 4 
+</list>
+<list> copyright
+taleoftwo.txt 14 
+</list>
+<list> coquetry
+taleoftwo.txt 1 
+</list>
+<list> coquette
+taleoftwo.txt 1 
+</list>
+<list> corporation
+taleoftwo.txt 1 
+</list>
+<list> corroborate
+taleoftwo.txt 1 
+</list>
+<list> corrupt
+taleoftwo.txt 1 
+</list>
+<list> corrupted
+taleoftwo.txt 1 
+</list>
+<list> corruption
+taleoftwo.txt 1 
+</list>
+<list> cost
+taleoftwo.txt 6 
+</list>
+<list> costs
+taleoftwo.txt 2 
+</list>
+<list> cottage
+taleoftwo.txt 2 
+</list>
+<list> cottages
+taleoftwo.txt 2 
+</list>
+<list> could
+taleoftwo.txt 1 
+</list>
+<list> countries
+taleoftwo.txt 1 
+</list>
+<list> country
+taleoftwo.txt 3 
+</list>
+<list> course
+taleoftwo.txt 2 
+</list>
+<list> courtyards
+taleoftwo.txt 1 
+</list>
+<list> cousin
+taleoftwo.txt 1 
+</list>
+<list> cover
+taleoftwo.txt 1 
+</list>
+<list> covered
+taleoftwo.txt 1 
+</list>
+<list> covering
+taleoftwo.txt 1 
+</list>
+<list> coverlet
+taleoftwo.txt 2 
+</list>
+<list> cow
+taleoftwo.txt 1 
+</list>
+<list> cowardice
+taleoftwo.txt 1 
+</list>
+<list> cowed
+taleoftwo.txt 1 
+</list>
+<list> cows
+taleoftwo.txt 4 
+</list>
+<list> crash
+taleoftwo.txt 2 
+</list>
+<list> crashing
+taleoftwo.txt 1 
+</list>
+<list> crawling
+taleoftwo.txt 1 
+</list>
+<list> crazed
+taleoftwo.txt 2 
+</list>
+<list> crazy
+taleoftwo.txt 2 
+</list>
+<list> created
+taleoftwo.txt 1 
+</list>
+<list> creature
+taleoftwo.txt 1 
+</list>
+<list> credit
+taleoftwo.txt 1 
+</list>
+<list> creeping
+taleoftwo.txt 1 
+</list>
+<list> creeturs
+taleoftwo.txt 1 
+</list>
+<list> crestfallen
+taleoftwo.txt 1 
+</list>
+<list> crevice
+taleoftwo.txt 2 
+</list>
+<list> crew
+taleoftwo.txt 1 
+</list>
+<list> crisply
+taleoftwo.txt 1 
+</list>
+<list> critical
+taleoftwo.txt 1 
+</list>
+<list> crouching
+taleoftwo.txt 1 
+</list>
+<list> crowd
+taleoftwo.txt 11 
+</list>
+<list> crowded
+taleoftwo.txt 1 
+</list>
+<list> crown
+taleoftwo.txt 5 
+</list>
+<list> crowning
+taleoftwo.txt 1 
+</list>
+<list> crowns
+taleoftwo.txt 1 
+</list>
+<list> crumble
+taleoftwo.txt 1 
+</list>
+<list> crunches
+taleoftwo.txt 2 
+</list>
+<list> crush
+taleoftwo.txt 2 
+</list>
+<list> crushed
+taleoftwo.txt 2 
+</list>
+<list> cry
+taleoftwo.txt 11 
+</list>
+<list> crying
+taleoftwo.txt 3 
+</list>
+<list> crystal
+taleoftwo.txt 1 
+</list>
+<list> crystallisation
+taleoftwo.txt 1 
+</list>
+<list> cud
+taleoftwo.txt 1 
+</list>
+<list> cuffs
+taleoftwo.txt 1 
+</list>
+<list> culminating
+taleoftwo.txt 1 
+</list>
+<list> culpability
+taleoftwo.txt 1 
+</list>
+<list> cultivated
+taleoftwo.txt 2 
+</list>
+<list> cunning
+taleoftwo.txt 1 
+</list>
+<list> cunningly
+taleoftwo.txt 1 
+</list>
+<list> cupboard
+taleoftwo.txt 1 
+</list>
+<list> cupid
+taleoftwo.txt 2 
+</list>
+<list> cupids
+taleoftwo.txt 2 
+</list>
+<list> cups
+taleoftwo.txt 1 
+</list>
+<list> curiosity
+taleoftwo.txt 2 
+</list>
+<list> current
+taleoftwo.txt 1 
+</list>
+<list> curses
+taleoftwo.txt 1 
+</list>
+<list> curtain
+taleoftwo.txt 1 
+</list>
+<list> curtains
+taleoftwo.txt 2 
+</list>
+<list> curtseyed
+taleoftwo.txt 1 
+</list>
+<list> curtseys
+taleoftwo.txt 1 
+</list>
+<list> curved
+taleoftwo.txt 1 
+</list>
+<list> customer
+taleoftwo.txt 7 
+</list>
+<list> customers
+taleoftwo.txt 18 
+</list>
+<list> customs
+taleoftwo.txt 1 
+</list>
+<list> cutler
+taleoftwo.txt 1 
+</list>
+<list> cutter
+taleoftwo.txt 1 
+</list>
+<list> cutting
+taleoftwo.txt 1 
+</list>
+<list> cylinder
+taleoftwo.txt 1 
+</list>
+<list> d
+taleoftwo.txt 20 
+</list>
+<list> dab
+taleoftwo.txt 1 
+</list>
+<list> dagger
+taleoftwo.txt 1 
+</list>
+<list> daggers
+taleoftwo.txt 1 
+</list>
+<list> daily
+taleoftwo.txt 6 
+</list>
+<list> dainty
+taleoftwo.txt 3 
+</list>
+<list> damaged
+taleoftwo.txt 1 
+</list>
+<list> damages
+taleoftwo.txt 4 
+</list>
+<list> damned
+taleoftwo.txt 1 
+</list>
+<list> damp
+taleoftwo.txt 8 
+</list>
+<list> dance
+taleoftwo.txt 1 
+</list>
+<list> danger
+taleoftwo.txt 18 
+</list>
+<list> dangerous
+taleoftwo.txt 7 
+</list>
+<list> dangers
+taleoftwo.txt 1 
+</list>
+<list> dangling
+taleoftwo.txt 2 
+</list>
+<list> dank
+taleoftwo.txt 1 
+</list>
+<list> dark
+taleoftwo.txt 3 
+</list>
+<list> darling
+taleoftwo.txt 8 
+</list>
+<list> darlings
+taleoftwo.txt 1 
+</list>
+<list> darnay
+taleoftwo.txt 148 
+</list>
+<list> darted
+taleoftwo.txt 4 
+</list>
+<list> darting
+taleoftwo.txt 2 
+</list>
+<list> dashed
+taleoftwo.txt 1 
+</list>
+<list> data
+taleoftwo.txt 1 
+</list>
+<list> date
+taleoftwo.txt 5 
+</list>
+<list> dated
+taleoftwo.txt 3 
+</list>
+<list> dates
+taleoftwo.txt 1 
+</list>
+<list> daughter
+taleoftwo.txt 71 
+</list>
+<list> daughters
+taleoftwo.txt 2 
+</list>
+<list> dawn
+taleoftwo.txt 3 
+</list>
+<list> dawning
+taleoftwo.txt 2 
+</list>
+<list> daylight
+taleoftwo.txt 3 
+</list>
+<list> days
+taleoftwo.txt 54 
+</list>
+<list> dazed
+taleoftwo.txt 1 
+</list>
+<list> de
+taleoftwo.txt 5 
+</list>
+<list> dead
+taleoftwo.txt 1 
+</list>
+<list> dear
+taleoftwo.txt 1 
+</list>
+<list> dearly
+taleoftwo.txt 2 
+</list>
+<list> death
+taleoftwo.txt 67 
+</list>
+<list> debating
+taleoftwo.txt 2 
+</list>
+<list> debauchery
+taleoftwo.txt 1 
+</list>
+<list> debt
+taleoftwo.txt 1 
+</list>
+<list> debtors
+taleoftwo.txt 2 
+</list>
+<list> decided
+taleoftwo.txt 1 
+</list>
+<list> declare
+taleoftwo.txt 1 
+</list>
+<list> declared
+taleoftwo.txt 3 
+</list>
+<list> declaring
+taleoftwo.txt 1 
+</list>
+<list> decorated
+taleoftwo.txt 1 
+</list>
+<list> decree
+taleoftwo.txt 6 
+</list>
+<list> decreed
+taleoftwo.txt 2 
+</list>
+<list> decrees
+taleoftwo.txt 1 
+</list>
+<list> deducing
+taleoftwo.txt 1 
+</list>
+<list> deductible
+taleoftwo.txt 1 
+</list>
+<list> deducting
+taleoftwo.txt 1 
+</list>
+<list> deed
+taleoftwo.txt 1 
+</list>
+<list> deeds
+taleoftwo.txt 1 
+</list>
+<list> deep
+taleoftwo.txt 3 
+</list>
+<list> deeply
+taleoftwo.txt 6 
+</list>
+<list> deer
+taleoftwo.txt 1 
+</list>
+<list> defect
+taleoftwo.txt 3 
+</list>
+<list> defective
+taleoftwo.txt 3 
+</list>
+<list> defects
+taleoftwo.txt 1 
+</list>
+<list> defend
+taleoftwo.txt 1 
+</list>
+<list> definite
+taleoftwo.txt 1 
+</list>
+<list> deftly
+taleoftwo.txt 1 
+</list>
+<list> defy
+taleoftwo.txt 1 
+</list>
+<list> degree
+taleoftwo.txt 11 
+</list>
+<list> degrees
+taleoftwo.txt 8 
+</list>
+<list> deigning
+taleoftwo.txt 1 
+</list>
+<list> dejected
+taleoftwo.txt 4 
+</list>
+<list> dejectedly
+taleoftwo.txt 1 
+</list>
+<list> delay
+taleoftwo.txt 2 
+</list>
+<list> deletions
+taleoftwo.txt 1 
+</list>
+<list> deluge
+taleoftwo.txt 2 
+</list>
+<list> delusion
+taleoftwo.txt 2 
+</list>
+<list> delve
+taleoftwo.txt 1 
+</list>
+<list> demand
+taleoftwo.txt 3 
+</list>
+<list> demonstration
+taleoftwo.txt 2 
+</list>
+<list> demonstrative
+taleoftwo.txt 2 
+</list>
+<list> demur
+taleoftwo.txt 2 
+</list>
+<list> denote
+taleoftwo.txt 1 
+</list>
+<list> dens
+taleoftwo.txt 1 
+</list>
+<list> dense
+taleoftwo.txt 1 
+</list>
+<list> denunciation
+taleoftwo.txt 6 
+</list>
+<list> deny
+taleoftwo.txt 1 
+</list>
+<list> denying
+taleoftwo.txt 1 
+</list>
+<list> depended
+taleoftwo.txt 2 
+</list>
+<list> depends
+taleoftwo.txt 2 
+</list>
+<list> deprecatory
+taleoftwo.txt 1 
+</list>
+<list> depth
+taleoftwo.txt 3 
+</list>
+<list> depths
+taleoftwo.txt 6 
+</list>
+<list> derivative
+taleoftwo.txt 3 
+</list>
+<list> derive
+taleoftwo.txt 1 
+</list>
+<list> derived
+taleoftwo.txt 6 
+</list>
+<list> dervishes
+taleoftwo.txt 1 
+</list>
+<list> descendants
+taleoftwo.txt 1 
+</list>
+<list> described
+taleoftwo.txt 1 
+</list>
+<list> despite
+taleoftwo.txt 1 
+</list>
+<list> destroy
+taleoftwo.txt 2 
+</list>
+<list> destroyed
+taleoftwo.txt 3 
+</list>
+<list> destruction
+taleoftwo.txt 8 
+</list>
+<list> destructive
+taleoftwo.txt 1 
+</list>
+<list> determination
+taleoftwo.txt 1 
+</list>
+<list> determine
+taleoftwo.txt 1 
+</list>
+<list> determined
+taleoftwo.txt 1 
+</list>
+<list> detestation
+taleoftwo.txt 1 
+</list>
+<list> detested
+taleoftwo.txt 3 
+</list>
+<list> detriment
+taleoftwo.txt 1 
+</list>
+<list> devoted
+taleoftwo.txt 1 
+</list>
+<list> devouring
+taleoftwo.txt 1 
+</list>
+<list> devoutest
+taleoftwo.txt 1 
+</list>
+<list> devoutly
+taleoftwo.txt 1 
+</list>
+<list> dewelop
+taleoftwo.txt 2 
+</list>
+<list> dexterously
+taleoftwo.txt 1 
+</list>
+<list> dialogue
+taleoftwo.txt 1 
+</list>
+<list> diamond
+taleoftwo.txt 3 
+</list>
+<list> diamonds
+taleoftwo.txt 2 
+</list>
+<list> dickens
+taleoftwo.txt 1 
+</list>
+<list> dictate
+taleoftwo.txt 1 
+</list>
+<list> dictated
+taleoftwo.txt 1 
+</list>
+<list> dictating
+taleoftwo.txt 1 
+</list>
+<list> dictionary
+taleoftwo.txt 1 
+</list>
+<list> did
+taleoftwo.txt 59 
+</list>
+<list> didn
+taleoftwo.txt 9 
+</list>
+<list> didst
+taleoftwo.txt 1 
+</list>
+<list> die
+taleoftwo.txt 2 
+</list>
+<list> died
+taleoftwo.txt 21 
+</list>
+<list> dies
+taleoftwo.txt 1 
+</list>
+<list> different
+taleoftwo.txt 2 
+</list>
+<list> differing
+taleoftwo.txt 1 
+</list>
+<list> difficult
+taleoftwo.txt 4 
+</list>
+<list> difficulty
+taleoftwo.txt 15 
+</list>
+<list> diffidence
+taleoftwo.txt 2 
+</list>
+<list> digestive
+taleoftwo.txt 1 
+</list>
+<list> diggin
+taleoftwo.txt 2 
+</list>
+<list> digging
+taleoftwo.txt 3 
+</list>
+<list> dignity
+taleoftwo.txt 2 
+</list>
+<list> dilated
+taleoftwo.txt 2 
+</list>
+<list> dim
+taleoftwo.txt 3 
+</list>
+<list> dimly
+taleoftwo.txt 4 
+</list>
+<list> dimmed
+taleoftwo.txt 1 
+</list>
+<list> dimmer
+taleoftwo.txt 1 
+</list>
+<list> dined
+taleoftwo.txt 1 
+</list>
+<list> dinner
+taleoftwo.txt 2 
+</list>
+<list> dinners
+taleoftwo.txt 1 
+</list>
+<list> dints
+taleoftwo.txt 3 
+</list>
+<list> diplomacy
+taleoftwo.txt 1 
+</list>
+<list> dipped
+taleoftwo.txt 5 
+</list>
+<list> directly
+taleoftwo.txt 2 
+</list>
+<list> director
+taleoftwo.txt 1 
+</list>
+<list> dirtied
+taleoftwo.txt 1 
+</list>
+<list> dirtier
+taleoftwo.txt 1 
+</list>
+<list> dirty
+taleoftwo.txt 6 
+</list>
+<list> discover
+taleoftwo.txt 1 
+</list>
+<list> distributed
+taleoftwo.txt 2 
+</list>
+<list> distribution
+taleoftwo.txt 6 
+</list>
+<list> distributor
+taleoftwo.txt 1 
+</list>
+<list> disturbed
+taleoftwo.txt 8 
+</list>
+<list> disturbing
+taleoftwo.txt 2 
+</list>
+<list> disuse
+taleoftwo.txt 1 
+</list>
+<list> disused
+taleoftwo.txt 1 
+</list>
+<list> ditch
+taleoftwo.txt 3 
+</list>
+<list> ditches
+taleoftwo.txt 1 
+</list>
+<list> diversion
+taleoftwo.txt 1 
+</list>
+<list> diversity
+taleoftwo.txt 1 
+</list>
+<list> divine
+taleoftwo.txt 2 
+</list>
+<list> divined
+taleoftwo.txt 1 
+</list>
+<list> divinities
+taleoftwo.txt 1 
+</list>
+<list> division
+taleoftwo.txt 1 
+</list>
+<list> do
+taleoftwo.txt 320 
+</list>
+<list> doctor
+taleoftwo.txt 20 
+</list>
+<list> doctrine
+taleoftwo.txt 1 
+</list>
+<list> doctrines
+taleoftwo.txt 1 
+</list>
+<list> document
+taleoftwo.txt 2 
+</list>
+<list> documents
+taleoftwo.txt 2 
+</list>
+<list> does
+taleoftwo.txt 42 
+</list>
+<list> doesn
+taleoftwo.txt 6 
+</list>
+<list> doffed
+taleoftwo.txt 1 
+</list>
+<list> dog
+taleoftwo.txt 3 
+</list>
+<list> doggedly
+taleoftwo.txt 1 
+</list>
+<list> dogs
+taleoftwo.txt 15 
+</list>
+<list> doing
+taleoftwo.txt 11 
+</list>
+<list> doleful
+taleoftwo.txt 2 
+</list>
+<list> dolls
+taleoftwo.txt 2 
+</list>
+<list> dolorous
+taleoftwo.txt 1 
+</list>
+<list> dolt
+taleoftwo.txt 1 
+</list>
+<list> domain
+taleoftwo.txt 8 
+</list>
+<list> dominated
+taleoftwo.txt 1 
+</list>
+<list> dominion
+taleoftwo.txt 1 
+</list>
+<list> dominions
+taleoftwo.txt 2 
+</list>
+<list> dominoes
+taleoftwo.txt 4 
+</list>
+<list> donation
+taleoftwo.txt 1 
+</list>
+<list> donations
+taleoftwo.txt 5 
+</list>
+<list> done
+taleoftwo.txt 98 
+</list>
+<list> donors
+taleoftwo.txt 1 
+</list>
+<list> door
+taleoftwo.txt 6 
+</list>
+<list> doorpost
+taleoftwo.txt 2 
+</list>
+<list> doors
+taleoftwo.txt 14 
+</list>
+<list> doorway
+taleoftwo.txt 5 
+</list>
+<list> doorways
+taleoftwo.txt 3 
+</list>
+<list> dormant
+taleoftwo.txt 1 
+</list>
+<list> dormer
+taleoftwo.txt 1 
+</list>
+<list> dose
+taleoftwo.txt 1 
+</list>
+<list> doubted
+taleoftwo.txt 1 
+</list>
+<list> doubtful
+taleoftwo.txt 1 
+</list>
+<list> doubting
+taleoftwo.txt 1 
+</list>
+<list> doubtless
+taleoftwo.txt 2 
+</list>
+<list> doubts
+taleoftwo.txt 5 
+</list>
+<list> dover
+taleoftwo.txt 16 
+</list>
+<list> down
+taleoftwo.txt 180 
+</list>
+<list> downloading
+taleoftwo.txt 1 
+</list>
+<list> downstairs
+taleoftwo.txt 6 
+</list>
+<list> downward
+taleoftwo.txt 1 
+</list>
+<list> dozen
+taleoftwo.txt 2 
+</list>
+<list> dozens
+taleoftwo.txt 2 
+</list>
+<list> dozing
+taleoftwo.txt 3 
+</list>
+<list> dr
+taleoftwo.txt 2 
+</list>
+<list> dragged
+taleoftwo.txt 1 
+</list>
+<list> draw
+taleoftwo.txt 1 
+</list>
+<list> drawing
+taleoftwo.txt 1 
+</list>
+<list> drawl
+taleoftwo.txt 1 
+</list>
+<list> drawn
+taleoftwo.txt 20 
+</list>
+<list> dread
+taleoftwo.txt 1 
+</list>
+<list> dreadful
+taleoftwo.txt 4 
+</list>
+<list> dress
+taleoftwo.txt 1 
+</list>
+<list> dressing
+taleoftwo.txt 1 
+</list>
+<list> drew
+taleoftwo.txt 15 
+</list>
+<list> dripping
+taleoftwo.txt 1 
+</list>
+<list> driver
+taleoftwo.txt 5 
+</list>
+<list> drives
+taleoftwo.txt 1 
+</list>
+<list> driving
+taleoftwo.txt 8 
+</list>
+<list> drooping
+taleoftwo.txt 1 
+</list>
+<list> dropped
+taleoftwo.txt 1 
+</list>
+<list> drowned
+taleoftwo.txt 3 
+</list>
+<list> drowning
+taleoftwo.txt 2 
+</list>
+<list> drums
+taleoftwo.txt 2 
+</list>
+<list> drunk
+taleoftwo.txt 1 
+</list>
+<list> drunken
+taleoftwo.txt 4 
+</list>
+<list> drunkenness
+taleoftwo.txt 1 
+</list>
+<list> dry
+taleoftwo.txt 9 
+</list>
+<list> drying
+taleoftwo.txt 1 
+</list>
+<list> dubious
+taleoftwo.txt 1 
+</list>
+<list> dubiously
+taleoftwo.txt 3 
+</list>
+<list> ducked
+taleoftwo.txt 1 
+</list>
+<list> due
+taleoftwo.txt 5 
+</list>
+<list> dues
+taleoftwo.txt 1 
+</list>
+<list> dug
+taleoftwo.txt 5 
+</list>
+<list> dull
+taleoftwo.txt 12 
+</list>
+<list> duly
+taleoftwo.txt 1 
+</list>
+<list> dumb
+taleoftwo.txt 3 
+</list>
+<list> dumpling
+taleoftwo.txt 1 
+</list>
+<list> dungeon
+taleoftwo.txt 1 
+</list>
+<list> dunstan
+taleoftwo.txt 1 
+</list>
+<list> during
+taleoftwo.txt 18 
+</list>
+<list> durst
+taleoftwo.txt 1 
+</list>
+<list> dusk
+taleoftwo.txt 1 
+</list>
+<list> dust
+taleoftwo.txt 21 
+</list>
+<list> dusty
+taleoftwo.txt 5 
+</list>
+<list> duties
+taleoftwo.txt 1 
+</list>
+<list> dutiful
+taleoftwo.txt 2 
+</list>
+<list> duty
+taleoftwo.txt 18 
+</list>
+<list> dwarf
+taleoftwo.txt 1 
+</list>
+<list> dwell
+taleoftwo.txt 1 
+</list>
+<list> dwelling
+taleoftwo.txt 3 
+</list>
+<list> dwelt
+taleoftwo.txt 2 
+</list>
+<list> dye
+taleoftwo.txt 3 
+</list>
+<list> dyed
+taleoftwo.txt 2 
+</list>
+<list> dyeing
+taleoftwo.txt 1 
+</list>
+<list> dying
+taleoftwo.txt 8 
+</list>
+<list> e
+taleoftwo.txt 24 
+</list>
+<list> each
+taleoftwo.txt 26 
+</list>
+<list> eager
+taleoftwo.txt 2 
+</list>
+<list> eagerly
+taleoftwo.txt 1 
+</list>
+<list> eagerness
+taleoftwo.txt 4 
+</list>
+<list> eagles
+taleoftwo.txt 1 
+</list>
+<list> earth
+taleoftwo.txt 15 
+</list>
+<list> earthly
+taleoftwo.txt 5 
+</list>
+<list> earthquake
+taleoftwo.txt 2 
+</list>
+<list> easily
+taleoftwo.txt 1 
+</list>
+<list> eastward
+taleoftwo.txt 1 
+</list>
+<list> easy
+taleoftwo.txt 14 
+</list>
+<list> eat
+taleoftwo.txt 6 
+</list>
+<list> eaten
+taleoftwo.txt 3 
+</list>
+<list> eating
+taleoftwo.txt 2 
+</list>
+<list> eavesdropper
+taleoftwo.txt 2 
+</list>
+<list> ebb
+taleoftwo.txt 1 
+</list>
+<list> ebbing
+taleoftwo.txt 1 
+</list>
+<list> ebook
+taleoftwo.txt 11 
+</list>
+<list> ebooks
+taleoftwo.txt 7 
+</list>
+<list> eccentric
+taleoftwo.txt 1 
+</list>
+<list> eccentricity
+taleoftwo.txt 1 
+</list>
+<list> ecclesiastic
+taleoftwo.txt 1 
+</list>
+<list> ecclesiastics
+taleoftwo.txt 1 
+</list>
+<list> echoed
+taleoftwo.txt 3 
+</list>
+<list> echoes
+taleoftwo.txt 19 
+</list>
+<list> echoing
+taleoftwo.txt 5 
+</list>
+<list> echoless
+taleoftwo.txt 1 
+</list>
+<list> ecod
+taleoftwo.txt 1 
+</list>
+<list> economy
+taleoftwo.txt 1 
+</list>
+<list> eddy
+taleoftwo.txt 1 
+</list>
+<list> eddying
+taleoftwo.txt 1 
+</list>
+<list> eden
+taleoftwo.txt 1 
+</list>
+<list> edge
+taleoftwo.txt 4 
+</list>
+<list> edifying
+taleoftwo.txt 1 
+</list>
+<list> edition
+taleoftwo.txt 1 
+</list>
+<list> editions
+taleoftwo.txt 4 
+</list>
+<list> editor
+taleoftwo.txt 1 
+</list>
+<list> educational
+taleoftwo.txt 1 
+</list>
+<list> effort
+taleoftwo.txt 7 
+</list>
+<list> efforts
+taleoftwo.txt 8 
+</list>
+<list> egress
+taleoftwo.txt 1 
+</list>
+<list> eh
+taleoftwo.txt 9 
+</list>
+<list> eight
+taleoftwo.txt 5 
+</list>
+<list> eighteen
+taleoftwo.txt 2 
+</list>
+<list> eighth
+taleoftwo.txt 1 
+</list>
+<list> eightieth
+taleoftwo.txt 1 
+</list>
+<list> eighty
+taleoftwo.txt 5 
+</list>
+<list> ein
+taleoftwo.txt 1 
+</list>
+<list> either
+taleoftwo.txt 32 
+</list>
+<list> ejaculated
+taleoftwo.txt 1 
+</list>
+<list> eke
+taleoftwo.txt 1 
+</list>
+<list> elastic
+taleoftwo.txt 1 
+</list>
+<list> elate
+taleoftwo.txt 1 
+</list>
+<list> elbow
+taleoftwo.txt 9 
+</list>
+<list> elbows
+taleoftwo.txt 4 
+</list>
+<list> elder
+taleoftwo.txt 13 
+</list>
+<list> elderly
+taleoftwo.txt 5 
+</list>
+<list> electronic
+taleoftwo.txt 27 
+</list>
+<list> electronically
+taleoftwo.txt 2 
+</list>
+<list> elevated
+taleoftwo.txt 2 
+</list>
+<list> elevation
+taleoftwo.txt 1 
+</list>
+<list> eleven
+taleoftwo.txt 5 
+</list>
+<list> elicit
+taleoftwo.txt 2 
+</list>
+<list> elicited
+taleoftwo.txt 2 
+</list>
+<list> eligible
+taleoftwo.txt 4 
+</list>
+<list> elongate
+taleoftwo.txt 1 
+</list>
+<list> eloquent
+taleoftwo.txt 1 
+</list>
+<list> else
+taleoftwo.txt 26 
+</list>
+<list> elsewhere
+taleoftwo.txt 5 
+</list>
+<list> em
+taleoftwo.txt 13 
+</list>
+<list> emaciated
+taleoftwo.txt 1 
+</list>
+<list> email
+taleoftwo.txt 3 
+</list>
+<list> embrace
+taleoftwo.txt 3 
+</list>
+<list> embraced
+taleoftwo.txt 2 
+</list>
+<list> embroidered
+taleoftwo.txt 1 
+</list>
+<list> embroidering
+taleoftwo.txt 1 
+</list>
+<list> embroidery
+taleoftwo.txt 1 
+</list>
+<list> emergence
+taleoftwo.txt 1 
+</list>
+<list> emergency
+taleoftwo.txt 1 
+</list>
+<list> emerging
+taleoftwo.txt 2 
+</list>
+<list> emissaries
+taleoftwo.txt 1 
+</list>
+<list> emissary
+taleoftwo.txt 2 
+</list>
+<list> emotion
+taleoftwo.txt 4 
+</list>
+<list> emotional
+taleoftwo.txt 1 
+</list>
+<list> emotions
+taleoftwo.txt 3 
+</list>
+<list> employee
+taleoftwo.txt 1 
+</list>
+<list> employees
+taleoftwo.txt 2 
+</list>
+<list> empties
+taleoftwo.txt 1 
+</list>
+<list> empty
+taleoftwo.txt 9 
+</list>
+<list> emptying
+taleoftwo.txt 1 
+</list>
+<list> emulative
+taleoftwo.txt 1 
+</list>
+<list> enables
+taleoftwo.txt 1 
+</list>
+<list> enabling
+taleoftwo.txt 1 
+</list>
+<list> enchanted
+taleoftwo.txt 1 
+</list>
+<list> enchanter
+taleoftwo.txt 1 
+</list>
+<list> encircled
+taleoftwo.txt 1 
+</list>
+<list> encouragement
+taleoftwo.txt 2 
+</list>
+<list> encouraging
+taleoftwo.txt 3 
+</list>
+<list> encumbered
+taleoftwo.txt 1 
+</list>
+<list> end
+taleoftwo.txt 2 
+</list>
+<list> ends
+taleoftwo.txt 1 
+</list>
+<list> endurance
+taleoftwo.txt 1 
+</list>
+<list> endure
+taleoftwo.txt 3 
+</list>
+<list> endured
+taleoftwo.txt 1 
+</list>
+<list> enduring
+taleoftwo.txt 1 
+</list>
+<list> enemies
+taleoftwo.txt 2 
+</list>
+<list> enemy
+taleoftwo.txt 1 
+</list>
+<list> energetic
+taleoftwo.txt 2 
+</list>
+<list> energy
+taleoftwo.txt 6 
+</list>
+<list> enfolded
+taleoftwo.txt 1 
+</list>
+<list> enfolding
+taleoftwo.txt 1 
+</list>
+<list> enforced
+taleoftwo.txt 1 
+</list>
+<list> enforcing
+taleoftwo.txt 1 
+</list>
+<list> engine
+taleoftwo.txt 1 
+</list>
+<list> england
+taleoftwo.txt 1 
+</list>
+<list> english
+taleoftwo.txt 2 
+</list>
+<list> englishman
+taleoftwo.txt 6 
+</list>
+<list> englishwoman
+taleoftwo.txt 1 
+</list>
+<list> engrained
+taleoftwo.txt 1 
+</list>
+<list> engrossing
+taleoftwo.txt 1 
+</list>
+<list> enjoyable
+taleoftwo.txt 1 
+</list>
+<list> enjoying
+taleoftwo.txt 1 
+</list>
+<list> enjoyment
+taleoftwo.txt 4 
+</list>
+<list> enlarged
+taleoftwo.txt 1 
+</list>
+<list> enough
+taleoftwo.txt 71 
+</list>
+<list> enraged
+taleoftwo.txt 1 
+</list>
+<list> enriching
+taleoftwo.txt 1 
+</list>
+<list> ensured
+taleoftwo.txt 1 
+</list>
+<list> ensuring
+taleoftwo.txt 2 
+</list>
+<list> entity
+taleoftwo.txt 3 
+</list>
+<list> entreating
+taleoftwo.txt 1 
+</list>
+<list> entreats
+taleoftwo.txt 1 
+</list>
+<list> entreaty
+taleoftwo.txt 3 
+</list>
+<list> entries
+taleoftwo.txt 2 
+</list>
+<list> entrusted
+taleoftwo.txt 2 
+</list>
+<list> entry
+taleoftwo.txt 1 
+</list>
+<list> enumerated
+taleoftwo.txt 1 
+</list>
+<list> environing
+taleoftwo.txt 1 
+</list>
+<list> envy
+taleoftwo.txt 1 
+</list>
+<list> epicure
+taleoftwo.txt 1 
+</list>
+<list> episcopal
+taleoftwo.txt 1 
+</list>
+<list> epoch
+taleoftwo.txt 2 
+</list>
+<list> equipages
+taleoftwo.txt 2 
+</list>
+<list> equipment
+taleoftwo.txt 3 
+</list>
+<list> equipped
+taleoftwo.txt 1 
+</list>
+<list> era
+taleoftwo.txt 2 
+</list>
+<list> erase
+taleoftwo.txt 2 
+</list>
+<list> ernest
+taleoftwo.txt 3 
+</list>
+<list> erring
+taleoftwo.txt 1 
+</list>
+<list> errors
+taleoftwo.txt 2 
+</list>
+<list> erst
+taleoftwo.txt 1 
+</list>
+<list> es
+taleoftwo.txt 1 
+</list>
+<list> escaping
+taleoftwo.txt 1 
+</list>
+<list> escort
+taleoftwo.txt 15 
+</list>
+<list> escorted
+taleoftwo.txt 8 
+</list>
+<list> escutcheon
+taleoftwo.txt 1 
+</list>
+<list> especial
+taleoftwo.txt 1 
+</list>
+<list> especially
+taleoftwo.txt 7 
+</list>
+<list> essence
+taleoftwo.txt 1 
+</list>
+<list> essential
+taleoftwo.txt 2 
+</list>
+<list> establishment
+taleoftwo.txt 1 
+</list>
+<list> esteemed
+taleoftwo.txt 1 
+</list>
+<list> estimate
+taleoftwo.txt 1 
+</list>
+<list> estranged
+taleoftwo.txt 1 
+</list>
+<list> estrangement
+taleoftwo.txt 1 
+</list>
+<list> eternal
+taleoftwo.txt 3 
+</list>
+<list> eternally
+taleoftwo.txt 1 
+</list>
+<list> eternity
+taleoftwo.txt 1 
+</list>
+<list> european
+taleoftwo.txt 1 
+</list>
+<list> evaded
+taleoftwo.txt 1 
+</list>
+<list> evanescence
+taleoftwo.txt 1 
+</list>
+<list> evasively
+taleoftwo.txt 1 
+</list>
+<list> even
+taleoftwo.txt 2 
+</list>
+<list> events
+taleoftwo.txt 1 
+</list>
+<list> ever
+taleoftwo.txt 5 
+</list>
+<list> everlasting
+taleoftwo.txt 1 
+</list>
+<list> every
+taleoftwo.txt 10 
+</list>
+<list> everything
+taleoftwo.txt 27 
+</list>
+<list> everywhere
+taleoftwo.txt 5 
+</list>
+<list> evidently
+taleoftwo.txt 8 
+</list>
+<list> evil
+taleoftwo.txt 10 
+</list>
+<list> evils
+taleoftwo.txt 1 
+</list>
+<list> evincing
+taleoftwo.txt 1 
+</list>
+<list> evoke
+taleoftwo.txt 2 
+</list>
+<list> evremonde
+taleoftwo.txt 46 
+</list>
+<list> examined
+taleoftwo.txt 4 
+</list>
+<list> examining
+taleoftwo.txt 2 
+</list>
+<list> example
+taleoftwo.txt 4 
+</list>
+<list> exasperation
+taleoftwo.txt 1 
+</list>
+<list> exclaimed
+taleoftwo.txt 5 
+</list>
+<list> exclusion
+taleoftwo.txt 1 
+</list>
+<list> excuse
+taleoftwo.txt 1 
+</list>
+<list> excused
+taleoftwo.txt 1 
+</list>
+<list> excusing
+taleoftwo.txt 1 
+</list>
+<list> executive
+taleoftwo.txt 1 
+</list>
+<list> exempt
+taleoftwo.txt 2 
+</list>
+<list> exercise
+taleoftwo.txt 4 
+</list>
+<list> exercised
+taleoftwo.txt 1 
+</list>
+<list> exercises
+taleoftwo.txt 1 
+</list>
+<list> exertion
+taleoftwo.txt 1 
+</list>
+<list> exertions
+taleoftwo.txt 1 
+</list>
+<list> exhausted
+taleoftwo.txt 3 
+</list>
+<list> exhaustion
+taleoftwo.txt 2 
+</list>
+<list> existence
+taleoftwo.txt 5 
+</list>
+<list> exists
+taleoftwo.txt 1 
+</list>
+<list> exordium
+taleoftwo.txt 1 
+</list>
+<list> expenses
+taleoftwo.txt 1 
+</list>
+<list> expounded
+taleoftwo.txt 1 
+</list>
+<list> express
+taleoftwo.txt 1 
+</list>
+<list> expression
+taleoftwo.txt 1 
+</list>
+<list> expressive
+taleoftwo.txt 6 
+</list>
+<list> expressly
+taleoftwo.txt 7 
+</list>
+<list> exquisite
+taleoftwo.txt 2 
+</list>
+<list> extent
+taleoftwo.txt 1 
+</list>
+<list> extravagantly
+taleoftwo.txt 1 
+</list>
+<list> extreme
+taleoftwo.txt 2 
+</list>
+<list> extremely
+taleoftwo.txt 4 
+</list>
+<list> extremes
+taleoftwo.txt 1 
+</list>
+<list> exultant
+taleoftwo.txt 2 
+</list>
+<list> exultation
+taleoftwo.txt 1 
+</list>
+<list> eyelids
+taleoftwo.txt 1 
+</list>
+<list> eyes
+taleoftwo.txt 165 
+</list>
+<list> f
+taleoftwo.txt 10 
+</list>
+<list> f3
+taleoftwo.txt 1 
+</list>
+<list> fabled
+taleoftwo.txt 1 
+</list>
+<list> fabric
+taleoftwo.txt 1 
+</list>
+<list> fabulous
+taleoftwo.txt 1 
+</list>
+<list> facilitate
+taleoftwo.txt 1 
+</list>
+<list> facility
+taleoftwo.txt 1 
+</list>
+<list> facts
+taleoftwo.txt 1 
+</list>
+<list> faculties
+taleoftwo.txt 3 
+</list>
+<list> faculty
+taleoftwo.txt 1 
+</list>
+<list> faded
+taleoftwo.txt 5 
+</list>
+<list> fagged
+taleoftwo.txt 1 
+</list>
+<list> fagots
+taleoftwo.txt 1 
+</list>
+<list> fair
+taleoftwo.txt 1 
+</list>
+<list> fairbanks
+taleoftwo.txt 1 
+</list>
+<list> faithful
+taleoftwo.txt 7 
+</list>
+<list> faithfully
+taleoftwo.txt 3 
+</list>
+<list> faltered
+taleoftwo.txt 3 
+</list>
+<list> faltering
+taleoftwo.txt 4 
+</list>
+<list> family
+taleoftwo.txt 12 
+</list>
+<list> famished
+taleoftwo.txt 3 
+</list>
+<list> famous
+taleoftwo.txt 5 
+</list>
+<list> fancies
+taleoftwo.txt 1 
+</list>
+<list> fancy
+taleoftwo.txt 22 
+</list>
+<list> fanned
+taleoftwo.txt 2 
+</list>
+<list> fantastic
+taleoftwo.txt 2 
+</list>
+<list> far
+taleoftwo.txt 10 
+</list>
+<list> farmer
+taleoftwo.txt 13 
+</list>
+<list> farms
+taleoftwo.txt 2 
+</list>
+<list> farrier
+taleoftwo.txt 3 
+</list>
+<list> farthing
+taleoftwo.txt 1 
+</list>
+<list> fast
+taleoftwo.txt 1 
+</list>
+<list> faster
+taleoftwo.txt 9 
+</list>
+<list> fastest
+taleoftwo.txt 2 
+</list>
+<list> fasting
+taleoftwo.txt 1 
+</list>
+<list> fate
+taleoftwo.txt 6 
+</list>
+<list> father
+taleoftwo.txt 103 
+</list>
+<list> fathers
+taleoftwo.txt 2 
+</list>
+<list> fatigue
+taleoftwo.txt 1 
+</list>
+<list> fatigued
+taleoftwo.txt 5 
+</list>
+<list> fault
+taleoftwo.txt 4 
+</list>
+<list> faults
+taleoftwo.txt 3 
+</list>
+<list> favour
+taleoftwo.txt 6 
+</list>
+<list> favourable
+taleoftwo.txt 1 
+</list>
+<list> favoured
+taleoftwo.txt 2 
+</list>
+<list> favourite
+taleoftwo.txt 5 
+</list>
+<list> favours
+taleoftwo.txt 1 
+</list>
+<list> fawning
+taleoftwo.txt 1 
+</list>
+<list> fear
+taleoftwo.txt 7 
+</list>
+<list> fearless
+taleoftwo.txt 1 
+</list>
+<list> fears
+taleoftwo.txt 1 
+</list>
+<list> feature
+taleoftwo.txt 3 
+</list>
+<list> features
+taleoftwo.txt 4 
+</list>
+<list> fed
+taleoftwo.txt 1 
+</list>
+<list> federal
+taleoftwo.txt 2 
+</list>
+<list> feels
+taleoftwo.txt 2 
+</list>
+<list> fees
+taleoftwo.txt 4 
+</list>
+<list> feet
+taleoftwo.txt 44 
+</list>
+<list> feigned
+taleoftwo.txt 4 
+</list>
+<list> feint
+taleoftwo.txt 1 
+</list>
+<list> felons
+taleoftwo.txt 1 
+</list>
+<list> felt
+taleoftwo.txt 24 
+</list>
+<list> female
+taleoftwo.txt 6 
+</list>
+<list> feminine
+taleoftwo.txt 2 
+</list>
+<list> fences
+taleoftwo.txt 1 
+</list>
+<list> fervent
+taleoftwo.txt 2 
+</list>
+<list> fervently
+taleoftwo.txt 3 
+</list>
+<list> fervour
+taleoftwo.txt 3 
+</list>
+<list> festival
+taleoftwo.txt 1 
+</list>
+<list> fetch
+taleoftwo.txt 3 
+</list>
+<list> fetched
+taleoftwo.txt 1 
+</list>
+<list> fetters
+taleoftwo.txt 1 
+</list>
+<list> feudal
+taleoftwo.txt 1 
+</list>
+<list> fever
+taleoftwo.txt 7 
+</list>
+<list> feverish
+taleoftwo.txt 2 
+</list>
+<list> few
+taleoftwo.txt 88 
+</list>
+<list> fewer
+taleoftwo.txt 3 
+</list>
+<list> fickleness
+taleoftwo.txt 1 
+</list>
+<list> fictitious
+taleoftwo.txt 1 
+</list>
+<list> fidelity
+taleoftwo.txt 4 
+</list>
+<list> fidget
+taleoftwo.txt 1 
+</list>
+<list> fields
+taleoftwo.txt 1 
+</list>
+<list> fierce
+taleoftwo.txt 8 
+</list>
+<list> fiercely
+taleoftwo.txt 2 
+</list>
+<list> fiercer
+taleoftwo.txt 1 
+</list>
+<list> fifth
+taleoftwo.txt 3 
+</list>
+<list> fifty
+taleoftwo.txt 20 
+</list>
+<list> fight
+taleoftwo.txt 1 
+</list>
+<list> figure
+taleoftwo.txt 42 
+</list>
+<list> figures
+taleoftwo.txt 16 
+</list>
+<list> file
+taleoftwo.txt 2 
+</list>
+<list> files
+taleoftwo.txt 2 
+</list>
+<list> fill
+taleoftwo.txt 1 
+</list>
+<list> filled
+taleoftwo.txt 8 
+</list>
+<list> filling
+taleoftwo.txt 2 
+</list>
+<list> filtered
+taleoftwo.txt 1 
+</list>
+<list> filthy
+taleoftwo.txt 2 
+</list>
+<list> financial
+taleoftwo.txt 1 
+</list>
+<list> find
+taleoftwo.txt 1 
+</list>
+<list> finger
+taleoftwo.txt 2 
+</list>
+<list> fingers
+taleoftwo.txt 1 
+</list>
+<list> finish
+taleoftwo.txt 6 
+</list>
+<list> finished
+taleoftwo.txt 7 
+</list>
+<list> finishing
+taleoftwo.txt 1 
+</list>
+<list> firmness
+taleoftwo.txt 6 
+</list>
+<list> first
+taleoftwo.txt 118 
+</list>
+<list> firstly
+taleoftwo.txt 1 
+</list>
+<list> fish
+taleoftwo.txt 1 
+</list>
+<list> fishermen
+taleoftwo.txt 2 
+</list>
+<list> fishing
+taleoftwo.txt 6 
+</list>
+<list> fist
+taleoftwo.txt 1 
+</list>
+<list> fitfully
+taleoftwo.txt 1 
+</list>
+<list> fitness
+taleoftwo.txt 1 
+</list>
+<list> fits
+taleoftwo.txt 1 
+</list>
+<list> fitted
+taleoftwo.txt 4 
+</list>
+<list> fitting
+taleoftwo.txt 1 
+</list>
+<list> five
+taleoftwo.txt 49 
+</list>
+<list> fix
+taleoftwo.txt 1 
+</list>
+<list> fixed
+taleoftwo.txt 11 
+</list>
+<list> fixedly
+taleoftwo.txt 5 
+</list>
+<list> flashed
+taleoftwo.txt 2 
+</list>
+<list> flashes
+taleoftwo.txt 1 
+</list>
+<list> flattered
+taleoftwo.txt 2 
+</list>
+<list> flattering
+taleoftwo.txt 1 
+</list>
+<list> flavour
+taleoftwo.txt 1 
+</list>
+<list> flaxen
+taleoftwo.txt 4 
+</list>
+<list> flay
+taleoftwo.txt 1 
+</list>
+<list> fled
+taleoftwo.txt 1 
+</list>
+<list> fleet
+taleoftwo.txt 12 
+</list>
+<list> flew
+taleoftwo.txt 1 
+</list>
+<list> flickering
+taleoftwo.txt 1 
+</list>
+<list> flight
+taleoftwo.txt 4 
+</list>
+<list> flights
+taleoftwo.txt 1 
+</list>
+<list> flint
+taleoftwo.txt 2 
+</list>
+<list> flints
+taleoftwo.txt 1 
+</list>
+<list> flinty
+taleoftwo.txt 1 
+</list>
+<list> flirting
+taleoftwo.txt 1 
+</list>
+<list> floor
+taleoftwo.txt 1 
+</list>
+<list> flow
+taleoftwo.txt 1 
+</list>
+<list> flowed
+taleoftwo.txt 1 
+</list>
+<list> flowing
+taleoftwo.txt 1 
+</list>
+<list> flown
+taleoftwo.txt 1 
+</list>
+<list> fluttered
+taleoftwo.txt 1 
+</list>
+<list> fluttering
+taleoftwo.txt 3 
+</list>
+<list> fly
+taleoftwo.txt 2 
+</list>
+<list> flying
+taleoftwo.txt 7 
+</list>
+<list> foaled
+taleoftwo.txt 1 
+</list>
+<list> foam
+taleoftwo.txt 3 
+</list>
+<list> foe
+taleoftwo.txt 3 
+</list>
+<list> fogs
+taleoftwo.txt 2 
+</list>
+<list> foisted
+taleoftwo.txt 1 
+</list>
+<list> followed
+taleoftwo.txt 9 
+</list>
+<list> following
+taleoftwo.txt 14 
+</list>
+<list> follows
+taleoftwo.txt 1 
+</list>
+<list> fondly
+taleoftwo.txt 1 
+</list>
+<list> foot
+taleoftwo.txt 1 
+</list>
+<list> footstep
+taleoftwo.txt 1 
+</list>
+<list> footsteps
+taleoftwo.txt 21 
+</list>
+<list> footstool
+taleoftwo.txt 1 
+</list>
+<list> footways
+taleoftwo.txt 2 
+</list>
+<list> for
+taleoftwo.txt 6 
+</list>
+<list> form
+taleoftwo.txt 1 
+</list>
+<list> formats
+taleoftwo.txt 2 
+</list>
+<list> forth
+taleoftwo.txt 8 
+</list>
+<list> forty
+taleoftwo.txt 5 
+</list>
+<list> forward
+taleoftwo.txt 27 
+</list>
+<list> forwarded
+taleoftwo.txt 1 
+</list>
+<list> forwards
+taleoftwo.txt 2 
+</list>
+<list> found
+taleoftwo.txt 3 
+</list>
+<list> foundation
+taleoftwo.txt 25 
+</list>
+<list> fountain
+taleoftwo.txt 1 
+</list>
+<list> four
+taleoftwo.txt 16 
+</list>
+<list> fourteenth
+taleoftwo.txt 4 
+</list>
+<list> fourth
+taleoftwo.txt 3 
+</list>
+<list> fourths
+taleoftwo.txt 1 
+</list>
+<list> fowl
+taleoftwo.txt 1 
+</list>
+<list> fragments
+taleoftwo.txt 1 
+</list>
+<list> france
+taleoftwo.txt 2 
+</list>
+<list> frantic
+taleoftwo.txt 1 
+</list>
+<list> fraternity
+taleoftwo.txt 7 
+</list>
+<list> fraud
+taleoftwo.txt 1 
+</list>
+<list> fraught
+taleoftwo.txt 3 
+</list>
+<list> frayed
+taleoftwo.txt 1 
+</list>
+<list> freedom
+taleoftwo.txt 1 
+</list>
+<list> freely
+taleoftwo.txt 4 
+</list>
+<list> frequently
+taleoftwo.txt 1 
+</list>
+<list> fresh
+taleoftwo.txt 9 
+</list>
+<list> fresher
+taleoftwo.txt 1 
+</list>
+<list> freshness
+taleoftwo.txt 1 
+</list>
+<list> fretted
+taleoftwo.txt 1 
+</list>
+<list> friend
+taleoftwo.txt 3 
+</list>
+<list> friendship
+taleoftwo.txt 1 
+</list>
+<list> fright
+taleoftwo.txt 1 
+</list>
+<list> frightful
+taleoftwo.txt 2 
+</list>
+<list> frill
+taleoftwo.txt 1 
+</list>
+<list> fringed
+taleoftwo.txt 1 
+</list>
+<list> frivolity
+taleoftwo.txt 1 
+</list>
+<list> frizzled
+taleoftwo.txt 2 
+</list>
+<list> frizzling
+taleoftwo.txt 1 
+</list>
+<list> from
+taleoftwo.txt 24 
+</list>
+<list> front
+taleoftwo.txt 1 
+</list>
+<list> frowned
+taleoftwo.txt 2 
+</list>
+<list> frowning
+taleoftwo.txt 2 
+</list>
+<list> frozen
+taleoftwo.txt 1 
+</list>
+<list> fruit
+taleoftwo.txt 1 
+</list>
+<list> fruitless
+taleoftwo.txt 1 
+</list>
+<list> fruits
+taleoftwo.txt 4 
+</list>
+<list> frustrate
+taleoftwo.txt 1 
+</list>
+<list> frying
+taleoftwo.txt 1 
+</list>
+<list> fuel
+taleoftwo.txt 1 
+</list>
+<list> full
+taleoftwo.txt 35 
+</list>
+<list> fully
+taleoftwo.txt 5 
+</list>
+<list> fulness
+taleoftwo.txt 1 
+</list>
+<list> fumbled
+taleoftwo.txt 1 
+</list>
+<list> functions
+taleoftwo.txt 1 
+</list>
+<list> fundraising
+taleoftwo.txt 1 
+</list>
+<list> funeral
+taleoftwo.txt 7 
+</list>
+<list> funerals
+taleoftwo.txt 1 
+</list>
+<list> funereal
+taleoftwo.txt 1 
+</list>
+<list> furrow
+taleoftwo.txt 2 
+</list>
+<list> further
+taleoftwo.txt 2 
+</list>
+<list> furtively
+taleoftwo.txt 1 
+</list>
+<list> fury
+taleoftwo.txt 1 
+</list>
+<list> fused
+taleoftwo.txt 1 
+</list>
+<list> futur
+taleoftwo.txt 1 
+</list>
+<list> future
+taleoftwo.txt 12 
+</list>
+<list> g
+taleoftwo.txt 1 
+</list>
+<list> gabelle
+taleoftwo.txt 29 
+</list>
+<list> gag
+taleoftwo.txt 1 
+</list>
+<list> gain
+taleoftwo.txt 1 
+</list>
+<list> gained
+taleoftwo.txt 5 
+</list>
+<list> gaining
+taleoftwo.txt 2 
+</list>
+<list> gainsay
+taleoftwo.txt 1 
+</list>
+<list> gaiters
+taleoftwo.txt 1 
+</list>
+<list> galling
+taleoftwo.txt 1 
+</list>
+<list> gallop
+taleoftwo.txt 1 
+</list>
+<list> galloped
+taleoftwo.txt 1 
+</list>
+<list> gallows
+taleoftwo.txt 8 
+</list>
+<list> game
+taleoftwo.txt 5 
+</list>
+<list> games
+taleoftwo.txt 4 
+</list>
+<list> gamut
+taleoftwo.txt 1 
+</list>
+<list> gander
+taleoftwo.txt 1 
+</list>
+<list> gaoler
+taleoftwo.txt 3 
+</list>
+<list> gaolers
+taleoftwo.txt 4 
+</list>
+<list> gaols
+taleoftwo.txt 2 
+</list>
+<list> garden
+taleoftwo.txt 2 
+</list>
+<list> garnering
+taleoftwo.txt 1 
+</list>
+<list> garret
+taleoftwo.txt 15 
+</list>
+<list> garrison
+taleoftwo.txt 2 
+</list>
+<list> gaspard
+taleoftwo.txt 8 
+</list>
+<list> gate
+taleoftwo.txt 4 
+</list>
+<list> gateway
+taleoftwo.txt 1 
+</list>
+<list> gathered
+taleoftwo.txt 6 
+</list>
+<list> gathering
+taleoftwo.txt 5 
+</list>
+<list> gaunt
+taleoftwo.txt 4 
+</list>
+<list> gauze
+taleoftwo.txt 1 
+</list>
+<list> gave
+taleoftwo.txt 28 
+</list>
+<list> gay
+taleoftwo.txt 1 
+</list>
+<list> gayest
+taleoftwo.txt 1 
+</list>
+<list> gazette
+taleoftwo.txt 1 
+</list>
+<list> gazing
+taleoftwo.txt 2 
+</list>
+<list> gbnewby
+taleoftwo.txt 1 
+</list>
+<list> general
+taleoftwo.txt 3 
+</list>
+<list> generations
+taleoftwo.txt 3 
+</list>
+<list> generous
+taleoftwo.txt 1 
+</list>
+<list> gentle
+taleoftwo.txt 1 
+</list>
+<list> gentlest
+taleoftwo.txt 1 
+</list>
+<list> gently
+taleoftwo.txt 15 
+</list>
+<list> genuine
+taleoftwo.txt 2 
+</list>
+<list> george
+taleoftwo.txt 11 
+</list>
+<list> germain
+taleoftwo.txt 1 
+</list>
+<list> german
+taleoftwo.txt 1 
+</list>
+<list> gesture
+taleoftwo.txt 6 
+</list>
+<list> gestures
+taleoftwo.txt 1 
+</list>
+<list> gets
+taleoftwo.txt 2 
+</list>
+<list> getting
+taleoftwo.txt 18 
+</list>
+<list> ghastliness
+taleoftwo.txt 1 
+</list>
+<list> ghastly
+taleoftwo.txt 3 
+</list>
+<list> ghost
+taleoftwo.txt 1 
+</list>
+<list> ghostly
+taleoftwo.txt 5 
+</list>
+<list> ghosts
+taleoftwo.txt 5 
+</list>
+<list> giant
+taleoftwo.txt 4 
+</list>
+<list> giants
+taleoftwo.txt 1 
+</list>
+<list> giddily
+taleoftwo.txt 1 
+</list>
+<list> giddinesses
+taleoftwo.txt 1 
+</list>
+<list> gifts
+taleoftwo.txt 1 
+</list>
+<list> gigantically
+taleoftwo.txt 1 
+</list>
+<list> giles
+taleoftwo.txt 1 
+</list>
+<list> gin
+taleoftwo.txt 1 
+</list>
+<list> girl
+taleoftwo.txt 11 
+</list>
+<list> girlhood
+taleoftwo.txt 1 
+</list>
+<list> girlish
+taleoftwo.txt 1 
+</list>
+<list> girls
+taleoftwo.txt 3 
+</list>
+<list> give
+taleoftwo.txt 5 
+</list>
+<list> given
+taleoftwo.txt 2 
+</list>
+<list> gives
+taleoftwo.txt 5 
+</list>
+<list> giving
+taleoftwo.txt 13 
+</list>
+<list> glance
+taleoftwo.txt 1 
+</list>
+<list> glances
+taleoftwo.txt 1 
+</list>
+<list> glancing
+taleoftwo.txt 1 
+</list>
+<list> glaring
+taleoftwo.txt 1 
+</list>
+<list> glass
+taleoftwo.txt 4 
+</list>
+<list> glasses
+taleoftwo.txt 2 
+</list>
+<list> glassful
+taleoftwo.txt 5 
+</list>
+<list> gleamed
+taleoftwo.txt 1 
+</list>
+<list> gleaming
+taleoftwo.txt 2 
+</list>
+<list> gleams
+taleoftwo.txt 2 
+</list>
+<list> gleaned
+taleoftwo.txt 1 
+</list>
+<list> glided
+taleoftwo.txt 1 
+</list>
+<list> glimmering
+taleoftwo.txt 1 
+</list>
+<list> glinted
+taleoftwo.txt 1 
+</list>
+<list> glittering
+taleoftwo.txt 2 
+</list>
+<list> gloomy
+taleoftwo.txt 1 
+</list>
+<list> glove
+taleoftwo.txt 1 
+</list>
+<list> glow
+taleoftwo.txt 1 
+</list>
+<list> gloweringly
+taleoftwo.txt 1 
+</list>
+<list> glowing
+taleoftwo.txt 1 
+</list>
+<list> glutinous
+taleoftwo.txt 1 
+</list>
+<list> gnashing
+taleoftwo.txt 1 
+</list>
+<list> gnawed
+taleoftwo.txt 1 
+</list>
+<list> gnawing
+taleoftwo.txt 1 
+</list>
+<list> go
+taleoftwo.txt 139 
+</list>
+<list> goals
+taleoftwo.txt 1 
+</list>
+<list> goblet
+taleoftwo.txt 1 
+</list>
+<list> goblin
+taleoftwo.txt 1 
+</list>
+<list> god
+taleoftwo.txt 32 
+</list>
+<list> goddess
+taleoftwo.txt 1 
+</list>
+<list> godmother
+taleoftwo.txt 1 
+</list>
+<list> goers
+taleoftwo.txt 1 
+</list>
+<list> goes
+taleoftwo.txt 15 
+</list>
+<list> goin
+taleoftwo.txt 1 
+</list>
+<list> going
+taleoftwo.txt 88 
+</list>
+<list> gold
+taleoftwo.txt 10 
+</list>
+<list> golden
+taleoftwo.txt 33 
+</list>
+<list> gone
+taleoftwo.txt 70 
+</list>
+<list> good
+taleoftwo.txt 51 
+</list>
+<list> goodwill
+taleoftwo.txt 1 
+</list>
+<list> goose
+taleoftwo.txt 1 
+</list>
+<list> gore
+taleoftwo.txt 1 
+</list>
+<list> gorged
+taleoftwo.txt 1 
+</list>
+<list> gorgeous
+taleoftwo.txt 1 
+</list>
+<list> gorgon
+taleoftwo.txt 4 
+</list>
+<list> gory
+taleoftwo.txt 1 
+</list>
+<list> gossip
+taleoftwo.txt 3 
+</list>
+<list> gossiping
+taleoftwo.txt 1 
+</list>
+<list> got
+taleoftwo.txt 82 
+</list>
+<list> govern
+taleoftwo.txt 1 
+</list>
+<list> governed
+taleoftwo.txt 1 
+</list>
+<list> government
+taleoftwo.txt 7 
+</list>
+<list> governor
+taleoftwo.txt 4 
+</list>
+<list> gown
+taleoftwo.txt 3 
+</list>
+<list> grateful
+taleoftwo.txt 2 
+</list>
+<list> gratefully
+taleoftwo.txt 1 
+</list>
+<list> gratitude
+taleoftwo.txt 1 
+</list>
+<list> grave
+taleoftwo.txt 7 
+</list>
+<list> gravel
+taleoftwo.txt 1 
+</list>
+<list> gravely
+taleoftwo.txt 1 
+</list>
+<list> graves
+taleoftwo.txt 2 
+</list>
+<list> gravestones
+taleoftwo.txt 1 
+</list>
+<list> gravity
+taleoftwo.txt 2 
+</list>
+<list> greedily
+taleoftwo.txt 1 
+</list>
+<list> gregory
+taleoftwo.txt 1 
+</list>
+<list> grew
+taleoftwo.txt 9 
+</list>
+<list> grey
+taleoftwo.txt 9 
+</list>
+<list> grip
+taleoftwo.txt 1 
+</list>
+<list> gripping
+taleoftwo.txt 1 
+</list>
+<list> grisly
+taleoftwo.txt 2 
+</list>
+<list> grist
+taleoftwo.txt 1 
+</list>
+<list> grizzled
+taleoftwo.txt 2 
+</list>
+<list> gross
+taleoftwo.txt 1 
+</list>
+<list> group
+taleoftwo.txt 3 
+</list>
+<list> grow
+taleoftwo.txt 1 
+</list>
+<list> growed
+taleoftwo.txt 1 
+</list>
+<list> growing
+taleoftwo.txt 3 
+</list>
+<list> growled
+taleoftwo.txt 1 
+</list>
+<list> growlingly
+taleoftwo.txt 1 
+</list>
+<list> grown
+taleoftwo.txt 10 
+</list>
+<list> grudge
+taleoftwo.txt 1 
+</list>
+<list> grudging
+taleoftwo.txt 1 
+</list>
+<list> gruff
+taleoftwo.txt 3 
+</list>
+<list> grumbled
+taleoftwo.txt 2 
+</list>
+<list> grumbling
+taleoftwo.txt 1 
+</list>
+<list> grunt
+taleoftwo.txt 1 
+</list>
+<list> guard
+taleoftwo.txt 2 
+</list>
+<list> guarded
+taleoftwo.txt 5 
+</list>
+<list> guardhouse
+taleoftwo.txt 2 
+</list>
+<list> guards
+taleoftwo.txt 3 
+</list>
+<list> guess
+taleoftwo.txt 6 
+</list>
+<list> guesses
+taleoftwo.txt 1 
+</list>
+<list> guest
+taleoftwo.txt 1 
+</list>
+<list> guillotine
+taleoftwo.txt 5 
+</list>
+<list> guinea
+taleoftwo.txt 5 
+</list>
+<list> guineas
+taleoftwo.txt 5 
+</list>
+<list> gulf
+taleoftwo.txt 1 
+</list>
+<list> gun
+taleoftwo.txt 1 
+</list>
+<list> gunpowder
+taleoftwo.txt 2 
+</list>
+<list> guns
+taleoftwo.txt 3 
+</list>
+<list> gusts
+taleoftwo.txt 1 
+</list>
+<list> gutenberg
+taleoftwo.txt 93 
+</list>
+<list> guttering
+taleoftwo.txt 1 
+</list>
+<list> ha
+taleoftwo.txt 10 
+</list>
+<list> habitual
+taleoftwo.txt 1 
+</list>
+<list> habitually
+taleoftwo.txt 3 
+</list>
+<list> hacked
+taleoftwo.txt 2 
+</list>
+<list> hackney
+taleoftwo.txt 2 
+</list>
+<list> had
+taleoftwo.txt 1306 
+</list>
+<list> hadn
+taleoftwo.txt 2 
+</list>
+<list> haggard
+taleoftwo.txt 5 
+</list>
+<list> hah
+taleoftwo.txt 7 
+</list>
+<list> hailed
+taleoftwo.txt 2 
+</list>
+<list> hair
+taleoftwo.txt 24 
+</list>
+<list> haired
+taleoftwo.txt 2 
+</list>
+<list> hairs
+taleoftwo.txt 1 
+</list>
+<list> hairy
+taleoftwo.txt 1 
+</list>
+<list> half
+taleoftwo.txt 11 
+</list>
+<list> hall
+taleoftwo.txt 3 
+</list>
+<list> halo
+taleoftwo.txt 1 
+</list>
+<list> halting
+taleoftwo.txt 2 
+</list>
+<list> hammering
+taleoftwo.txt 2 
+</list>
+<list> hammers
+taleoftwo.txt 2 
+</list>
+<list> hand
+taleoftwo.txt 8 
+</list>
+<list> handle
+taleoftwo.txt 1 
+</list>
+<list> hands
+taleoftwo.txt 7 
+</list>
+<list> handsome
+taleoftwo.txt 4 
+</list>
+<list> handsomely
+taleoftwo.txt 1 
+</list>
+<list> hanging
+taleoftwo.txt 14 
+</list>
+<list> hangings
+taleoftwo.txt 1 
+</list>
+<list> hangman
+taleoftwo.txt 2 
+</list>
+<list> happiness
+taleoftwo.txt 12 
+</list>
+<list> happy
+taleoftwo.txt 29 
+</list>
+<list> harshly
+taleoftwo.txt 1 
+</list>
+<list> hart
+taleoftwo.txt 2 
+</list>
+<list> harvest
+taleoftwo.txt 2 
+</list>
+<list> has
+taleoftwo.txt 8 
+</list>
+<list> hast
+taleoftwo.txt 1 
+</list>
+<list> hastily
+taleoftwo.txt 4 
+</list>
+<list> hasty
+taleoftwo.txt 1 
+</list>
+<list> hate
+taleoftwo.txt 1 
+</list>
+<list> hateful
+taleoftwo.txt 1 
+</list>
+<list> hatred
+taleoftwo.txt 2 
+</list>
+<list> hats
+taleoftwo.txt 2 
+</list>
+<list> haunches
+taleoftwo.txt 1 
+</list>
+<list> haunted
+taleoftwo.txt 8 
+</list>
+<list> haunting
+taleoftwo.txt 1 
+</list>
+<list> have
+taleoftwo.txt 23 
+</list>
+<list> havin
+taleoftwo.txt 1 
+</list>
+<list> having
+taleoftwo.txt 72 
+</list>
+<list> hawthorn
+taleoftwo.txt 1 
+</list>
+<list> hay
+taleoftwo.txt 5 
+</list>
+<list> hazard
+taleoftwo.txt 6 
+</list>
+<list> hazarded
+taleoftwo.txt 1 
+</list>
+<list> he
+taleoftwo.txt 1859 
+</list>
+<list> hear
+taleoftwo.txt 2 
+</list>
+<list> heart
+taleoftwo.txt 2 
+</list>
+<list> hearts
+taleoftwo.txt 2 
+</list>
+<list> heave
+taleoftwo.txt 1 
+</list>
+<list> heaved
+taleoftwo.txt 1 
+</list>
+<list> heaven
+taleoftwo.txt 5 
+</list>
+<list> heaving
+taleoftwo.txt 4 
+</list>
+<list> heavy
+taleoftwo.txt 39 
+</list>
+<list> hebrew
+taleoftwo.txt 1 
+</list>
+<list> hedge
+taleoftwo.txt 1 
+</list>
+<list> heed
+taleoftwo.txt 1 
+</list>
+<list> heedful
+taleoftwo.txt 1 
+</list>
+<list> heedless
+taleoftwo.txt 1 
+</list>
+<list> heels
+taleoftwo.txt 3 
+</list>
+<list> heigh
+taleoftwo.txt 1 
+</list>
+<list> height
+taleoftwo.txt 5 
+</list>
+<list> heightened
+taleoftwo.txt 1 
+</list>
+<list> held
+taleoftwo.txt 9 
+</list>
+<list> help
+taleoftwo.txt 5 
+</list>
+<list> helping
+taleoftwo.txt 1 
+</list>
+<list> helpless
+taleoftwo.txt 3 
+</list>
+<list> hem
+taleoftwo.txt 1 
+</list>
+<list> hemmed
+taleoftwo.txt 1 
+</list>
+<list> hence
+taleoftwo.txt 7 
+</list>
+<list> henceforth
+taleoftwo.txt 4 
+</list>
+<list> her
+taleoftwo.txt 8 
+</list>
+<list> here
+taleoftwo.txt 6 
+</list>
+<list> hers
+taleoftwo.txt 7 
+</list>
+<list> herself
+taleoftwo.txt 41 
+</list>
+<list> hesitating
+taleoftwo.txt 3 
+</list>
+<list> hesitation
+taleoftwo.txt 3 
+</list>
+<list> hew
+taleoftwo.txt 1 
+</list>
+<list> hewed
+taleoftwo.txt 1 
+</list>
+<list> hey
+taleoftwo.txt 2 
+</list>
+<list> hi
+taleoftwo.txt 4 
+</list>
+<list> hid
+taleoftwo.txt 1 
+</list>
+<list> hidden
+taleoftwo.txt 2 
+</list>
+<list> hideous
+taleoftwo.txt 5 
+</list>
+<list> hiding
+taleoftwo.txt 4 
+</list>
+<list> highly
+taleoftwo.txt 4 
+</list>
+<list> highway
+taleoftwo.txt 3 
+</list>
+<list> highwaymen
+taleoftwo.txt 1 
+</list>
+<list> highways
+taleoftwo.txt 1 
+</list>
+<list> hilary
+taleoftwo.txt 1 
+</list>
+<list> hill
+taleoftwo.txt 42 
+</list>
+<list> hilt
+taleoftwo.txt 2 
+</list>
+<list> him
+taleoftwo.txt 976 
+</list>
+<list> himself
+taleoftwo.txt 222 
+</list>
+<list> hinds
+taleoftwo.txt 1 
+</list>
+<list> hint
+taleoftwo.txt 2 
+</list>
+<list> hinted
+taleoftwo.txt 2 
+</list>
+<list> hips
+taleoftwo.txt 1 
+</list>
+<list> hired
+taleoftwo.txt 2 
+</list>
+<list> hiring
+taleoftwo.txt 1 
+</list>
+<list> his
+taleoftwo.txt 361 
+</list>
+<list> hissing
+taleoftwo.txt 1 
+</list>
+<list> history
+taleoftwo.txt 12 
+</list>
+<list> hit
+taleoftwo.txt 1 
+</list>
+<list> hither
+taleoftwo.txt 1 
+</list>
+<list> hitherto
+taleoftwo.txt 1 
+</list>
+<list> hitting
+taleoftwo.txt 1 
+</list>
+<list> ho
+taleoftwo.txt 6 
+</list>
+<list> hoarse
+taleoftwo.txt 4 
+</list>
+<list> hoarsely
+taleoftwo.txt 2 
+</list>
+<list> hoarser
+taleoftwo.txt 1 
+</list>
+<list> hoarsest
+taleoftwo.txt 1 
+</list>
+<list> hob
+taleoftwo.txt 1 
+</list>
+<list> hoisted
+taleoftwo.txt 1 
+</list>
+<list> hoisting
+taleoftwo.txt 3 
+</list>
+<list> hold
+taleoftwo.txt 3 
+</list>
+<list> holder
+taleoftwo.txt 4 
+</list>
+<list> holds
+taleoftwo.txt 2 
+</list>
+<list> holiests
+taleoftwo.txt 2 
+</list>
+<list> hollow
+taleoftwo.txt 5 
+</list>
+<list> holsters
+taleoftwo.txt 1 
+</list>
+<list> holy
+taleoftwo.txt 1 
+</list>
+<list> home
+taleoftwo.txt 12 
+</list>
+<list> homeliest
+taleoftwo.txt 1 
+</list>
+<list> homes
+taleoftwo.txt 3 
+</list>
+<list> honourable
+taleoftwo.txt 1 
+</list>
+<list> honoured
+taleoftwo.txt 11 
+</list>
+<list> honouring
+taleoftwo.txt 2 
+</list>
+<list> hook
+taleoftwo.txt 1 
+</list>
+<list> hooroaring
+taleoftwo.txt 1 
+</list>
+<list> hooroars
+taleoftwo.txt 1 
+</list>
+<list> hope
+taleoftwo.txt 2 
+</list>
+<list> hoped
+taleoftwo.txt 3 
+</list>
+<list> hopeless
+taleoftwo.txt 3 
+</list>
+<list> hopes
+taleoftwo.txt 8 
+</list>
+<list> hoping
+taleoftwo.txt 1 
+</list>
+<list> hopping
+taleoftwo.txt 4 
+</list>
+<list> horseman
+taleoftwo.txt 1 
+</list>
+<list> horsemen
+taleoftwo.txt 2 
+</list>
+<list> horses
+taleoftwo.txt 40 
+</list>
+<list> hospital
+taleoftwo.txt 4 
+</list>
+<list> host
+taleoftwo.txt 1 
+</list>
+<list> hostile
+taleoftwo.txt 1 
+</list>
+<list> hot
+taleoftwo.txt 17 
+</list>
+<list> hotel
+taleoftwo.txt 11 
+</list>
+<list> house
+taleoftwo.txt 1 
+</list>
+<list> housekeeping
+taleoftwo.txt 2 
+</list>
+<list> houses
+taleoftwo.txt 20 
+</list>
+<list> housetop
+taleoftwo.txt 1 
+</list>
+<list> hovel
+taleoftwo.txt 1 
+</list>
+<list> hovering
+taleoftwo.txt 1 
+</list>
+<list> how
+taleoftwo.txt 37 
+</list>
+<list> however
+taleoftwo.txt 30 
+</list>
+<list> howling
+taleoftwo.txt 3 
+</list>
+<list> howsoever
+taleoftwo.txt 1 
+</list>
+<list> http
+taleoftwo.txt 8 
+</list>
+<list> hue
+taleoftwo.txt 1 
+</list>
+<list> huge
+taleoftwo.txt 1 
+</list>
+<list> human
+taleoftwo.txt 3 
+</list>
+<list> humanity
+taleoftwo.txt 2 
+</list>
+<list> humbly
+taleoftwo.txt 2 
+</list>
+<list> humoured
+taleoftwo.txt 2 
+</list>
+<list> humph
+taleoftwo.txt 1 
+</list>
+<list> hundreds
+taleoftwo.txt 1 
+</list>
+<list> hunger
+taleoftwo.txt 2 
+</list>
+<list> hungry
+taleoftwo.txt 2 
+</list>
+<list> hunted
+taleoftwo.txt 2 
+</list>
+<list> hunters
+taleoftwo.txt 1 
+</list>
+<list> hunting
+taleoftwo.txt 2 
+</list>
+<list> hurried
+taleoftwo.txt 4 
+</list>
+<list> hurriedly
+taleoftwo.txt 1 
+</list>
+<list> hurry
+taleoftwo.txt 8 
+</list>
+<list> hurrying
+taleoftwo.txt 2 
+</list>
+<list> hurt
+taleoftwo.txt 3 
+</list>
+<list> husband
+taleoftwo.txt 1 
+</list>
+<list> husbands
+taleoftwo.txt 1 
+</list>
+<list> hush
+taleoftwo.txt 11 
+</list>
+<list> hushed
+taleoftwo.txt 2 
+</list>
+<list> hushing
+taleoftwo.txt 1 
+</list>
+<list> husky
+taleoftwo.txt 2 
+</list>
+<list> hustled
+taleoftwo.txt 1 
+</list>
+<list> hutches
+taleoftwo.txt 1 
+</list>
+<list> huts
+taleoftwo.txt 1 
+</list>
+<list> hypertext
+taleoftwo.txt 1 
+</list>
+<list> i
+taleoftwo.txt 1990 
+</list>
+<list> ice
+taleoftwo.txt 2 
+</list>
+<list> identification
+taleoftwo.txt 1 
+</list>
+<list> identified
+taleoftwo.txt 5 
+</list>
+<list> identify
+taleoftwo.txt 5 
+</list>
+<list> idiomatic
+taleoftwo.txt 1 
+</list>
+<list> idiotic
+taleoftwo.txt 1 
+</list>
+<list> idiots
+taleoftwo.txt 1 
+</list>
+<list> idlest
+taleoftwo.txt 1 
+</list>
+<list> idling
+taleoftwo.txt 1 
+</list>
+<list> idly
+taleoftwo.txt 1 
+</list>
+<list> ies
+taleoftwo.txt 2 
+</list>
+<list> if
+taleoftwo.txt 481 
+</list>
+<list> ignorance
+taleoftwo.txt 2 
+</list>
+<list> ignorant
+taleoftwo.txt 7 
+</list>
+<list> ii
+taleoftwo.txt 6 
+</list>
+<list> iii
+taleoftwo.txt 6 
+</list>
+<list> illustrations
+taleoftwo.txt 2 
+</list>
+<list> illustrious
+taleoftwo.txt 6 
+</list>
+<list> imagination
+taleoftwo.txt 1 
+</list>
+<list> imagined
+taleoftwo.txt 7 
+</list>
+<list> imagining
+taleoftwo.txt 1 
+</list>
+<list> imaginings
+taleoftwo.txt 1 
+</list>
+<list> imbecile
+taleoftwo.txt 1 
+</list>
+<list> imbued
+taleoftwo.txt 1 
+</list>
+<list> imitated
+taleoftwo.txt 2 
+</list>
+<list> imitation
+taleoftwo.txt 1 
+</list>
+<list> imitations
+taleoftwo.txt 1 
+</list>
+<list> immediate
+taleoftwo.txt 2 
+</list>
+<list> immediately
+taleoftwo.txt 3 
+</list>
+<list> immolations
+taleoftwo.txt 1 
+</list>
+<list> immovable
+taleoftwo.txt 6 
+</list>
+<list> immunities
+taleoftwo.txt 1 
+</list>
+<list> implied
+taleoftwo.txt 2 
+</list>
+<list> important
+taleoftwo.txt 1 
+</list>
+<list> imposed
+taleoftwo.txt 1 
+</list>
+<list> impression
+taleoftwo.txt 2 
+</list>
+<list> impressively
+taleoftwo.txt 1 
+</list>
+<list> imprisonment
+taleoftwo.txt 4 
+</list>
+<list> improved
+taleoftwo.txt 1 
+</list>
+<list> impulses
+taleoftwo.txt 1 
+</list>
+<list> impurities
+taleoftwo.txt 1 
+</list>
+<list> imputation
+taleoftwo.txt 1 
+</list>
+<list> in
+taleoftwo.txt 2660 
+</list>
+<list> inaccurate
+taleoftwo.txt 1 
+</list>
+<list> inappropriate
+taleoftwo.txt 3 
+</list>
+<list> inarticulately
+taleoftwo.txt 1 
+</list>
+<list> inasmuch
+taleoftwo.txt 1 
+</list>
+<list> inaudible
+taleoftwo.txt 1 
+</list>
+<list> inaugurated
+taleoftwo.txt 1 
+</list>
+<list> includes
+taleoftwo.txt 1 
+</list>
+<list> including
+taleoftwo.txt 3 
+</list>
+<list> incomplete
+taleoftwo.txt 1 
+</list>
+<list> increasing
+taleoftwo.txt 1 
+</list>
+<list> incumbent
+taleoftwo.txt 2 
+</list>
+<list> incumbrance
+taleoftwo.txt 1 
+</list>
+<list> incur
+taleoftwo.txt 1 
+</list>
+<list> indirect
+taleoftwo.txt 1 
+</list>
+<list> indirectly
+taleoftwo.txt 1 
+</list>
+<list> individual
+taleoftwo.txt 5 
+</list>
+<list> indivisible
+taleoftwo.txt 1 
+</list>
+<list> induced
+taleoftwo.txt 1 
+</list>
+<list> inducement
+taleoftwo.txt 1 
+</list>
+<list> industrious
+taleoftwo.txt 1 
+</list>
+<list> industry
+taleoftwo.txt 3 
+</list>
+<list> inevitable
+taleoftwo.txt 1 
+</list>
+<list> inevitably
+taleoftwo.txt 3 
+</list>
+<list> inexorable
+taleoftwo.txt 1 
+</list>
+<list> inexperienced
+taleoftwo.txt 1 
+</list>
+<list> information
+taleoftwo.txt 7 
+</list>
+<list> infraction
+taleoftwo.txt 1 
+</list>
+<list> infringement
+taleoftwo.txt 1 
+</list>
+<list> infused
+taleoftwo.txt 1 
+</list>
+<list> ingenuity
+taleoftwo.txt 4 
+</list>
+<list> ingress
+taleoftwo.txt 1 
+</list>
+<list> inhabitants
+taleoftwo.txt 3 
+</list>
+<list> inheritance
+taleoftwo.txt 1 
+</list>
+<list> inherited
+taleoftwo.txt 2 
+</list>
+<list> inheritor
+taleoftwo.txt 1 
+</list>
+<list> inhuman
+taleoftwo.txt 1 
+</list>
+<list> initial
+taleoftwo.txt 1 
+</list>
+<list> initials
+taleoftwo.txt 2 
+</list>
+<list> injunction
+taleoftwo.txt 1 
+</list>
+<list> injured
+taleoftwo.txt 2 
+</list>
+<list> injuring
+taleoftwo.txt 1 
+</list>
+<list> injurious
+taleoftwo.txt 1 
+</list>
+<list> injury
+taleoftwo.txt 1 
+</list>
+<list> ink
+taleoftwo.txt 2 
+</list>
+<list> inmate
+taleoftwo.txt 3 
+</list>
+<list> inmates
+taleoftwo.txt 1 
+</list>
+<list> innermost
+taleoftwo.txt 2 
+</list>
+<list> innocent
+taleoftwo.txt 17 
+</list>
+<list> inns
+taleoftwo.txt 1 
+</list>
+<list> inoffensive
+taleoftwo.txt 1 
+</list>
+<list> inquired
+taleoftwo.txt 1 
+</list>
+<list> inquisitive
+taleoftwo.txt 2 
+</list>
+<list> inquisitively
+taleoftwo.txt 2 
+</list>
+<list> instinct
+taleoftwo.txt 1 
+</list>
+<list> instrument
+taleoftwo.txt 1 
+</list>
+<list> insufferable
+taleoftwo.txt 1 
+</list>
+<list> insufficient
+taleoftwo.txt 2 
+</list>
+<list> insulters
+taleoftwo.txt 1 
+</list>
+<list> insults
+taleoftwo.txt 1 
+</list>
+<list> insupportable
+taleoftwo.txt 1 
+</list>
+<list> internal
+taleoftwo.txt 1 
+</list>
+<list> international
+taleoftwo.txt 1 
+</list>
+<list> interpreted
+taleoftwo.txt 1 
+</list>
+<list> interview
+taleoftwo.txt 1 
+</list>
+<list> into
+taleoftwo.txt 45 
+</list>
+<list> intolerable
+taleoftwo.txt 1 
+</list>
+<list> introduce
+taleoftwo.txt 1 
+</list>
+<list> introduction
+taleoftwo.txt 2 
+</list>
+<list> inundation
+taleoftwo.txt 2 
+</list>
+<list> invalidity
+taleoftwo.txt 1 
+</list>
+<list> inveterate
+taleoftwo.txt 1 
+</list>
+<list> invited
+taleoftwo.txt 1 
+</list>
+<list> involved
+taleoftwo.txt 4 
+</list>
+<list> involving
+taleoftwo.txt 3 
+</list>
+<list> inward
+taleoftwo.txt 2 
+</list>
+<list> iron
+taleoftwo.txt 23 
+</list>
+<list> ironical
+taleoftwo.txt 1 
+</list>
+<list> irrepressible
+taleoftwo.txt 1 
+</list>
+<list> irresolute
+taleoftwo.txt 1 
+</list>
+<list> irresolutely
+taleoftwo.txt 1 
+</list>
+<list> irruption
+taleoftwo.txt 3 
+</list>
+<list> irs
+taleoftwo.txt 1 
+</list>
+<list> is
+taleoftwo.txt 853 
+</list>
+<list> island
+taleoftwo.txt 2 
+</list>
+<list> isolated
+taleoftwo.txt 1 
+</list>
+<list> issued
+taleoftwo.txt 5 
+</list>
+<list> issuing
+taleoftwo.txt 1 
+</list>
+<list> it
+taleoftwo.txt 2082 
+</list>
+<list> its
+taleoftwo.txt 227 
+</list>
+<list> itself
+taleoftwo.txt 49 
+</list>
+<list> iv
+taleoftwo.txt 6 
+</list>
+<list> ivy
+taleoftwo.txt 1 
+</list>
+<list> ix
+taleoftwo.txt 4 
+</list>
+<list> izaak
+taleoftwo.txt 1 
+</list>
+<list> j
+taleoftwo.txt 1 
+</list>
+<list> jacquerie
+taleoftwo.txt 1 
+</list>
+<list> jacques
+taleoftwo.txt 73 
+</list>
+<list> jaggedly
+taleoftwo.txt 1 
+</list>
+<list> jalousie
+taleoftwo.txt 1 
+</list>
+<list> jangle
+taleoftwo.txt 1 
+</list>
+<list> january
+taleoftwo.txt 2 
+</list>
+<list> jarring
+taleoftwo.txt 1 
+</list>
+<list> jarvis
+taleoftwo.txt 19 
+</list>
+<list> jaw
+taleoftwo.txt 3 
+</list>
+<list> jaws
+taleoftwo.txt 2 
+</list>
+<list> jealous
+taleoftwo.txt 1 
+</list>
+<list> jealously
+taleoftwo.txt 1 
+</list>
+<list> jeffries
+taleoftwo.txt 1 
+</list>
+<list> jerks
+taleoftwo.txt 3 
+</list>
+<list> jerry
+taleoftwo.txt 108 
+</list>
+<list> jesting
+taleoftwo.txt 1 
+</list>
+<list> jests
+taleoftwo.txt 1 
+</list>
+<list> jewels
+taleoftwo.txt 3 
+</list>
+<list> jezebels
+taleoftwo.txt 1 
+</list>
+<list> jingle
+taleoftwo.txt 1 
+</list>
+<list> jingling
+taleoftwo.txt 1 
+</list>
+<list> jinte
+taleoftwo.txt 1 
+</list>
+<list> job
+taleoftwo.txt 6 
+</list>
+<list> jobbing
+taleoftwo.txt 1 
+</list>
+<list> jocosely
+taleoftwo.txt 1 
+</list>
+<list> joe
+taleoftwo.txt 7 
+</list>
+<list> john
+taleoftwo.txt 10 
+</list>
+<list> joint
+taleoftwo.txt 3 
+</list>
+<list> joints
+taleoftwo.txt 2 
+</list>
+<list> joke
+taleoftwo.txt 4 
+</list>
+<list> joker
+taleoftwo.txt 6 
+</list>
+<list> jolt
+taleoftwo.txt 2 
+</list>
+<list> jolted
+taleoftwo.txt 3 
+</list>
+<list> jostlement
+taleoftwo.txt 1 
+</list>
+<list> jostling
+taleoftwo.txt 1 
+</list>
+<list> journal
+taleoftwo.txt 2 
+</list>
+<list> journey
+taleoftwo.txt 25 
+</list>
+<list> joy
+taleoftwo.txt 6 
+</list>
+<list> joyfully
+taleoftwo.txt 1 
+</list>
+<list> judiciously
+taleoftwo.txt 2 
+</list>
+<list> judith
+taleoftwo.txt 2 
+</list>
+<list> jug
+taleoftwo.txt 2 
+</list>
+<list> july
+taleoftwo.txt 3 
+</list>
+<list> jumbled
+taleoftwo.txt 1 
+</list>
+<list> juncture
+taleoftwo.txt 1 
+</list>
+<list> june
+taleoftwo.txt 1 
+</list>
+<list> junior
+taleoftwo.txt 1 
+</list>
+<list> jupiter
+taleoftwo.txt 1 
+</list>
+<list> juryman
+taleoftwo.txt 6 
+</list>
+<list> jurymen
+taleoftwo.txt 2 
+</list>
+<list> just
+taleoftwo.txt 3 
+</list>
+<list> justice
+taleoftwo.txt 1 
+</list>
+<list> justify
+taleoftwo.txt 3 
+</list>
+<list> justly
+taleoftwo.txt 1 
+</list>
+<list> keep
+taleoftwo.txt 2 
+</list>
+<list> keepin
+taleoftwo.txt 1 
+</list>
+<list> keeping
+taleoftwo.txt 15 
+</list>
+<list> keeps
+taleoftwo.txt 2 
+</list>
+<list> kennel
+taleoftwo.txt 2 
+</list>
+<list> kep
+taleoftwo.txt 1 
+</list>
+<list> kept
+taleoftwo.txt 44 
+</list>
+<list> kettle
+taleoftwo.txt 1 
+</list>
+<list> key
+taleoftwo.txt 13 
+</list>
+<list> keys
+taleoftwo.txt 5 
+</list>
+<list> kicked
+taleoftwo.txt 3 
+</list>
+<list> kicking
+taleoftwo.txt 1 
+</list>
+<list> kill
+taleoftwo.txt 6 
+</list>
+<list> killed
+taleoftwo.txt 4 
+</list>
+<list> kind
+taleoftwo.txt 5 
+</list>
+<list> kindred
+taleoftwo.txt 1 
+</list>
+<list> kinds
+taleoftwo.txt 1 
+</list>
+<list> kine
+taleoftwo.txt 1 
+</list>
+<list> king
+taleoftwo.txt 31 
+</list>
+<list> kings
+taleoftwo.txt 1 
+</list>
+<list> kissed
+taleoftwo.txt 14 
+</list>
+<list> kisses
+taleoftwo.txt 2 
+</list>
+<list> kissing
+taleoftwo.txt 3 
+</list>
+<list> kitchen
+taleoftwo.txt 1 
+</list>
+<list> kitchens
+taleoftwo.txt 1 
+</list>
+<list> kite
+taleoftwo.txt 1 
+</list>
+<list> knavish
+taleoftwo.txt 1 
+</list>
+<list> knees
+taleoftwo.txt 10 
+</list>
+<list> knew
+taleoftwo.txt 86 
+</list>
+<list> knitted
+taleoftwo.txt 3 
+</list>
+<list> knitting
+taleoftwo.txt 49 
+</list>
+<list> knives
+taleoftwo.txt 8 
+</list>
+<list> know
+taleoftwo.txt 3 
+</list>
+<list> known
+taleoftwo.txt 58 
+</list>
+<list> knows
+taleoftwo.txt 23 
+</list>
+<list> knuckle
+taleoftwo.txt 1 
+</list>
+<list> knuckled
+taleoftwo.txt 2 
+</list>
+<list> knuckles
+taleoftwo.txt 2 
+</list>
+<list> la
+taleoftwo.txt 30 
+</list>
+<list> laboriously
+taleoftwo.txt 1 
+</list>
+<list> laboured
+taleoftwo.txt 2 
+</list>
+<list> labourer
+taleoftwo.txt 1 
+</list>
+<list> labouring
+taleoftwo.txt 2 
+</list>
+<list> lace
+taleoftwo.txt 1 
+</list>
+<list> laced
+taleoftwo.txt 2 
+</list>
+<list> laconic
+taleoftwo.txt 1 
+</list>
+<list> lacquey
+taleoftwo.txt 1 
+</list>
+<list> lady
+taleoftwo.txt 56 
+</list>
+<list> ladybird
+taleoftwo.txt 12 
+</list>
+<list> lagged
+taleoftwo.txt 1 
+</list>
+<list> laid
+taleoftwo.txt 52 
+</list>
+<list> lain
+taleoftwo.txt 3 
+</list>
+<list> lake
+taleoftwo.txt 1 
+</list>
+<list> lamenting
+taleoftwo.txt 1 
+</list>
+<list> lamplighter
+taleoftwo.txt 3 
+</list>
+<list> lamps
+taleoftwo.txt 15 
+</list>
+<list> land
+taleoftwo.txt 2 
+</list>
+<list> language
+taleoftwo.txt 5 
+</list>
+<list> lantern
+taleoftwo.txt 2 
+</list>
+<list> lanterns
+taleoftwo.txt 3 
+</list>
+<list> lap
+taleoftwo.txt 1 
+</list>
+<list> lapsed
+taleoftwo.txt 1 
+</list>
+<list> lar
+taleoftwo.txt 1 
+</list>
+<list> large
+taleoftwo.txt 21 
+</list>
+<list> larger
+taleoftwo.txt 4 
+</list>
+<list> largest
+taleoftwo.txt 1 
+</list>
+<list> last
+taleoftwo.txt 4 
+</list>
+<list> lastly
+taleoftwo.txt 1 
+</list>
+<list> lasts
+taleoftwo.txt 1 
+</list>
+<list> late
+taleoftwo.txt 2 
+</list>
+<list> latent
+taleoftwo.txt 2 
+</list>
+<list> latter
+taleoftwo.txt 15 
+</list>
+<list> lattice
+taleoftwo.txt 2 
+</list>
+<list> laugh
+taleoftwo.txt 1 
+</list>
+<list> laughed
+taleoftwo.txt 9 
+</list>
+<list> laughing
+taleoftwo.txt 6 
+</list>
+<list> laughingly
+taleoftwo.txt 1 
+</list>
+<list> laughter
+taleoftwo.txt 1 
+</list>
+<list> laving
+taleoftwo.txt 1 
+</list>
+<list> lavished
+taleoftwo.txt 1 
+</list>
+<list> lawless
+taleoftwo.txt 1 
+</list>
+<list> laws
+taleoftwo.txt 11 
+</list>
+<list> lawyer
+taleoftwo.txt 1 
+</list>
+<list> lay
+taleoftwo.txt 68 
+</list>
+<list> laying
+taleoftwo.txt 14 
+</list>
+<list> lazy
+taleoftwo.txt 1 
+</list>
+<list> leaf
+taleoftwo.txt 1 
+</list>
+<list> learn
+taleoftwo.txt 1 
+</list>
+<list> leaves
+taleoftwo.txt 11 
+</list>
+<list> leaving
+taleoftwo.txt 12 
+</list>
+<list> led
+taleoftwo.txt 6 
+</list>
+<list> ledge
+taleoftwo.txt 1 
+</list>
+<list> ledgers
+taleoftwo.txt 1 
+</list>
+<list> ledges
+taleoftwo.txt 2 
+</list>
+<list> lee
+taleoftwo.txt 1 
+</list>
+<list> lees
+taleoftwo.txt 1 
+</list>
+<list> left
+taleoftwo.txt 102 
+</list>
+<list> legal
+taleoftwo.txt 2 
+</list>
+<list> legally
+taleoftwo.txt 1 
+</list>
+<list> legend
+taleoftwo.txt 1 
+</list>
+<list> legged
+taleoftwo.txt 1 
+</list>
+<list> legibly
+taleoftwo.txt 1 
+</list>
+<list> legislation
+taleoftwo.txt 1 
+</list>
+<list> legs
+taleoftwo.txt 10 
+</list>
+<list> leisure
+taleoftwo.txt 3 
+</list>
+<list> leisurely
+taleoftwo.txt 7 
+</list>
+<list> lemons
+taleoftwo.txt 1 
+</list>
+<list> lend
+taleoftwo.txt 1 
+</list>
+<list> length
+taleoftwo.txt 6 
+</list>
+<list> lengthen
+taleoftwo.txt 1 
+</list>
+<list> lengthening
+taleoftwo.txt 2 
+</list>
+<list> lengths
+taleoftwo.txt 1 
+</list>
+<list> lenient
+taleoftwo.txt 1 
+</list>
+<list> leonora
+taleoftwo.txt 1 
+</list>
+<list> leprosy
+taleoftwo.txt 1 
+</list>
+<list> less
+taleoftwo.txt 9 
+</list>
+<list> lessened
+taleoftwo.txt 1 
+</list>
+<list> lesser
+taleoftwo.txt 1 
+</list>
+<list> lest
+taleoftwo.txt 2 
+</list>
+<list> let
+taleoftwo.txt 10 
+</list>
+<list> letter
+taleoftwo.txt 1 
+</list>
+<list> letters
+taleoftwo.txt 12 
+</list>
+<list> letting
+taleoftwo.txt 3 
+</list>
+<list> level
+taleoftwo.txt 2 
+</list>
+<list> levity
+taleoftwo.txt 1 
+</list>
+<list> lewis
+taleoftwo.txt 3 
+</list>
+<list> liability
+taleoftwo.txt 3 
+</list>
+<list> liable
+taleoftwo.txt 2 
+</list>
+<list> liar
+taleoftwo.txt 1 
+</list>
+<list> liberty
+taleoftwo.txt 20 
+</list>
+<list> library
+taleoftwo.txt 1 
+</list>
+<list> license
+taleoftwo.txt 17 
+</list>
+<list> licensed
+taleoftwo.txt 1 
+</list>
+<list> licking
+taleoftwo.txt 1 
+</list>
+<list> lid
+taleoftwo.txt 1 
+</list>
+<list> lids
+taleoftwo.txt 1 
+</list>
+<list> lieu
+taleoftwo.txt 4 
+</list>
+<list> lieutenant
+taleoftwo.txt 3 
+</list>
+<list> life
+taleoftwo.txt 4 
+</list>
+<list> lift
+taleoftwo.txt 6 
+</list>
+<list> lifted
+taleoftwo.txt 14 
+</list>
+<list> lifting
+taleoftwo.txt 5 
+</list>
+<list> light
+taleoftwo.txt 3 
+</list>
+<list> lightest
+taleoftwo.txt 1 
+</list>
+<list> lightning
+taleoftwo.txt 8 
+</list>
+<list> lights
+taleoftwo.txt 11 
+</list>
+<list> like
+taleoftwo.txt 7 
+</list>
+<list> likely
+taleoftwo.txt 6 
+</list>
+<list> likewise
+taleoftwo.txt 8 
+</list>
+<list> liking
+taleoftwo.txt 2 
+</list>
+<list> limbs
+taleoftwo.txt 2 
+</list>
+<list> limitation
+taleoftwo.txt 3 
+</list>
+<list> limited
+taleoftwo.txt 5 
+</list>
+<list> limp
+taleoftwo.txt 1 
+</list>
+<list> limped
+taleoftwo.txt 1 
+</list>
+<list> linked
+taleoftwo.txt 4 
+</list>
+<list> links
+taleoftwo.txt 3 
+</list>
+<list> linstock
+taleoftwo.txt 1 
+</list>
+<list> lion
+taleoftwo.txt 10 
+</list>
+<list> lions
+taleoftwo.txt 1 
+</list>
+<list> lip
+taleoftwo.txt 1 
+</list>
+<list> lips
+taleoftwo.txt 46 
+</list>
+<list> liquor
+taleoftwo.txt 1 
+</list>
+<list> list
+taleoftwo.txt 1 
+</list>
+<list> listened
+taleoftwo.txt 2 
+</list>
+<list> listening
+taleoftwo.txt 9 
+</list>
+<list> lists
+taleoftwo.txt 12 
+</list>
+<list> literary
+taleoftwo.txt 13 
+</list>
+<list> litter
+taleoftwo.txt 2 
+</list>
+<list> little
+taleoftwo.txt 267 
+</list>
+<list> littlenesses
+taleoftwo.txt 1 
+</list>
+<list> lives
+taleoftwo.txt 4 
+</list>
+<list> liveth
+taleoftwo.txt 1 
+</list>
+<list> livid
+taleoftwo.txt 1 
+</list>
+<list> living
+taleoftwo.txt 21 
+</list>
+<list> ll
+taleoftwo.txt 46 
+</list>
+<list> lo
+taleoftwo.txt 1 
+</list>
+<list> loaded
+taleoftwo.txt 1 
+</list>
+<list> loads
+taleoftwo.txt 2 
+</list>
+<list> loaf
+taleoftwo.txt 2 
+</list>
+<list> loathsome
+taleoftwo.txt 1 
+</list>
+<list> loaves
+taleoftwo.txt 2 
+</list>
+<list> located
+taleoftwo.txt 4 
+</list>
+<list> locations
+taleoftwo.txt 2 
+</list>
+<list> locked
+taleoftwo.txt 2 
+</list>
+<list> locking
+taleoftwo.txt 2 
+</list>
+<list> locks
+taleoftwo.txt 4 
+</list>
+<list> lodgers
+taleoftwo.txt 1 
+</list>
+<list> lodging
+taleoftwo.txt 6 
+</list>
+<list> lodgings
+taleoftwo.txt 4 
+</list>
+<list> loft
+taleoftwo.txt 3 
+</list>
+<list> loftiest
+taleoftwo.txt 1 
+</list>
+<list> lofty
+taleoftwo.txt 4 
+</list>
+<list> log
+taleoftwo.txt 3 
+</list>
+<list> logs
+taleoftwo.txt 1 
+</list>
+<list> loitered
+taleoftwo.txt 1 
+</list>
+<list> loitering
+taleoftwo.txt 3 
+</list>
+<list> lombard
+taleoftwo.txt 1 
+</list>
+<list> long
+taleoftwo.txt 148 
+</list>
+<list> longer
+taleoftwo.txt 10 
+</list>
+<list> longevity
+taleoftwo.txt 1 
+</list>
+<list> longing
+taleoftwo.txt 1 
+</list>
+<list> looks
+taleoftwo.txt 5 
+</list>
+<list> loose
+taleoftwo.txt 1 
+</list>
+<list> loosed
+taleoftwo.txt 2 
+</list>
+<list> loosely
+taleoftwo.txt 1 
+</list>
+<list> loosen
+taleoftwo.txt 1 
+</list>
+<list> loosened
+taleoftwo.txt 1 
+</list>
+<list> loosening
+taleoftwo.txt 1 
+</list>
+<list> looser
+taleoftwo.txt 1 
+</list>
+<list> lopped
+taleoftwo.txt 1 
+</list>
+<list> lord
+taleoftwo.txt 1 
+</list>
+<list> lords
+taleoftwo.txt 6 
+</list>
+<list> lorry
+taleoftwo.txt 369 
+</list>
+<list> lose
+taleoftwo.txt 4 
+</list>
+<list> loss
+taleoftwo.txt 7 
+</list>
+<list> lost
+taleoftwo.txt 42 
+</list>
+<list> lot
+taleoftwo.txt 2 
+</list>
+<list> lottery
+taleoftwo.txt 1 
+</list>
+<list> loud
+taleoftwo.txt 5 
+</list>
+<list> louder
+taleoftwo.txt 5 
+</list>
+<list> loudly
+taleoftwo.txt 1 
+</list>
+<list> lounger
+taleoftwo.txt 1 
+</list>
+<list> loungers
+taleoftwo.txt 1 
+</list>
+<list> lounging
+taleoftwo.txt 2 
+</list>
+<list> love
+taleoftwo.txt 6 
+</list>
+<list> loving
+taleoftwo.txt 9 
+</list>
+<list> lovingly
+taleoftwo.txt 3 
+</list>
+<list> low
+taleoftwo.txt 11 
+</list>
+<list> lower
+taleoftwo.txt 1 
+</list>
+<list> lowering
+taleoftwo.txt 1 
+</list>
+<list> lowest
+taleoftwo.txt 4 
+</list>
+<list> loyal
+taleoftwo.txt 2 
+</list>
+<list> loyalty
+taleoftwo.txt 1 
+</list>
+<list> lucie
+taleoftwo.txt 100 
+</list>
+<list> lucifer
+taleoftwo.txt 2 
+</list>
+<list> luck
+taleoftwo.txt 3 
+</list>
+<list> luckier
+taleoftwo.txt 1 
+</list>
+<list> lucky
+taleoftwo.txt 2 
+</list>
+<list> lucrative
+taleoftwo.txt 1 
+</list>
+<list> ludgate
+taleoftwo.txt 1 
+</list>
+<list> ludicrous
+taleoftwo.txt 1 
+</list>
+<list> luggage
+taleoftwo.txt 2 
+</list>
+<list> lulled
+taleoftwo.txt 1 
+</list>
+<list> lumbering
+taleoftwo.txt 6 
+</list>
+<list> luminous
+taleoftwo.txt 2 
+</list>
+<list> lumps
+taleoftwo.txt 3 
+</list>
+<list> lunch
+taleoftwo.txt 1 
+</list>
+<list> lured
+taleoftwo.txt 1 
+</list>
+<list> lurking
+taleoftwo.txt 1 
+</list>
+<list> lurks
+taleoftwo.txt 1 
+</list>
+<list> luxurious
+taleoftwo.txt 3 
+</list>
+<list> luxury
+taleoftwo.txt 3 
+</list>
+<list> lying
+taleoftwo.txt 23 
+</list>
+<list> m
+taleoftwo.txt 10 
+</list>
+<list> ma
+taleoftwo.txt 1 
+</list>
+<list> machine
+taleoftwo.txt 3 
+</list>
+<list> madame
+taleoftwo.txt 44 
+</list>
+<list> made
+taleoftwo.txt 10 
+</list>
+<list> madmen
+taleoftwo.txt 1 
+</list>
+<list> madness
+taleoftwo.txt 5 
+</list>
+<list> magician
+taleoftwo.txt 1 
+</list>
+<list> magnanimous
+taleoftwo.txt 1 
+</list>
+<list> magnificent
+taleoftwo.txt 4 
+</list>
+<list> magnificently
+taleoftwo.txt 1 
+</list>
+<list> mahogany
+taleoftwo.txt 1 
+</list>
+<list> main
+taleoftwo.txt 6 
+</list>
+<list> maintaining
+taleoftwo.txt 1 
+</list>
+<list> majestically
+taleoftwo.txt 1 
+</list>
+<list> majesty
+taleoftwo.txt 5 
+</list>
+<list> majority
+taleoftwo.txt 2 
+</list>
+<list> make
+taleoftwo.txt 20 
+</list>
+<list> makes
+taleoftwo.txt 1 
+</list>
+<list> making
+taleoftwo.txt 34 
+</list>
+<list> makings
+taleoftwo.txt 1 
+</list>
+<list> malady
+taleoftwo.txt 1 
+</list>
+<list> malevolent
+taleoftwo.txt 1 
+</list>
+<list> malice
+taleoftwo.txt 2 
+</list>
+<list> maligned
+taleoftwo.txt 1 
+</list>
+<list> maltreated
+taleoftwo.txt 1 
+</list>
+<list> mam
+taleoftwo.txt 2 
+</list>
+<list> mamma
+taleoftwo.txt 3 
+</list>
+<list> mantle
+taleoftwo.txt 1 
+</list>
+<list> many
+taleoftwo.txt 144 
+</list>
+<list> marked
+taleoftwo.txt 2 
+</list>
+<list> marks
+taleoftwo.txt 1 
+</list>
+<list> marvel
+taleoftwo.txt 1 
+</list>
+<list> marvellous
+taleoftwo.txt 3 
+</list>
+<list> marvellously
+taleoftwo.txt 1 
+</list>
+<list> mass
+taleoftwo.txt 1 
+</list>
+<list> massive
+taleoftwo.txt 7 
+</list>
+<list> master
+taleoftwo.txt 4 
+</list>
+<list> masters
+taleoftwo.txt 2 
+</list>
+<list> mastery
+taleoftwo.txt 2 
+</list>
+<list> maturely
+taleoftwo.txt 1 
+</list>
+<list> maturity
+taleoftwo.txt 1 
+</list>
+<list> maxim
+taleoftwo.txt 1 
+</list>
+<list> maximum
+taleoftwo.txt 1 
+</list>
+<list> may
+taleoftwo.txt 88 
+</list>
+<list> maybe
+taleoftwo.txt 1 
+</list>
+<list> mayn
+taleoftwo.txt 2 
+</list>
+<list> mayor
+taleoftwo.txt 1 
+</list>
+<list> me
+taleoftwo.txt 529 
+</list>
+<list> means
+taleoftwo.txt 4 
+</list>
+<list> meant
+taleoftwo.txt 1 
+</list>
+<list> measure
+taleoftwo.txt 1 
+</list>
+<list> measured
+taleoftwo.txt 2 
+</list>
+<list> measuring
+taleoftwo.txt 1 
+</list>
+<list> meat
+taleoftwo.txt 5 
+</list>
+<list> mechanical
+taleoftwo.txt 5 
+</list>
+<list> mechanically
+taleoftwo.txt 2 
+</list>
+<list> meditative
+taleoftwo.txt 1 
+</list>
+<list> medium
+taleoftwo.txt 5 
+</list>
+<list> medley
+taleoftwo.txt 2 
+</list>
+<list> meekness
+taleoftwo.txt 1 
+</list>
+<list> meet
+taleoftwo.txt 8 
+</list>
+<list> meeting
+taleoftwo.txt 2 
+</list>
+<list> melan
+taleoftwo.txt 1 
+</list>
+<list> melancholy
+taleoftwo.txt 2 
+</list>
+<list> melted
+taleoftwo.txt 3 
+</list>
+<list> melting
+taleoftwo.txt 1 
+</list>
+<list> memorials
+taleoftwo.txt 2 
+</list>
+<list> memory
+taleoftwo.txt 11 
+</list>
+<list> men
+taleoftwo.txt 4 
+</list>
+<list> mender
+taleoftwo.txt 1 
+</list>
+<list> mention
+taleoftwo.txt 8 
+</list>
+<list> mentioned
+taleoftwo.txt 8 
+</list>
+<list> mentioning
+taleoftwo.txt 1 
+</list>
+<list> merchantibility
+taleoftwo.txt 1 
+</list>
+<list> mercifully
+taleoftwo.txt 1 
+</list>
+<list> mere
+taleoftwo.txt 3 
+</list>
+<list> merely
+taleoftwo.txt 2 
+</list>
+<list> merited
+taleoftwo.txt 1 
+</list>
+<list> merits
+taleoftwo.txt 5 
+</list>
+<list> merry
+taleoftwo.txt 1 
+</list>
+<list> messenger
+taleoftwo.txt 1 
+</list>
+<list> messengers
+taleoftwo.txt 2 
+</list>
+<list> messieurs
+taleoftwo.txt 8 
+</list>
+<list> messrs
+taleoftwo.txt 1 
+</list>
+<list> methodically
+taleoftwo.txt 1 
+</list>
+<list> methods
+taleoftwo.txt 1 
+</list>
+<list> michael
+taleoftwo.txt 2 
+</list>
+<list> michaelmas
+taleoftwo.txt 2 
+</list>
+<list> middle
+taleoftwo.txt 1 
+</list>
+<list> midnight
+taleoftwo.txt 7 
+</list>
+<list> midst
+taleoftwo.txt 14 
+</list>
+<list> might
+taleoftwo.txt 144 
+</list>
+<list> mightily
+taleoftwo.txt 3 
+</list>
+<list> miller
+taleoftwo.txt 1 
+</list>
+<list> millions
+taleoftwo.txt 3 
+</list>
+<list> mind
+taleoftwo.txt 3 
+</list>
+<list> mine
+taleoftwo.txt 1 
+</list>
+<list> ministers
+taleoftwo.txt 1 
+</list>
+<list> minutely
+taleoftwo.txt 1 
+</list>
+<list> minutes
+taleoftwo.txt 25 
+</list>
+<list> mire
+taleoftwo.txt 2 
+</list>
+<list> mirror
+taleoftwo.txt 2 
+</list>
+<list> mirrors
+taleoftwo.txt 2 
+</list>
+<list> mission
+taleoftwo.txt 4 
+</list>
+<list> mississippi
+taleoftwo.txt 1 
+</list>
+<list> mistake
+taleoftwo.txt 1 
+</list>
+<list> misty
+taleoftwo.txt 2 
+</list>
+<list> misuse
+taleoftwo.txt 2 
+</list>
+<list> misused
+taleoftwo.txt 1 
+</list>
+<list> mixed
+taleoftwo.txt 3 
+</list>
+<list> mixing
+taleoftwo.txt 2 
+</list>
+<list> moaning
+taleoftwo.txt 1 
+</list>
+<list> moaningly
+taleoftwo.txt 1 
+</list>
+<list> moans
+taleoftwo.txt 1 
+</list>
+<list> mob
+taleoftwo.txt 5 
+</list>
+<list> mobbed
+taleoftwo.txt 1 
+</list>
+<list> mock
+taleoftwo.txt 2 
+</list>
+<list> modicum
+taleoftwo.txt 2 
+</list>
+<list> modification
+taleoftwo.txt 1 
+</list>
+<list> modified
+taleoftwo.txt 1 
+</list>
+<list> moister
+taleoftwo.txt 1 
+</list>
+<list> moisture
+taleoftwo.txt 2 
+</list>
+<list> mole
+taleoftwo.txt 1 
+</list>
+<list> molten
+taleoftwo.txt 1 
+</list>
+<list> moment
+taleoftwo.txt 3 
+</list>
+<list> momentary
+taleoftwo.txt 4 
+</list>
+<list> moments
+taleoftwo.txt 13 
+</list>
+<list> monarchs
+taleoftwo.txt 1 
+</list>
+<list> money
+taleoftwo.txt 3 
+</list>
+<list> monsieur
+taleoftwo.txt 3 
+</list>
+<list> monsters
+taleoftwo.txt 1 
+</list>
+<list> monstrously
+taleoftwo.txt 1 
+</list>
+<list> month
+taleoftwo.txt 7 
+</list>
+<list> months
+taleoftwo.txt 7 
+</list>
+<list> moon
+taleoftwo.txt 11 
+</list>
+<list> moonlight
+taleoftwo.txt 6 
+</list>
+<list> more
+taleoftwo.txt 19 
+</list>
+<list> moreover
+taleoftwo.txt 1 
+</list>
+<list> morrow
+taleoftwo.txt 7 
+</list>
+<list> mortal
+taleoftwo.txt 1 
+</list>
+<list> mortality
+taleoftwo.txt 1 
+</list>
+<list> mortally
+taleoftwo.txt 2 
+</list>
+<list> mortals
+taleoftwo.txt 1 
+</list>
+<list> mortar
+taleoftwo.txt 1 
+</list>
+<list> mortgage
+taleoftwo.txt 1 
+</list>
+<list> moss
+taleoftwo.txt 1 
+</list>
+<list> most
+taleoftwo.txt 75 
+</list>
+<list> mostly
+taleoftwo.txt 4 
+</list>
+<list> mother
+taleoftwo.txt 11 
+</list>
+<list> motion
+taleoftwo.txt 1 
+</list>
+<list> motive
+taleoftwo.txt 1 
+</list>
+<list> motives
+taleoftwo.txt 3 
+</list>
+<list> mourning
+taleoftwo.txt 2 
+</list>
+<list> mouth
+taleoftwo.txt 5 
+</list>
+<list> mouthful
+taleoftwo.txt 1 
+</list>
+<list> mouths
+taleoftwo.txt 5 
+</list>
+<list> movement
+taleoftwo.txt 2 
+</list>
+<list> moves
+taleoftwo.txt 3 
+</list>
+<list> moving
+taleoftwo.txt 11 
+</list>
+<list> mr
+taleoftwo.txt 622 
+</list>
+<list> mrs
+taleoftwo.txt 18 
+</list>
+<list> much
+taleoftwo.txt 186 
+</list>
+<list> mud
+taleoftwo.txt 17 
+</list>
+<list> muddy
+taleoftwo.txt 3 
+</list>
+<list> muffled
+taleoftwo.txt 4 
+</list>
+<list> muffler
+taleoftwo.txt 3 
+</list>
+<list> mugs
+taleoftwo.txt 1 
+</list>
+<list> multitude
+taleoftwo.txt 6 
+</list>
+<list> multitudes
+taleoftwo.txt 1 
+</list>
+<list> munching
+taleoftwo.txt 1 
+</list>
+<list> munificent
+taleoftwo.txt 1 
+</list>
+<list> murmured
+taleoftwo.txt 6 
+</list>
+<list> murmuring
+taleoftwo.txt 3 
+</list>
+<list> muskets
+taleoftwo.txt 7 
+</list>
+<list> must
+taleoftwo.txt 87 
+</list>
+<list> mustard
+taleoftwo.txt 1 
+</list>
+<list> musty
+taleoftwo.txt 2 
+</list>
+<list> muttered
+taleoftwo.txt 1 
+</list>
+<list> mutton
+taleoftwo.txt 2 
+</list>
+<list> mutual
+taleoftwo.txt 1 
+</list>
+<list> my
+taleoftwo.txt 656 
+</list>
+<list> myriads
+taleoftwo.txt 1 
+</list>
+<list> myself
+taleoftwo.txt 11 
+</list>
+<list> mysterious
+taleoftwo.txt 6 
+</list>
+<list> mystery
+taleoftwo.txt 8 
+</list>
+<list> n
+taleoftwo.txt 4 
+</list>
+<list> nail
+taleoftwo.txt 1 
+</list>
+<list> nailed
+taleoftwo.txt 1 
+</list>
+<list> nails
+taleoftwo.txt 3 
+</list>
+<list> naked
+taleoftwo.txt 3 
+</list>
+<list> nakedness
+taleoftwo.txt 2 
+</list>
+<list> name
+taleoftwo.txt 38 
+</list>
+<list> named
+taleoftwo.txt 2 
+</list>
+<list> names
+taleoftwo.txt 6 
+</list>
+<list> namesake
+taleoftwo.txt 2 
+</list>
+<list> naming
+taleoftwo.txt 1 
+</list>
+<list> napkin
+taleoftwo.txt 2 
+</list>
+<list> narrative
+taleoftwo.txt 3 
+</list>
+<list> narrow
+taleoftwo.txt 11 
+</list>
+<list> narrowing
+taleoftwo.txt 1 
+</list>
+<list> natural
+taleoftwo.txt 1 
+</list>
+<list> naturally
+taleoftwo.txt 9 
+</list>
+<list> nature
+taleoftwo.txt 27 
+</list>
+<list> natured
+taleoftwo.txt 2 
+</list>
+<list> naught
+taleoftwo.txt 1 
+</list>
+<list> naval
+taleoftwo.txt 1 
+</list>
+<list> nay
+taleoftwo.txt 1 
+</list>
+<list> nearest
+taleoftwo.txt 2 
+</list>
+<list> nearly
+taleoftwo.txt 11 
+</list>
+<list> neat
+taleoftwo.txt 4 
+</list>
+<list> necessarily
+taleoftwo.txt 1 
+</list>
+<list> necessary
+taleoftwo.txt 3 
+</list>
+<list> necessity
+taleoftwo.txt 2 
+</list>
+<list> neck
+taleoftwo.txt 3 
+</list>
+<list> necked
+taleoftwo.txt 1 
+</list>
+<list> necks
+taleoftwo.txt 2 
+</list>
+<list> need
+taleoftwo.txt 1 
+</list>
+<list> needed
+taleoftwo.txt 1 
+</list>
+<list> needle
+taleoftwo.txt 1 
+</list>
+<list> needless
+taleoftwo.txt 1 
+</list>
+<list> needs
+taleoftwo.txt 2 
+</list>
+<list> needy
+taleoftwo.txt 1 
+</list>
+<list> neglects
+taleoftwo.txt 1 
+</list>
+<list> negligence
+taleoftwo.txt 2 
+</list>
+<list> negligent
+taleoftwo.txt 2 
+</list>
+<list> negligently
+taleoftwo.txt 1 
+</list>
+<list> negro
+taleoftwo.txt 2 
+</list>
+<list> neighbours
+taleoftwo.txt 1 
+</list>
+<list> neither
+taleoftwo.txt 18 
+</list>
+<list> nephew
+taleoftwo.txt 25 
+</list>
+<list> nervously
+taleoftwo.txt 3 
+</list>
+<list> nervousness
+taleoftwo.txt 1 
+</list>
+<list> nest
+taleoftwo.txt 1 
+</list>
+<list> nestled
+taleoftwo.txt 1 
+</list>
+<list> nettled
+taleoftwo.txt 1 
+</list>
+<list> network
+taleoftwo.txt 2 
+</list>
+<list> neuf
+taleoftwo.txt 1 
+</list>
+<list> neutral
+taleoftwo.txt 1 
+</list>
+<list> never
+taleoftwo.txt 194 
+</list>
+<list> nevertheless
+taleoftwo.txt 10 
+</list>
+<list> new
+taleoftwo.txt 1 
+</list>
+<list> news
+taleoftwo.txt 7 
+</list>
+<list> newsletter
+taleoftwo.txt 1 
+</list>
+<list> next
+taleoftwo.txt 36 
+</list>
+<list> nicety
+taleoftwo.txt 1 
+</list>
+<list> nick
+taleoftwo.txt 1 
+</list>
+<list> nigh
+taleoftwo.txt 1 
+</list>
+<list> night
+taleoftwo.txt 53 
+</list>
+<list> nightcaps
+taleoftwo.txt 1 
+</list>
+<list> nightly
+taleoftwo.txt 1 
+</list>
+<list> nightmare
+taleoftwo.txt 1 
+</list>
+<list> nights
+taleoftwo.txt 11 
+</list>
+<list> nimble
+taleoftwo.txt 3 
+</list>
+<list> nimbly
+taleoftwo.txt 3 
+</list>
+<list> nine
+taleoftwo.txt 5 
+</list>
+<list> ninepence
+taleoftwo.txt 1 
+</list>
+<list> ninety
+taleoftwo.txt 2 
+</list>
+<list> ninth
+taleoftwo.txt 1 
+</list>
+<list> no
+taleoftwo.txt 553 
+</list>
+<list> noakes
+taleoftwo.txt 1 
+</list>
+<list> nobleman
+taleoftwo.txt 1 
+</list>
+<list> nobles
+taleoftwo.txt 8 
+</list>
+<list> nobody
+taleoftwo.txt 15 
+</list>
+<list> nod
+taleoftwo.txt 2 
+</list>
+<list> nodded
+taleoftwo.txt 8 
+</list>
+<list> nodding
+taleoftwo.txt 5 
+</list>
+<list> noise
+taleoftwo.txt 3 
+</list>
+<list> noises
+taleoftwo.txt 2 
+</list>
+<list> noisiest
+taleoftwo.txt 1 
+</list>
+<list> noisily
+taleoftwo.txt 1 
+</list>
+<list> noisome
+taleoftwo.txt 1 
+</list>
+<list> non
+taleoftwo.txt 1 
+</list>
+<list> nonproprietary
+taleoftwo.txt 1 
+</list>
+<list> nonsense
+taleoftwo.txt 6 
+</list>
+<list> nonsensical
+taleoftwo.txt 1 
+</list>
+<list> nook
+taleoftwo.txt 1 
+</list>
+<list> noon
+taleoftwo.txt 3 
+</list>
+<list> noontide
+taleoftwo.txt 2 
+</list>
+<list> nor
+taleoftwo.txt 17 
+</list>
+<list> north
+taleoftwo.txt 19 
+</list>
+<list> northward
+taleoftwo.txt 1 
+</list>
+<list> norway
+taleoftwo.txt 1 
+</list>
+<list> nostril
+taleoftwo.txt 1 
+</list>
+<list> nostrils
+taleoftwo.txt 1 
+</list>
+<list> not
+taleoftwo.txt 12 
+</list>
+<list> notice
+taleoftwo.txt 2 
+</list>
+<list> noticing
+taleoftwo.txt 2 
+</list>
+<list> notifies
+taleoftwo.txt 1 
+</list>
+<list> notorious
+taleoftwo.txt 1 
+</list>
+<list> notre
+taleoftwo.txt 3 
+</list>
+<list> notwithstanding
+taleoftwo.txt 2 
+</list>
+<list> noun
+taleoftwo.txt 1 
+</list>
+<list> nourishment
+taleoftwo.txt 1 
+</list>
+<list> novelty
+taleoftwo.txt 1 
+</list>
+<list> november
+taleoftwo.txt 6 
+</list>
+<list> now
+taleoftwo.txt 22 
+</list>
+<list> nowhere
+taleoftwo.txt 2 
+</list>
+<list> nowise
+taleoftwo.txt 1 
+</list>
+<list> number
+taleoftwo.txt 2 
+</list>
+<list> numbers
+taleoftwo.txt 4 
+</list>
+<list> numerous
+taleoftwo.txt 6 
+</list>
+<list> numskulls
+taleoftwo.txt 1 
+</list>
+<list> nurse
+taleoftwo.txt 1 
+</list>
+<list> nursed
+taleoftwo.txt 1 
+</list>
+<list> nurtured
+taleoftwo.txt 1 
+</list>
+<list> o
+taleoftwo.txt 58 
+</list>
+<list> oath
+taleoftwo.txt 2 
+</list>
+<list> obedient
+taleoftwo.txt 1 
+</list>
+<list> obey
+taleoftwo.txt 1 
+</list>
+<list> obeyed
+taleoftwo.txt 5 
+</list>
+<list> obeying
+taleoftwo.txt 2 
+</list>
+<list> object
+taleoftwo.txt 2 
+</list>
+<list> objection
+taleoftwo.txt 1 
+</list>
+<list> objectionable
+taleoftwo.txt 3 
+</list>
+<list> objects
+taleoftwo.txt 10 
+</list>
+<list> oblivion
+taleoftwo.txt 3 
+</list>
+<list> oblivious
+taleoftwo.txt 1 
+</list>
+<list> obnoxious
+taleoftwo.txt 1 
+</list>
+<list> observing
+taleoftwo.txt 1 
+</list>
+<list> obsolete
+taleoftwo.txt 1 
+</list>
+<list> obstinate
+taleoftwo.txt 1 
+</list>
+<list> obstinately
+taleoftwo.txt 1 
+</list>
+<list> obtain
+taleoftwo.txt 3 
+</list>
+<list> obtaining
+taleoftwo.txt 2 
+</list>
+<list> obtains
+taleoftwo.txt 1 
+</list>
+<list> obtruded
+taleoftwo.txt 1 
+</list>
+<list> obvious
+taleoftwo.txt 1 
+</list>
+<list> obviously
+taleoftwo.txt 1 
+</list>
+<list> occupied
+taleoftwo.txt 6 
+</list>
+<list> occur
+taleoftwo.txt 1 
+</list>
+<list> occurred
+taleoftwo.txt 3 
+</list>
+<list> occurrence
+taleoftwo.txt 1 
+</list>
+<list> occurrences
+taleoftwo.txt 1 
+</list>
+<list> ocean
+taleoftwo.txt 6 
+</list>
+<list> oddly
+taleoftwo.txt 1 
+</list>
+<list> odds
+taleoftwo.txt 1 
+</list>
+<list> odour
+taleoftwo.txt 1 
+</list>
+<list> odours
+taleoftwo.txt 1 
+</list>
+<list> of
+taleoftwo.txt 4140 
+</list>
+<list> offers
+taleoftwo.txt 1 
+</list>
+<list> office
+taleoftwo.txt 3 
+</list>
+<list> official
+taleoftwo.txt 6 
+</list>
+<list> officials
+taleoftwo.txt 1 
+</list>
+<list> officiate
+taleoftwo.txt 1 
+</list>
+<list> officiating
+taleoftwo.txt 1 
+</list>
+<list> offspring
+taleoftwo.txt 1 
+</list>
+<list> often
+taleoftwo.txt 42 
+</list>
+<list> oftener
+taleoftwo.txt 1 
+</list>
+<list> oftentimes
+taleoftwo.txt 1 
+</list>
+<list> ogled
+taleoftwo.txt 1 
+</list>
+<list> ogre
+taleoftwo.txt 1 
+</list>
+<list> ogreish
+taleoftwo.txt 1 
+</list>
+<list> oh
+taleoftwo.txt 27 
+</list>
+<list> oil
+taleoftwo.txt 4 
+</list>
+<list> oiled
+taleoftwo.txt 2 
+</list>
+<list> old
+taleoftwo.txt 127 
+</list>
+<list> older
+taleoftwo.txt 3 
+</list>
+<list> oldest
+taleoftwo.txt 5 
+</list>
+<list> olfactory
+taleoftwo.txt 1 
+</list>
+<list> olive
+taleoftwo.txt 1 
+</list>
+<list> omened
+taleoftwo.txt 1 
+</list>
+<list> ominous
+taleoftwo.txt 3 
+</list>
+<list> ominously
+taleoftwo.txt 1 
+</list>
+<list> omitted
+taleoftwo.txt 1 
+</list>
+<list> on
+taleoftwo.txt 938 
+</list>
+<list> once
+taleoftwo.txt 79 
+</list>
+<list> one
+taleoftwo.txt 443 
+</list>
+<list> ones
+taleoftwo.txt 1 
+</list>
+<list> onions
+taleoftwo.txt 1 
+</list>
+<list> oniony
+taleoftwo.txt 1 
+</list>
+<list> online
+taleoftwo.txt 4 
+</list>
+<list> only
+taleoftwo.txt 123 
+</list>
+<list> onward
+taleoftwo.txt 1 
+</list>
+<list> open
+taleoftwo.txt 7 
+</list>
+<list> opened
+taleoftwo.txt 13 
+</list>
+<list> openly
+taleoftwo.txt 3 
+</list>
+<list> openness
+taleoftwo.txt 1 
+</list>
+<list> opera
+taleoftwo.txt 3 
+</list>
+<list> operations
+taleoftwo.txt 2 
+</list>
+<list> opinion
+taleoftwo.txt 18 
+</list>
+<list> opinions
+taleoftwo.txt 1 
+</list>
+<list> opportunities
+taleoftwo.txt 1 
+</list>
+<list> opportunity
+taleoftwo.txt 1 
+</list>
+<list> oppressor
+taleoftwo.txt 2 
+</list>
+<list> oppressors
+taleoftwo.txt 2 
+</list>
+<list> or
+taleoftwo.txt 442 
+</list>
+<list> orange
+taleoftwo.txt 1 
+</list>
+<list> orator
+taleoftwo.txt 1 
+</list>
+<list> orbits
+taleoftwo.txt 1 
+</list>
+<list> order
+taleoftwo.txt 2 
+</list>
+<list> ordered
+taleoftwo.txt 4 
+</list>
+<list> orders
+taleoftwo.txt 5 
+</list>
+<list> ordinance
+taleoftwo.txt 1 
+</list>
+<list> ordinary
+taleoftwo.txt 2 
+</list>
+<list> org
+taleoftwo.txt 7 
+</list>
+<list> organisation
+taleoftwo.txt 1 
+</list>
+<list> organized
+taleoftwo.txt 1 
+</list>
+<list> organs
+taleoftwo.txt 1 
+</list>
+<list> orgies
+taleoftwo.txt 1 
+</list>
+<list> originating
+taleoftwo.txt 1 
+</list>
+<list> originator
+taleoftwo.txt 2 
+</list>
+<list> orleans
+taleoftwo.txt 1 
+</list>
+<list> ornament
+taleoftwo.txt 2 
+</list>
+<list> ornamented
+taleoftwo.txt 1 
+</list>
+<list> orphan
+taleoftwo.txt 5 
+</list>
+<list> orthodoxy
+taleoftwo.txt 1 
+</list>
+<list> ostentatious
+taleoftwo.txt 2 
+</list>
+<list> ostentatiously
+taleoftwo.txt 1 
+</list>
+<list> ostrich
+taleoftwo.txt 1 
+</list>
+<list> other
+taleoftwo.txt 15 
+</list>
+<list> others
+taleoftwo.txt 34 
+</list>
+<list> otherwise
+taleoftwo.txt 26 
+</list>
+<list> ought
+taleoftwo.txt 15 
+</list>
+<list> our
+taleoftwo.txt 39 
+</list>
+<list> ours
+taleoftwo.txt 2 
+</list>
+<list> ourselves
+taleoftwo.txt 5 
+</list>
+<list> outdated
+taleoftwo.txt 1 
+</list>
+<list> outside
+taleoftwo.txt 4 
+</list>
+<list> outskirts
+taleoftwo.txt 1 
+</list>
+<list> outstrip
+taleoftwo.txt 1 
+</list>
+<list> outwards
+taleoftwo.txt 1 
+</list>
+<list> outwatched
+taleoftwo.txt 1 
+</list>
+<list> outweigh
+taleoftwo.txt 1 
+</list>
+<list> over
+taleoftwo.txt 2 
+</list>
+<list> overstay
+taleoftwo.txt 1 
+</list>
+<list> overtake
+taleoftwo.txt 1 
+</list>
+<list> overtaking
+taleoftwo.txt 1 
+</list>
+<list> overthrown
+taleoftwo.txt 2 
+</list>
+<list> overwhelm
+taleoftwo.txt 2 
+</list>
+<list> overworked
+taleoftwo.txt 2 
+</list>
+<list> owed
+taleoftwo.txt 1 
+</list>
+<list> owl
+taleoftwo.txt 4 
+</list>
+<list> owner
+taleoftwo.txt 5 
+</list>
+<list> owners
+taleoftwo.txt 1 
+</list>
+<list> owns
+taleoftwo.txt 2 
+</list>
+<list> ox
+taleoftwo.txt 1 
+</list>
+<list> oxford
+taleoftwo.txt 1 
+</list>
+<list> oyster
+taleoftwo.txt 1 
+</list>
+<list> packets
+taleoftwo.txt 2 
+</list>
+<list> packing
+taleoftwo.txt 1 
+</list>
+<list> pads
+taleoftwo.txt 1 
+</list>
+<list> page
+taleoftwo.txt 3 
+</list>
+<list> pages
+taleoftwo.txt 2 
+</list>
+<list> paid
+taleoftwo.txt 8 
+</list>
+<list> pain
+taleoftwo.txt 1 
+</list>
+<list> painful
+taleoftwo.txt 1 
+</list>
+<list> painter
+taleoftwo.txt 1 
+</list>
+<list> pair
+taleoftwo.txt 8 
+</list>
+<list> pairs
+taleoftwo.txt 1 
+</list>
+<list> palace
+taleoftwo.txt 1 
+</list>
+<list> pale
+taleoftwo.txt 3 
+</list>
+<list> paleness
+taleoftwo.txt 1 
+</list>
+<list> paler
+taleoftwo.txt 1 
+</list>
+<list> palpable
+taleoftwo.txt 1 
+</list>
+<list> paltering
+taleoftwo.txt 1 
+</list>
+<list> pamphlets
+taleoftwo.txt 1 
+</list>
+<list> pancras
+taleoftwo.txt 1 
+</list>
+<list> panted
+taleoftwo.txt 1 
+</list>
+<list> panting
+taleoftwo.txt 4 
+</list>
+<list> paper
+taleoftwo.txt 1 
+</list>
+<list> papers
+taleoftwo.txt 26 
+</list>
+<list> paperwork
+taleoftwo.txt 1 
+</list>
+<list> paragraph
+taleoftwo.txt 2 
+</list>
+<list> particular
+taleoftwo.txt 2 
+</list>
+<list> particularly
+taleoftwo.txt 1 
+</list>
+<list> parts
+taleoftwo.txt 3 
+</list>
+<list> party
+taleoftwo.txt 4 
+</list>
+<list> passes
+taleoftwo.txt 1 
+</list>
+<list> passing
+taleoftwo.txt 3 
+</list>
+<list> passions
+taleoftwo.txt 1 
+</list>
+<list> past
+taleoftwo.txt 2 
+</list>
+<list> pasture
+taleoftwo.txt 1 
+</list>
+<list> pasturing
+taleoftwo.txt 1 
+</list>
+<list> path
+taleoftwo.txt 1 
+</list>
+<list> patient
+taleoftwo.txt 2 
+</list>
+<list> patriotic
+taleoftwo.txt 2 
+</list>
+<list> patriots
+taleoftwo.txt 4 
+</list>
+<list> patrols
+taleoftwo.txt 1 
+</list>
+<list> patron
+taleoftwo.txt 1 
+</list>
+<list> patronage
+taleoftwo.txt 1 
+</list>
+<list> pattern
+taleoftwo.txt 5 
+</list>
+<list> patting
+taleoftwo.txt 1 
+</list>
+<list> pauses
+taleoftwo.txt 3 
+</list>
+<list> pausing
+taleoftwo.txt 7 
+</list>
+<list> pavement
+taleoftwo.txt 1 
+</list>
+<list> pavements
+taleoftwo.txt 3 
+</list>
+<list> paving
+taleoftwo.txt 2 
+</list>
+<list> pawing
+taleoftwo.txt 1 
+</list>
+<list> payment
+taleoftwo.txt 1 
+</list>
+<list> payments
+taleoftwo.txt 3 
+</list>
+<list> peace
+taleoftwo.txt 2 
+</list>
+<list> peaceful
+taleoftwo.txt 1 
+</list>
+<list> peacefullest
+taleoftwo.txt 1 
+</list>
+<list> peasant
+taleoftwo.txt 8 
+</list>
+<list> peasants
+taleoftwo.txt 5 
+</list>
+<list> peculiar
+taleoftwo.txt 7 
+</list>
+<list> peculiarity
+taleoftwo.txt 4 
+</list>
+<list> pecuniary
+taleoftwo.txt 1 
+</list>
+<list> peeped
+taleoftwo.txt 1 
+</list>
+<list> peeping
+taleoftwo.txt 2 
+</list>
+<list> peering
+taleoftwo.txt 2 
+</list>
+<list> peevish
+taleoftwo.txt 1 
+</list>
+<list> pen
+taleoftwo.txt 4 
+</list>
+<list> pendent
+taleoftwo.txt 1 
+</list>
+<list> pendulum
+taleoftwo.txt 1 
+</list>
+<list> penetrated
+taleoftwo.txt 1 
+</list>
+<list> penitential
+taleoftwo.txt 1 
+</list>
+<list> pensive
+taleoftwo.txt 1 
+</list>
+<list> people
+taleoftwo.txt 145 
+</list>
+<list> peopled
+taleoftwo.txt 1 
+</list>
+<list> peppercorn
+taleoftwo.txt 1 
+</list>
+<list> permission
+taleoftwo.txt 7 
+</list>
+<list> permitted
+taleoftwo.txt 2 
+</list>
+<list> person
+taleoftwo.txt 5 
+</list>
+<list> persuaded
+taleoftwo.txt 1 
+</list>
+<list> perturbation
+taleoftwo.txt 1 
+</list>
+<list> pervaded
+taleoftwo.txt 2 
+</list>
+<list> perverted
+taleoftwo.txt 3 
+</list>
+<list> pestilence
+taleoftwo.txt 1 
+</list>
+<list> pestilent
+taleoftwo.txt 1 
+</list>
+<list> petrify
+taleoftwo.txt 1 
+</list>
+<list> petulantly
+taleoftwo.txt 1 
+</list>
+<list> pg
+taleoftwo.txt 1 
+</list>
+<list> pglaf
+taleoftwo.txt 8 
+</list>
+<list> phantom
+taleoftwo.txt 1 
+</list>
+<list> phenomenon
+taleoftwo.txt 2 
+</list>
+<list> philosophers
+taleoftwo.txt 1 
+</list>
+<list> philosophy
+taleoftwo.txt 4 
+</list>
+<list> phrase
+taleoftwo.txt 5 
+</list>
+<list> phrases
+taleoftwo.txt 1 
+</list>
+<list> physical
+taleoftwo.txt 2 
+</list>
+<list> physically
+taleoftwo.txt 1 
+</list>
+<list> physician
+taleoftwo.txt 10 
+</list>
+<list> picture
+taleoftwo.txt 1 
+</list>
+<list> pictures
+taleoftwo.txt 2 
+</list>
+<list> picturesque
+taleoftwo.txt 3 
+</list>
+<list> pieces
+taleoftwo.txt 1 
+</list>
+<list> pierced
+taleoftwo.txt 1 
+</list>
+<list> piercing
+taleoftwo.txt 3 
+</list>
+<list> pies
+taleoftwo.txt 1 
+</list>
+<list> piety
+taleoftwo.txt 1 
+</list>
+<list> pig
+taleoftwo.txt 2 
+</list>
+<list> pigmy
+taleoftwo.txt 1 
+</list>
+<list> pigs
+taleoftwo.txt 1 
+</list>
+<list> pike
+taleoftwo.txt 4 
+</list>
+<list> pikes
+taleoftwo.txt 4 
+</list>
+<list> pillars
+taleoftwo.txt 1 
+</list>
+<list> pillow
+taleoftwo.txt 5 
+</list>
+<list> pillows
+taleoftwo.txt 4 
+</list>
+<list> pilotage
+taleoftwo.txt 1 
+</list>
+<list> pined
+taleoftwo.txt 1 
+</list>
+<list> pinioned
+taleoftwo.txt 1 
+</list>
+<list> pint
+taleoftwo.txt 2 
+</list>
+<list> pipe
+taleoftwo.txt 15 
+</list>
+<list> pipes
+taleoftwo.txt 4 
+</list>
+<list> pistol
+taleoftwo.txt 2 
+</list>
+<list> pistols
+taleoftwo.txt 3 
+</list>
+<list> pitied
+taleoftwo.txt 1 
+</list>
+<list> pity
+taleoftwo.txt 24 
+</list>
+<list> pitying
+taleoftwo.txt 2 
+</list>
+<list> places
+taleoftwo.txt 1 
+</list>
+<list> plain
+taleoftwo.txt 2 
+</list>
+<list> plan
+taleoftwo.txt 2 
+</list>
+<list> plane
+taleoftwo.txt 1 
+</list>
+<list> planned
+taleoftwo.txt 1 
+</list>
+<list> plastered
+taleoftwo.txt 1 
+</list>
+<list> play
+taleoftwo.txt 9 
+</list>
+<list> played
+taleoftwo.txt 1 
+</list>
+<list> players
+taleoftwo.txt 1 
+</list>
+<list> playing
+taleoftwo.txt 4 
+</list>
+<list> plaything
+taleoftwo.txt 1 
+</list>
+<list> please
+taleoftwo.txt 4 
+</list>
+<list> pleasure
+taleoftwo.txt 1 
+</list>
+<list> pledge
+taleoftwo.txt 2 
+</list>
+<list> pledged
+taleoftwo.txt 1 
+</list>
+<list> plentiful
+taleoftwo.txt 1 
+</list>
+<list> plenty
+taleoftwo.txt 3 
+</list>
+<list> plied
+taleoftwo.txt 1 
+</list>
+<list> plight
+taleoftwo.txt 1 
+</list>
+<list> plough
+taleoftwo.txt 1 
+</list>
+<list> ploughed
+taleoftwo.txt 3 
+</list>
+<list> ploughs
+taleoftwo.txt 1 
+</list>
+<list> plunges
+taleoftwo.txt 1 
+</list>
+<list> plunging
+taleoftwo.txt 1 
+</list>
+<list> pocket
+taleoftwo.txt 10 
+</list>
+<list> pockets
+taleoftwo.txt 11 
+</list>
+<list> poet
+taleoftwo.txt 2 
+</list>
+<list> poetical
+taleoftwo.txt 1 
+</list>
+<list> poets
+taleoftwo.txt 2 
+</list>
+<list> point
+taleoftwo.txt 1 
+</list>
+<list> pointing
+taleoftwo.txt 2 
+</list>
+<list> points
+taleoftwo.txt 1 
+</list>
+<list> poisoning
+taleoftwo.txt 2 
+</list>
+<list> poisons
+taleoftwo.txt 1 
+</list>
+<list> police
+taleoftwo.txt 1 
+</list>
+<list> polite
+taleoftwo.txt 1 
+</list>
+<list> political
+taleoftwo.txt 1 
+</list>
+<list> politics
+taleoftwo.txt 1 
+</list>
+<list> polluted
+taleoftwo.txt 2 
+</list>
+<list> poltroon
+taleoftwo.txt 1 
+</list>
+<list> pondering
+taleoftwo.txt 1 
+</list>
+<list> poniarded
+taleoftwo.txt 1 
+</list>
+<list> pont
+taleoftwo.txt 1 
+</list>
+<list> poor
+taleoftwo.txt 87 
+</list>
+<list> poorer
+taleoftwo.txt 2 
+</list>
+<list> populace
+taleoftwo.txt 7 
+</list>
+<list> popular
+taleoftwo.txt 3 
+</list>
+<list> popularity
+taleoftwo.txt 2 
+</list>
+<list> popularly
+taleoftwo.txt 2 
+</list>
+<list> population
+taleoftwo.txt 1 
+</list>
+<list> pore
+taleoftwo.txt 1 
+</list>
+<list> porters
+taleoftwo.txt 1 
+</list>
+<list> portion
+taleoftwo.txt 1 
+</list>
+<list> portions
+taleoftwo.txt 1 
+</list>
+<list> portly
+taleoftwo.txt 1 
+</list>
+<list> portrait
+taleoftwo.txt 4 
+</list>
+<list> portraits
+taleoftwo.txt 1 
+</list>
+<list> possibility
+taleoftwo.txt 1 
+</list>
+<list> posted
+taleoftwo.txt 5 
+</list>
+<list> poster
+taleoftwo.txt 1 
+</list>
+<list> postilions
+taleoftwo.txt 5 
+</list>
+<list> posting
+taleoftwo.txt 2 
+</list>
+<list> postmaster
+taleoftwo.txt 7 
+</list>
+<list> postponed
+taleoftwo.txt 1 
+</list>
+<list> posture
+taleoftwo.txt 1 
+</list>
+<list> potato
+taleoftwo.txt 1 
+</list>
+<list> potent
+taleoftwo.txt 2 
+</list>
+<list> potentate
+taleoftwo.txt 1 
+</list>
+<list> pound
+taleoftwo.txt 1 
+</list>
+<list> poured
+taleoftwo.txt 12 
+</list>
+<list> pouring
+taleoftwo.txt 7 
+</list>
+<list> poverty
+taleoftwo.txt 8 
+</list>
+<list> powerful
+taleoftwo.txt 1 
+</list>
+<list> powerless
+taleoftwo.txt 1 
+</list>
+<list> powers
+taleoftwo.txt 4 
+</list>
+<list> practically
+taleoftwo.txt 1 
+</list>
+<list> pray
+taleoftwo.txt 2 
+</list>
+<list> prayers
+taleoftwo.txt 8 
+</list>
+<list> praying
+taleoftwo.txt 9 
+</list>
+<list> prepare
+taleoftwo.txt 2 
+</list>
+<list> preserve
+taleoftwo.txt 1 
+</list>
+<list> prevent
+taleoftwo.txt 2 
+</list>
+<list> previous
+taleoftwo.txt 2 
+</list>
+<list> prewaricate
+taleoftwo.txt 1 
+</list>
+<list> prey
+taleoftwo.txt 3 
+</list>
+<list> print
+taleoftwo.txt 1 
+</list>
+<list> printed
+taleoftwo.txt 2 
+</list>
+<list> prison
+taleoftwo.txt 4 
+</list>
+<list> prisoners
+taleoftwo.txt 1 
+</list>
+<list> privy
+taleoftwo.txt 1 
+</list>
+<list> prize
+taleoftwo.txt 2 
+</list>
+<list> produce
+taleoftwo.txt 1 
+</list>
+<list> prohibition
+taleoftwo.txt 1 
+</list>
+<list> project
+taleoftwo.txt 14 
+</list>
+<list> promotion
+taleoftwo.txt 1 
+</list>
+<list> provide
+taleoftwo.txt 2 
+</list>
+<list> providing
+taleoftwo.txt 1 
+</list>
+<list> provision
+taleoftwo.txt 1 
+</list>
+<list> provisions
+taleoftwo.txt 1 
+</list>
+<list> provocation
+taleoftwo.txt 1 
+</list>
+<list> prowl
+taleoftwo.txt 1 
+</list>
+<list> proxy
+taleoftwo.txt 1 
+</list>
+<list> public
+taleoftwo.txt 43 
+</list>
+<list> publicly
+taleoftwo.txt 3 
+</list>
+<list> puddles
+taleoftwo.txt 1 
+</list>
+<list> puff
+taleoftwo.txt 1 
+</list>
+<list> pulled
+taleoftwo.txt 1 
+</list>
+<list> pulpit
+taleoftwo.txt 1 
+</list>
+<list> pulsation
+taleoftwo.txt 2 
+</list>
+<list> pulse
+taleoftwo.txt 2 
+</list>
+<list> pulses
+taleoftwo.txt 1 
+</list>
+<list> pumped
+taleoftwo.txt 1 
+</list>
+<list> pumps
+taleoftwo.txt 1 
+</list>
+<list> punishment
+taleoftwo.txt 2 
+</list>
+<list> punitive
+taleoftwo.txt 1 
+</list>
+<list> pupil
+taleoftwo.txt 1 
+</list>
+<list> pupils
+taleoftwo.txt 1 
+</list>
+<list> purpose
+taleoftwo.txt 2 
+</list>
+<list> pursued
+taleoftwo.txt 9 
+</list>
+<list> pursuing
+taleoftwo.txt 3 
+</list>
+<list> pursuit
+taleoftwo.txt 5 
+</list>
+<list> pursuits
+taleoftwo.txt 1 
+</list>
+<list> purveyors
+taleoftwo.txt 1 
+</list>
+<list> pushed
+taleoftwo.txt 5 
+</list>
+<list> pushing
+taleoftwo.txt 3 
+</list>
+<list> put
+taleoftwo.txt 111 
+</list>
+<list> putting
+taleoftwo.txt 14 
+</list>
+<list> puzzle
+taleoftwo.txt 1 
+</list>
+<list> puzzling
+taleoftwo.txt 1 
+</list>
+<list> qualities
+taleoftwo.txt 1 
+</list>
+<list> quality
+taleoftwo.txt 1 
+</list>
+<list> quavering
+taleoftwo.txt 1 
+</list>
+<list> quay
+taleoftwo.txt 1 
+</list>
+<list> question
+taleoftwo.txt 5 
+</list>
+<list> questionable
+taleoftwo.txt 1 
+</list>
+<list> questioner
+taleoftwo.txt 4 
+</list>
+<list> questions
+taleoftwo.txt 10 
+</list>
+<list> quiet
+taleoftwo.txt 1 
+</list>
+<list> quit
+taleoftwo.txt 1 
+</list>
+<list> quite
+taleoftwo.txt 6 
+</list>
+<list> quitted
+taleoftwo.txt 2 
+</list>
+<list> quivered
+taleoftwo.txt 3 
+</list>
+<list> quoth
+taleoftwo.txt 1 
+</list>
+<list> rabbit
+taleoftwo.txt 2 
+</list>
+<list> rabble
+taleoftwo.txt 1 
+</list>
+<list> race
+taleoftwo.txt 15 
+</list>
+<list> rack
+taleoftwo.txt 1 
+</list>
+<list> racks
+taleoftwo.txt 1 
+</list>
+<list> radiance
+taleoftwo.txt 2 
+</list>
+<list> radiant
+taleoftwo.txt 3 
+</list>
+<list> rage
+taleoftwo.txt 1 
+</list>
+<list> ragged
+taleoftwo.txt 1 
+</list>
+<list> raging
+taleoftwo.txt 11 
+</list>
+<list> rags
+taleoftwo.txt 9 
+</list>
+<list> raise
+taleoftwo.txt 3 
+</list>
+<list> raised
+taleoftwo.txt 30 
+</list>
+<list> raising
+taleoftwo.txt 12 
+</list>
+<list> raked
+taleoftwo.txt 1 
+</list>
+<list> ral
+taleoftwo.txt 3 
+</list>
+<list> rally
+taleoftwo.txt 1 
+</list>
+<list> rank
+taleoftwo.txt 5 
+</list>
+<list> ranks
+taleoftwo.txt 1 
+</list>
+<list> rapacious
+taleoftwo.txt 1 
+</list>
+<list> rapid
+taleoftwo.txt 5 
+</list>
+<list> rapturous
+taleoftwo.txt 1 
+</list>
+<list> rapturously
+taleoftwo.txt 1 
+</list>
+<list> rarely
+taleoftwo.txt 3 
+</list>
+<list> rarity
+taleoftwo.txt 4 
+</list>
+<list> rascal
+taleoftwo.txt 4 
+</list>
+<list> rashness
+taleoftwo.txt 1 
+</list>
+<list> rate
+taleoftwo.txt 1 
+</list>
+<list> rather
+taleoftwo.txt 13 
+</list>
+<list> rattle
+taleoftwo.txt 6 
+</list>
+<list> rattled
+taleoftwo.txt 4 
+</list>
+<list> rattling
+taleoftwo.txt 1 
+</list>
+<list> rave
+taleoftwo.txt 1 
+</list>
+<list> raving
+taleoftwo.txt 2 
+</list>
+<list> raw
+taleoftwo.txt 1 
+</list>
+<list> ray
+taleoftwo.txt 4 
+</list>
+<list> rays
+taleoftwo.txt 2 
+</list>
+<list> rayther
+taleoftwo.txt 1 
+</list>
+<list> razed
+taleoftwo.txt 1 
+</list>
+<list> razor
+taleoftwo.txt 2 
+</list>
+<list> re
+taleoftwo.txt 13 
+</list>
+<list> read
+taleoftwo.txt 1 
+</list>
+<list> readable
+taleoftwo.txt 2 
+</list>
+<list> reason
+taleoftwo.txt 6 
+</list>
+<list> reasonable
+taleoftwo.txt 3 
+</list>
+<list> reasoned
+taleoftwo.txt 1 
+</list>
+<list> reasons
+taleoftwo.txt 2 
+</list>
+<list> reassurance
+taleoftwo.txt 2 
+</list>
+<list> reassurances
+taleoftwo.txt 1 
+</list>
+<list> reassuring
+taleoftwo.txt 2 
+</list>
+<list> rebuilding
+taleoftwo.txt 1 
+</list>
+<list> rebuke
+taleoftwo.txt 1 
+</list>
+<list> receive
+taleoftwo.txt 3 
+</list>
+<list> received
+taleoftwo.txt 5 
+</list>
+<list> receiving
+taleoftwo.txt 1 
+</list>
+<list> recoiled
+taleoftwo.txt 1 
+</list>
+<list> recommends
+taleoftwo.txt 1 
+</list>
+<list> record
+taleoftwo.txt 3 
+</list>
+<list> recover
+taleoftwo.txt 2 
+</list>
+<list> recovered
+taleoftwo.txt 3 
+</list>
+<list> recovering
+taleoftwo.txt 3 
+</list>
+<list> recovery
+taleoftwo.txt 2 
+</list>
+<list> recruited
+taleoftwo.txt 1 
+</list>
+<list> recruiting
+taleoftwo.txt 2 
+</list>
+<list> redheads
+taleoftwo.txt 1 
+</list>
+<list> redistribute
+taleoftwo.txt 1 
+</list>
+<list> redistributing
+taleoftwo.txt 2 
+</list>
+<list> redistribution
+taleoftwo.txt 2 
+</list>
+<list> reduced
+taleoftwo.txt 4 
+</list>
+<list> redundancy
+taleoftwo.txt 1 
+</list>
+<list> reek
+taleoftwo.txt 1 
+</list>
+<list> reflected
+taleoftwo.txt 1 
+</list>
+<list> refund
+taleoftwo.txt 10 
+</list>
+<list> refusal
+taleoftwo.txt 1 
+</list>
+<list> refuse
+taleoftwo.txt 4 
+</list>
+<list> regularly
+taleoftwo.txt 3 
+</list>
+<list> regulating
+taleoftwo.txt 1 
+</list>
+<list> rehearsed
+taleoftwo.txt 1 
+</list>
+<list> reigning
+taleoftwo.txt 1 
+</list>
+<list> rein
+taleoftwo.txt 1 
+</list>
+<list> reiterate
+taleoftwo.txt 1 
+</list>
+<list> reiterated
+taleoftwo.txt 1 
+</list>
+<list> rejoinder
+taleoftwo.txt 1 
+</list>
+<list> rejoined
+taleoftwo.txt 10 
+</list>
+<list> rejoining
+taleoftwo.txt 1 
+</list>
+<list> relative
+taleoftwo.txt 1 
+</list>
+<list> releases
+taleoftwo.txt 1 
+</list>
+<list> relief
+taleoftwo.txt 2 
+</list>
+<list> relinquished
+taleoftwo.txt 2 
+</list>
+<list> rely
+taleoftwo.txt 3 
+</list>
+<list> relying
+taleoftwo.txt 1 
+</list>
+<list> remain
+taleoftwo.txt 1 
+</list>
+<list> remaining
+taleoftwo.txt 1 
+</list>
+<list> remedies
+taleoftwo.txt 1 
+</list>
+<list> remove
+taleoftwo.txt 2 
+</list>
+<list> removed
+taleoftwo.txt 17 
+</list>
+<list> removing
+taleoftwo.txt 2 
+</list>
+<list> renamed
+taleoftwo.txt 1 
+</list>
+<list> rendered
+taleoftwo.txt 2 
+</list>
+<list> rendering
+taleoftwo.txt 2 
+</list>
+<list> rent
+taleoftwo.txt 1 
+</list>
+<list> rents
+taleoftwo.txt 1 
+</list>
+<list> renunciation
+taleoftwo.txt 1 
+</list>
+<list> replacement
+taleoftwo.txt 5 
+</list>
+<list> reported
+taleoftwo.txt 1 
+</list>
+<list> reports
+taleoftwo.txt 1 
+</list>
+<list> representations
+taleoftwo.txt 1 
+</list>
+<list> republic
+taleoftwo.txt 2 
+</list>
+<list> republican
+taleoftwo.txt 3 
+</list>
+<list> republicans
+taleoftwo.txt 2 
+</list>
+<list> repudiated
+taleoftwo.txt 1 
+</list>
+<list> reputation
+taleoftwo.txt 6 
+</list>
+<list> repute
+taleoftwo.txt 1 
+</list>
+<list> required
+taleoftwo.txt 4 
+</list>
+<list> requirements
+taleoftwo.txt 4 
+</list>
+<list> requiring
+taleoftwo.txt 2 
+</list>
+<list> requisition
+taleoftwo.txt 2 
+</list>
+<list> research
+taleoftwo.txt 1 
+</list>
+<list> restored
+taleoftwo.txt 1 
+</list>
+<list> restrictions
+taleoftwo.txt 1 
+</list>
+<list> resumption
+taleoftwo.txt 1 
+</list>
+<list> resurrection
+taleoftwo.txt 6 
+</list>
+<list> return
+taleoftwo.txt 2 
+</list>
+<list> returning
+taleoftwo.txt 4 
+</list>
+<list> returns
+taleoftwo.txt 1 
+</list>
+<list> reunited
+taleoftwo.txt 1 
+</list>
+<list> revenue
+taleoftwo.txt 1 
+</list>
+<list> reverses
+taleoftwo.txt 1 
+</list>
+<list> revolution
+taleoftwo.txt 3 
+</list>
+<list> revolutionary
+taleoftwo.txt 1 
+</list>
+<list> revolved
+taleoftwo.txt 1 
+</list>
+<list> revulsion
+taleoftwo.txt 2 
+</list>
+<list> reward
+taleoftwo.txt 1 
+</list>
+<list> ribbon
+taleoftwo.txt 5 
+</list>
+<list> ribbons
+taleoftwo.txt 2 
+</list>
+<list> rich
+taleoftwo.txt 9 
+</list>
+<list> riches
+taleoftwo.txt 1 
+</list>
+<list> richest
+taleoftwo.txt 2 
+</list>
+<list> rickety
+taleoftwo.txt 1 
+</list>
+<list> ridges
+taleoftwo.txt 1 
+</list>
+<list> ridiculous
+taleoftwo.txt 2 
+</list>
+<list> riding
+taleoftwo.txt 15 
+</list>
+<list> rifting
+taleoftwo.txt 1 
+</list>
+<list> right
+taleoftwo.txt 15 
+</list>
+<list> rightly
+taleoftwo.txt 1 
+</list>
+<list> rights
+taleoftwo.txt 5 
+</list>
+<list> ringing
+taleoftwo.txt 13 
+</list>
+<list> rings
+taleoftwo.txt 1 
+</list>
+<list> rip
+taleoftwo.txt 2 
+</list>
+<list> ripened
+taleoftwo.txt 1 
+</list>
+<list> ripening
+taleoftwo.txt 1 
+</list>
+<list> ripples
+taleoftwo.txt 1 
+</list>
+<list> risen
+taleoftwo.txt 1 
+</list>
+<list> rising
+taleoftwo.txt 1 
+</list>
+<list> risings
+taleoftwo.txt 3 
+</list>
+<list> risk
+taleoftwo.txt 2 
+</list>
+<list> river
+taleoftwo.txt 12 
+</list>
+<list> rivers
+taleoftwo.txt 2 
+</list>
+<list> riving
+taleoftwo.txt 1 
+</list>
+<list> roads
+taleoftwo.txt 10 
+</list>
+<list> roadside
+taleoftwo.txt 1 
+</list>
+<list> roar
+taleoftwo.txt 5 
+</list>
+<list> roared
+taleoftwo.txt 1 
+</list>
+<list> roaring
+taleoftwo.txt 2 
+</list>
+<list> roast
+taleoftwo.txt 1 
+</list>
+<list> roasting
+taleoftwo.txt 1 
+</list>
+<list> robe
+taleoftwo.txt 3 
+</list>
+<list> robed
+taleoftwo.txt 1 
+</list>
+<list> robing
+taleoftwo.txt 1 
+</list>
+<list> rocked
+taleoftwo.txt 1 
+</list>
+<list> rocking
+taleoftwo.txt 2 
+</list>
+<list> rod
+taleoftwo.txt 1 
+</list>
+<list> rode
+taleoftwo.txt 8 
+</list>
+<list> rods
+taleoftwo.txt 1 
+</list>
+<list> roger
+taleoftwo.txt 4 
+</list>
+<list> roll
+taleoftwo.txt 5 
+</list>
+<list> rolled
+taleoftwo.txt 11 
+</list>
+<list> rolling
+taleoftwo.txt 5 
+</list>
+<list> romance
+taleoftwo.txt 1 
+</list>
+<list> rome
+taleoftwo.txt 5 
+</list>
+<list> rooms
+taleoftwo.txt 3 
+</list>
+<list> root
+taleoftwo.txt 1 
+</list>
+<list> rooted
+taleoftwo.txt 3 
+</list>
+<list> rooting
+taleoftwo.txt 1 
+</list>
+<list> rope
+taleoftwo.txt 7 
+</list>
+<list> ropes
+taleoftwo.txt 3 
+</list>
+<list> rose
+taleoftwo.txt 10 
+</list>
+<list> roses
+taleoftwo.txt 1 
+</list>
+<list> rosy
+taleoftwo.txt 1 
+</list>
+<list> rotted
+taleoftwo.txt 1 
+</list>
+<list> rotten
+taleoftwo.txt 2 
+</list>
+<list> rough
+taleoftwo.txt 1 
+</list>
+<list> round
+taleoftwo.txt 11 
+</list>
+<list> rouse
+taleoftwo.txt 1 
+</list>
+<list> rousing
+taleoftwo.txt 3 
+</list>
+<list> routine
+taleoftwo.txt 4 
+</list>
+<list> row
+taleoftwo.txt 1 
+</list>
+<list> rows
+taleoftwo.txt 2 
+</list>
+<list> royalties
+taleoftwo.txt 2 
+</list>
+<list> royalty
+taleoftwo.txt 5 
+</list>
+<list> rub
+taleoftwo.txt 1 
+</list>
+<list> rubbed
+taleoftwo.txt 3 
+</list>
+<list> rubbing
+taleoftwo.txt 4 
+</list>
+<list> rude
+taleoftwo.txt 2 
+</list>
+<list> rudely
+taleoftwo.txt 1 
+</list>
+<list> rue
+taleoftwo.txt 1 
+</list>
+<list> ruffian
+taleoftwo.txt 1 
+</list>
+<list> ruffians
+taleoftwo.txt 1 
+</list>
+<list> ruffle
+taleoftwo.txt 1 
+</list>
+<list> ruffled
+taleoftwo.txt 1 
+</list>
+<list> rugged
+taleoftwo.txt 3 
+</list>
+<list> ruined
+taleoftwo.txt 3 
+</list>
+<list> ruinous
+taleoftwo.txt 2 
+</list>
+<list> ruler
+taleoftwo.txt 1 
+</list>
+<list> rules
+taleoftwo.txt 2 
+</list>
+<list> rumble
+taleoftwo.txt 1 
+</list>
+<list> ruminated
+taleoftwo.txt 1 
+</list>
+<list> ruminating
+taleoftwo.txt 1 
+</list>
+<list> rumour
+taleoftwo.txt 4 
+</list>
+<list> rumoured
+taleoftwo.txt 3 
+</list>
+<list> run
+taleoftwo.txt 5 
+</list>
+<list> running
+taleoftwo.txt 15 
+</list>
+<list> runs
+taleoftwo.txt 1 
+</list>
+<list> rushing
+taleoftwo.txt 1 
+</list>
+<list> rustling
+taleoftwo.txt 2 
+</list>
+<list> rusty
+taleoftwo.txt 6 
+</list>
+<list> ruthless
+taleoftwo.txt 1 
+</list>
+<list> ruts
+taleoftwo.txt 1 
+</list>
+<list> rye
+taleoftwo.txt 1 
+</list>
+<list> s
+taleoftwo.txt 675 
+</list>
+<list> sabres
+taleoftwo.txt 2 
+</list>
+<list> sacred
+taleoftwo.txt 1 
+</list>
+<list> sacrifice
+taleoftwo.txt 6 
+</list>
+<list> sacrificed
+taleoftwo.txt 2 
+</list>
+<list> sacrifices
+taleoftwo.txt 2 
+</list>
+<list> sacristan
+taleoftwo.txt 1 
+</list>
+<list> saddles
+taleoftwo.txt 1 
+</list>
+<list> saddling
+taleoftwo.txt 1 
+</list>
+<list> sadly
+taleoftwo.txt 4 
+</list>
+<list> sadness
+taleoftwo.txt 1 
+</list>
+<list> safest
+taleoftwo.txt 4 
+</list>
+<list> safety
+taleoftwo.txt 8 
+</list>
+<list> sagacious
+taleoftwo.txt 1 
+</list>
+<list> sagacity
+taleoftwo.txt 3 
+</list>
+<list> said
+taleoftwo.txt 1 
+</list>
+<list> saintly
+taleoftwo.txt 1 
+</list>
+<list> saith
+taleoftwo.txt 4 
+</list>
+<list> sake
+taleoftwo.txt 24 
+</list>
+<list> sakes
+taleoftwo.txt 1 
+</list>
+<list> salt
+taleoftwo.txt 1 
+</list>
+<list> salutation
+taleoftwo.txt 2 
+</list>
+<list> salute
+taleoftwo.txt 3 
+</list>
+<list> saluted
+taleoftwo.txt 2 
+</list>
+<list> same
+taleoftwo.txt 9 
+</list>
+<list> samples
+taleoftwo.txt 1 
+</list>
+<list> samson
+taleoftwo.txt 4 
+</list>
+<list> sanctuary
+taleoftwo.txt 1 
+</list>
+<list> sand
+taleoftwo.txt 1 
+</list>
+<list> sanguine
+taleoftwo.txt 1 
+</list>
+<list> sank
+taleoftwo.txt 4 
+</list>
+<list> sardanapalus
+taleoftwo.txt 1 
+</list>
+<list> sarse
+taleoftwo.txt 1 
+</list>
+<list> sashes
+taleoftwo.txt 1 
+</list>
+<list> sat
+taleoftwo.txt 16 
+</list>
+<list> satellite
+taleoftwo.txt 1 
+</list>
+<list> satisfaction
+taleoftwo.txt 3 
+</list>
+<list> satisfied
+taleoftwo.txt 8 
+</list>
+<list> satisfy
+taleoftwo.txt 1 
+</list>
+<list> saturday
+taleoftwo.txt 2 
+</list>
+<list> sauce
+taleoftwo.txt 1 
+</list>
+<list> saucer
+taleoftwo.txt 1 
+</list>
+<list> saucers
+taleoftwo.txt 1 
+</list>
+<list> saunter
+taleoftwo.txt 1 
+</list>
+<list> sausage
+taleoftwo.txt 1 
+</list>
+<list> saved
+taleoftwo.txt 11 
+</list>
+<list> saving
+taleoftwo.txt 3 
+</list>
+<list> saviour
+taleoftwo.txt 1 
+</list>
+<list> savoury
+taleoftwo.txt 1 
+</list>
+<list> saw
+taleoftwo.txt 5 
+</list>
+<list> sawn
+taleoftwo.txt 1 
+</list>
+<list> sawyer
+taleoftwo.txt 16 
+</list>
+<list> saying
+taleoftwo.txt 26 
+</list>
+<list> says
+taleoftwo.txt 19 
+</list>
+<list> scatter
+taleoftwo.txt 1 
+</list>
+<list> scattered
+taleoftwo.txt 3 
+</list>
+<list> scavenger
+taleoftwo.txt 1 
+</list>
+<list> scene
+taleoftwo.txt 5 
+</list>
+<list> scenes
+taleoftwo.txt 2 
+</list>
+<list> scent
+taleoftwo.txt 1 
+</list>
+<list> scents
+taleoftwo.txt 3 
+</list>
+<list> scholar
+taleoftwo.txt 1 
+</list>
+<list> school
+taleoftwo.txt 3 
+</list>
+<list> scientific
+taleoftwo.txt 3 
+</list>
+<list> scores
+taleoftwo.txt 1 
+</list>
+<list> scornfully
+taleoftwo.txt 1 
+</list>
+<list> scouring
+taleoftwo.txt 1 
+</list>
+<list> scowling
+taleoftwo.txt 1 
+</list>
+<list> scrapings
+taleoftwo.txt 1 
+</list>
+<list> scraps
+taleoftwo.txt 1 
+</list>
+<list> screeched
+taleoftwo.txt 1 
+</list>
+<list> scrubbed
+taleoftwo.txt 1 
+</list>
+<list> scruple
+taleoftwo.txt 2 
+</list>
+<list> scuffle
+taleoftwo.txt 1 
+</list>
+<list> sculptured
+taleoftwo.txt 1 
+</list>
+<list> scum
+taleoftwo.txt 1 
+</list>
+<list> seamstress
+taleoftwo.txt 1 
+</list>
+<list> search
+taleoftwo.txt 1 
+</list>
+<list> seat
+taleoftwo.txt 5 
+</list>
+<list> seated
+taleoftwo.txt 14 
+</list>
+<list> seats
+taleoftwo.txt 1 
+</list>
+<list> seaward
+taleoftwo.txt 1 
+</list>
+<list> section
+taleoftwo.txt 8 
+</list>
+<list> sections
+taleoftwo.txt 1 
+</list>
+<list> secure
+taleoftwo.txt 2 
+</list>
+<list> secured
+taleoftwo.txt 1 
+</list>
+<list> securely
+taleoftwo.txt 2 
+</list>
+<list> security
+taleoftwo.txt 3 
+</list>
+<list> sediment
+taleoftwo.txt 1 
+</list>
+<list> see
+taleoftwo.txt 18 
+</list>
+<list> seek
+taleoftwo.txt 1 
+</list>
+<list> seem
+taleoftwo.txt 1 
+</list>
+<list> seen
+taleoftwo.txt 1 
+</list>
+<list> seers
+taleoftwo.txt 1 
+</list>
+<list> sees
+taleoftwo.txt 5 
+</list>
+<list> seesaw
+taleoftwo.txt 1 
+</list>
+<list> seized
+taleoftwo.txt 7 
+</list>
+<list> seizing
+taleoftwo.txt 1 
+</list>
+<list> seldom
+taleoftwo.txt 1 
+</list>
+<list> self
+taleoftwo.txt 4 
+</list>
+<list> selfish
+taleoftwo.txt 1 
+</list>
+<list> selle
+taleoftwo.txt 2 
+</list>
+<list> selling
+taleoftwo.txt 1 
+</list>
+<list> selves
+taleoftwo.txt 1 
+</list>
+<list> semblance
+taleoftwo.txt 1 
+</list>
+<list> send
+taleoftwo.txt 1 
+</list>
+<list> sending
+taleoftwo.txt 1 
+</list>
+<list> sent
+taleoftwo.txt 4 
+</list>
+<list> sentence
+taleoftwo.txt 4 
+</list>
+<list> sentenced
+taleoftwo.txt 1 
+</list>
+<list> sentences
+taleoftwo.txt 1 
+</list>
+<list> sentiment
+taleoftwo.txt 2 
+</list>
+<list> sentimental
+taleoftwo.txt 1 
+</list>
+<list> sentinel
+taleoftwo.txt 1 
+</list>
+<list> separate
+taleoftwo.txt 3 
+</list>
+<list> separated
+taleoftwo.txt 2 
+</list>
+<list> separately
+taleoftwo.txt 1 
+</list>
+<list> separation
+taleoftwo.txt 3 
+</list>
+<list> september
+taleoftwo.txt 1 
+</list>
+<list> sequestrated
+taleoftwo.txt 1 
+</list>
+<list> sequestration
+taleoftwo.txt 1 
+</list>
+<list> service
+taleoftwo.txt 2 
+</list>
+<list> serviceable
+taleoftwo.txt 2 
+</list>
+<list> services
+taleoftwo.txt 2 
+</list>
+<list> servility
+taleoftwo.txt 1 
+</list>
+<list> serving
+taleoftwo.txt 1 
+</list>
+<list> sessions
+taleoftwo.txt 2 
+</list>
+<list> set
+taleoftwo.txt 13 
+</list>
+<list> settled
+taleoftwo.txt 1 
+</list>
+<list> settles
+taleoftwo.txt 1 
+</list>
+<list> settling
+taleoftwo.txt 3 
+</list>
+<list> seventy
+taleoftwo.txt 1 
+</list>
+<list> several
+taleoftwo.txt 21 
+</list>
+<list> severe
+taleoftwo.txt 1 
+</list>
+<list> severity
+taleoftwo.txt 1 
+</list>
+<list> sewing
+taleoftwo.txt 1 
+</list>
+<list> sexes
+taleoftwo.txt 4 
+</list>
+<list> sextons
+taleoftwo.txt 1 
+</list>
+<list> share
+taleoftwo.txt 1 
+</list>
+<list> shared
+taleoftwo.txt 1 
+</list>
+<list> sharing
+taleoftwo.txt 1 
+</list>
+<list> sharpened
+taleoftwo.txt 1 
+</list>
+<list> shattered
+taleoftwo.txt 1 
+</list>
+<list> shave
+taleoftwo.txt 1 
+</list>
+<list> shaved
+taleoftwo.txt 3 
+</list>
+<list> shawl
+taleoftwo.txt 1 
+</list>
+<list> she
+taleoftwo.txt 2 
+</list>
+<list> sheep
+taleoftwo.txt 9 
+</list>
+<list> sheltered
+taleoftwo.txt 1 
+</list>
+<list> shelves
+taleoftwo.txt 1 
+</list>
+<list> shelving
+taleoftwo.txt 1 
+</list>
+<list> shining
+taleoftwo.txt 1 
+</list>
+<list> ship
+taleoftwo.txt 1 
+</list>
+<list> shirt
+taleoftwo.txt 2 
+</list>
+<list> shivered
+taleoftwo.txt 5 
+</list>
+<list> shivering
+taleoftwo.txt 1 
+</list>
+<list> should
+taleoftwo.txt 6 
+</list>
+<list> shoulder
+taleoftwo.txt 1 
+</list>
+<list> shouldn
+taleoftwo.txt 2 
+</list>
+<list> show
+taleoftwo.txt 2 
+</list>
+<list> showed
+taleoftwo.txt 3 
+</list>
+<list> showing
+taleoftwo.txt 7 
+</list>
+<list> shown
+taleoftwo.txt 11 
+</list>
+<list> shows
+taleoftwo.txt 1 
+</list>
+<list> shrieks
+taleoftwo.txt 5 
+</list>
+<list> shrill
+taleoftwo.txt 2 
+</list>
+<list> shrink
+taleoftwo.txt 1 
+</list>
+<list> shrivelled
+taleoftwo.txt 1 
+</list>
+<list> shrug
+taleoftwo.txt 2 
+</list>
+<list> shrugging
+taleoftwo.txt 1 
+</list>
+<list> shrugs
+taleoftwo.txt 1 
+</list>
+<list> shutters
+taleoftwo.txt 2 
+</list>
+<list> shutting
+taleoftwo.txt 3 
+</list>
+<list> shy
+taleoftwo.txt 1 
+</list>
+<list> sick
+taleoftwo.txt 1 
+</list>
+<list> sickly
+taleoftwo.txt 2 
+</list>
+<list> sickness
+taleoftwo.txt 2 
+</list>
+<list> side
+taleoftwo.txt 18 
+</list>
+<list> sides
+taleoftwo.txt 6 
+</list>
+<list> sideways
+taleoftwo.txt 3 
+</list>
+<list> sight
+taleoftwo.txt 2 
+</list>
+<list> signalling
+taleoftwo.txt 2 
+</list>
+<list> signals
+taleoftwo.txt 2 
+</list>
+<list> signing
+taleoftwo.txt 1 
+</list>
+<list> signs
+taleoftwo.txt 7 
+</list>
+<list> silence
+taleoftwo.txt 2 
+</list>
+<list> silent
+taleoftwo.txt 8 
+</list>
+<list> silently
+taleoftwo.txt 2 
+</list>
+<list> silk
+taleoftwo.txt 1 
+</list>
+<list> sill
+taleoftwo.txt 1 
+</list>
+<list> silver
+taleoftwo.txt 3 
+</list>
+<list> similar
+taleoftwo.txt 3 
+</list>
+<list> simplicity
+taleoftwo.txt 1 
+</list>
+<list> simply
+taleoftwo.txt 2 
+</list>
+<list> simultaneously
+taleoftwo.txt 1 
+</list>
+<list> single
+taleoftwo.txt 1 
+</list>
+<list> sings
+taleoftwo.txt 1 
+</list>
+<list> sinner
+taleoftwo.txt 1 
+</list>
+<list> sins
+taleoftwo.txt 1 
+</list>
+<list> sipped
+taleoftwo.txt 1 
+</list>
+<list> sipping
+taleoftwo.txt 3 
+</list>
+<list> sir
+taleoftwo.txt 101 
+</list>
+<list> sister
+taleoftwo.txt 12 
+</list>
+<list> sisterhood
+taleoftwo.txt 2 
+</list>
+<list> sisters
+taleoftwo.txt 2 
+</list>
+<list> site
+taleoftwo.txt 4 
+</list>
+<list> sits
+taleoftwo.txt 1 
+</list>
+<list> sitting
+taleoftwo.txt 20 
+</list>
+<list> situation
+taleoftwo.txt 7 
+</list>
+<list> six
+taleoftwo.txt 6 
+</list>
+<list> sixth
+taleoftwo.txt 1 
+</list>
+<list> sixties
+taleoftwo.txt 1 
+</list>
+<list> sixty
+taleoftwo.txt 11 
+</list>
+<list> size
+taleoftwo.txt 5 
+</list>
+<list> skirt
+taleoftwo.txt 1 
+</list>
+<list> skirting
+taleoftwo.txt 1 
+</list>
+<list> skirts
+taleoftwo.txt 1 
+</list>
+<list> sky
+taleoftwo.txt 21 
+</list>
+<list> slain
+taleoftwo.txt 2 
+</list>
+<list> slake
+taleoftwo.txt 1 
+</list>
+<list> slapping
+taleoftwo.txt 1 
+</list>
+<list> slave
+taleoftwo.txt 3 
+</list>
+<list> slavery
+taleoftwo.txt 2 
+</list>
+<list> slaves
+taleoftwo.txt 1 
+</list>
+<list> sleep
+taleoftwo.txt 12 
+</list>
+<list> sleeping
+taleoftwo.txt 2 
+</list>
+<list> slender
+taleoftwo.txt 1 
+</list>
+<list> slept
+taleoftwo.txt 10 
+</list>
+<list> slight
+taleoftwo.txt 4 
+</list>
+<list> slightly
+taleoftwo.txt 2 
+</list>
+<list> slinking
+taleoftwo.txt 1 
+</list>
+<list> slip
+taleoftwo.txt 3 
+</list>
+<list> slipped
+taleoftwo.txt 3 
+</list>
+<list> slippered
+taleoftwo.txt 1 
+</list>
+<list> slippers
+taleoftwo.txt 1 
+</list>
+<list> slowly
+taleoftwo.txt 38 
+</list>
+<list> slowness
+taleoftwo.txt 1 
+</list>
+<list> slumber
+taleoftwo.txt 1 
+</list>
+<list> slumbering
+taleoftwo.txt 1 
+</list>
+<list> slung
+taleoftwo.txt 3 
+</list>
+<list> slunk
+taleoftwo.txt 2 
+</list>
+<list> sly
+taleoftwo.txt 1 
+</list>
+<list> small
+taleoftwo.txt 23 
+</list>
+<list> smallness
+taleoftwo.txt 1 
+</list>
+<list> smash
+taleoftwo.txt 2 
+</list>
+<list> smelling
+taleoftwo.txt 4 
+</list>
+<list> smelt
+taleoftwo.txt 3 
+</list>
+<list> smile
+taleoftwo.txt 5 
+</list>
+<list> smiling
+taleoftwo.txt 1 
+</list>
+<list> smite
+taleoftwo.txt 2 
+</list>
+<list> smith
+taleoftwo.txt 5 
+</list>
+<list> smiths
+taleoftwo.txt 1 
+</list>
+<list> smithy
+taleoftwo.txt 1 
+</list>
+<list> smiting
+taleoftwo.txt 1 
+</list>
+<list> smoke
+taleoftwo.txt 2 
+</list>
+<list> smote
+taleoftwo.txt 2 
+</list>
+<list> smothered
+taleoftwo.txt 1 
+</list>
+<list> smotherings
+taleoftwo.txt 1 
+</list>
+<list> smouldering
+taleoftwo.txt 1 
+</list>
+<list> smuggler
+taleoftwo.txt 1 
+</list>
+<list> snap
+taleoftwo.txt 1 
+</list>
+<list> snatched
+taleoftwo.txt 2 
+</list>
+<list> snatches
+taleoftwo.txt 1 
+</list>
+<list> sneers
+taleoftwo.txt 1 
+</list>
+<list> sneezed
+taleoftwo.txt 1 
+</list>
+<list> snipped
+taleoftwo.txt 1 
+</list>
+<list> snow
+taleoftwo.txt 1 
+</list>
+<list> snowing
+taleoftwo.txt 1 
+</list>
+<list> snowy
+taleoftwo.txt 1 
+</list>
+<list> snuff
+taleoftwo.txt 6 
+</list>
+<list> snuffed
+taleoftwo.txt 1 
+</list>
+<list> so
+taleoftwo.txt 594 
+</list>
+<list> soared
+taleoftwo.txt 1 
+</list>
+<list> sob
+taleoftwo.txt 1 
+</list>
+<list> sobbed
+taleoftwo.txt 1 
+</list>
+<list> sober
+taleoftwo.txt 1 
+</list>
+<list> soberer
+taleoftwo.txt 1 
+</list>
+<list> sobriety
+taleoftwo.txt 1 
+</list>
+<list> sobs
+taleoftwo.txt 1 
+</list>
+<list> social
+taleoftwo.txt 3 
+</list>
+<list> society
+taleoftwo.txt 7 
+</list>
+<list> sodden
+taleoftwo.txt 1 
+</list>
+<list> softened
+taleoftwo.txt 2 
+</list>
+<list> softer
+taleoftwo.txt 2 
+</list>
+<list> softly
+taleoftwo.txt 18 
+</list>
+<list> soho
+taleoftwo.txt 18 
+</list>
+<list> soil
+taleoftwo.txt 1 
+</list>
+<list> soiled
+taleoftwo.txt 3 
+</list>
+<list> soils
+taleoftwo.txt 1 
+</list>
+<list> solicit
+taleoftwo.txt 2 
+</list>
+<list> solicitation
+taleoftwo.txt 1 
+</list>
+<list> solitary
+taleoftwo.txt 1 
+</list>
+<list> solitude
+taleoftwo.txt 4 
+</list>
+<list> solomon
+taleoftwo.txt 24 
+</list>
+<list> solved
+taleoftwo.txt 1 
+</list>
+<list> solving
+taleoftwo.txt 1 
+</list>
+<list> some
+taleoftwo.txt 1 
+</list>
+<list> somewhat
+taleoftwo.txt 2 
+</list>
+<list> somewhere
+taleoftwo.txt 9 
+</list>
+<list> son
+taleoftwo.txt 12 
+</list>
+<list> song
+taleoftwo.txt 6 
+</list>
+<list> sonorous
+taleoftwo.txt 1 
+</list>
+<list> sons
+taleoftwo.txt 2 
+</list>
+<list> soon
+taleoftwo.txt 5 
+</list>
+<list> soot
+taleoftwo.txt 2 
+</list>
+<list> soothed
+taleoftwo.txt 2 
+</list>
+<list> soothing
+taleoftwo.txt 5 
+</list>
+<list> soothingly
+taleoftwo.txt 2 
+</list>
+<list> sorrow
+taleoftwo.txt 1 
+</list>
+<list> sorrowful
+taleoftwo.txt 2 
+</list>
+<list> sorrows
+taleoftwo.txt 2 
+</list>
+<list> sort
+taleoftwo.txt 13 
+</list>
+<list> sorts
+taleoftwo.txt 4 
+</list>
+<list> soul
+taleoftwo.txt 1 
+</list>
+<list> souls
+taleoftwo.txt 1 
+</list>
+<list> source
+taleoftwo.txt 1 
+</list>
+<list> south
+taleoftwo.txt 1 
+</list>
+<list> southcott
+taleoftwo.txt 1 
+</list>
+<list> southern
+taleoftwo.txt 2 
+</list>
+<list> sow
+taleoftwo.txt 2 
+</list>
+<list> sown
+taleoftwo.txt 2 
+</list>
+<list> spare
+taleoftwo.txt 8 
+</list>
+<list> spark
+taleoftwo.txt 1 
+</list>
+<list> sparkled
+taleoftwo.txt 1 
+</list>
+<list> sparkling
+taleoftwo.txt 1 
+</list>
+<list> sparks
+taleoftwo.txt 5 
+</list>
+<list> sparrows
+taleoftwo.txt 1 
+</list>
+<list> spat
+taleoftwo.txt 1 
+</list>
+<list> specific
+taleoftwo.txt 1 
+</list>
+<list> specified
+taleoftwo.txt 2 
+</list>
+<list> spectacle
+taleoftwo.txt 1 
+</list>
+<list> spectators
+taleoftwo.txt 1 
+</list>
+<list> speech
+taleoftwo.txt 1 
+</list>
+<list> speed
+taleoftwo.txt 3 
+</list>
+<list> spending
+taleoftwo.txt 1 
+</list>
+<list> spent
+taleoftwo.txt 3 
+</list>
+<list> sphere
+taleoftwo.txt 1 
+</list>
+<list> spilled
+taleoftwo.txt 1 
+</list>
+<list> spirit
+taleoftwo.txt 1 
+</list>
+<list> spiritual
+taleoftwo.txt 2 
+</list>
+<list> spite
+taleoftwo.txt 4 
+</list>
+<list> spittoon
+taleoftwo.txt 1 
+</list>
+<list> splashed
+taleoftwo.txt 1 
+</list>
+<list> splinter
+taleoftwo.txt 1 
+</list>
+<list> splits
+taleoftwo.txt 1 
+</list>
+<list> spluttered
+taleoftwo.txt 1 
+</list>
+<list> spoke
+taleoftwo.txt 1 
+</list>
+<list> sports
+taleoftwo.txt 1 
+</list>
+<list> spot
+taleoftwo.txt 21 
+</list>
+<list> spots
+taleoftwo.txt 1 
+</list>
+<list> sprang
+taleoftwo.txt 2 
+</list>
+<list> spread
+taleoftwo.txt 1 
+</list>
+<list> sprig
+taleoftwo.txt 1 
+</list>
+<list> spring
+taleoftwo.txt 1 
+</list>
+<list> springing
+taleoftwo.txt 2 
+</list>
+<list> sprinkled
+taleoftwo.txt 1 
+</list>
+<list> sprinkling
+taleoftwo.txt 1 
+</list>
+<list> sprites
+taleoftwo.txt 1 
+</list>
+<list> sprung
+taleoftwo.txt 2 
+</list>
+<list> spun
+taleoftwo.txt 4 
+</list>
+<list> spurning
+taleoftwo.txt 1 
+</list>
+<list> spurring
+taleoftwo.txt 2 
+</list>
+<list> sputtering
+taleoftwo.txt 1 
+</list>
+<list> spy
+taleoftwo.txt 60 
+</list>
+<list> squares
+taleoftwo.txt 1 
+</list>
+<list> squeezed
+taleoftwo.txt 6 
+</list>
+<list> squeezing
+taleoftwo.txt 2 
+</list>
+<list> st
+taleoftwo.txt 7 
+</list>
+<list> staff
+taleoftwo.txt 1 
+</list>
+<list> start
+taleoftwo.txt 1 
+</list>
+<list> statements
+taleoftwo.txt 1 
+</list>
+<list> states
+taleoftwo.txt 14 
+</list>
+<list> status
+taleoftwo.txt 4 
+</list>
+<list> staunch
+taleoftwo.txt 1 
+</list>
+<list> stay
+taleoftwo.txt 3 
+</list>
+<list> stayed
+taleoftwo.txt 4 
+</list>
+<list> staying
+taleoftwo.txt 1 
+</list>
+<list> step
+taleoftwo.txt 1 
+</list>
+<list> steps
+taleoftwo.txt 1 
+</list>
+<list> stern
+taleoftwo.txt 1 
+</list>
+<list> sterner
+taleoftwo.txt 1 
+</list>
+<list> sternly
+taleoftwo.txt 4 
+</list>
+<list> stew
+taleoftwo.txt 1 
+</list>
+<list> still
+taleoftwo.txt 12 
+</list>
+<list> stillness
+taleoftwo.txt 3 
+</list>
+<list> stimulate
+taleoftwo.txt 1 
+</list>
+<list> stint
+taleoftwo.txt 1 
+</list>
+<list> stipulations
+taleoftwo.txt 1 
+</list>
+<list> stir
+taleoftwo.txt 2 
+</list>
+<list> stirred
+taleoftwo.txt 2 
+</list>
+<list> stirring
+taleoftwo.txt 1 
+</list>
+<list> stitches
+taleoftwo.txt 1 
+</list>
+<list> stored
+taleoftwo.txt 1 
+</list>
+<list> stormy
+taleoftwo.txt 1 
+</list>
+<list> story
+taleoftwo.txt 16 
+</list>
+<list> stout
+taleoftwo.txt 3 
+</list>
+<list> stowed
+taleoftwo.txt 1 
+</list>
+<list> strict
+taleoftwo.txt 1 
+</list>
+<list> struggled
+taleoftwo.txt 2 
+</list>
+<list> struggles
+taleoftwo.txt 1 
+</list>
+<list> strung
+taleoftwo.txt 1 
+</list>
+<list> stryver
+taleoftwo.txt 108 
+</list>
+<list> student
+taleoftwo.txt 1 
+</list>
+<list> studious
+taleoftwo.txt 1 
+</list>
+<list> stumbled
+taleoftwo.txt 1 
+</list>
+<list> stunned
+taleoftwo.txt 1 
+</list>
+<list> stupidly
+taleoftwo.txt 2 
+</list>
+<list> stupor
+taleoftwo.txt 1 
+</list>
+<list> style
+taleoftwo.txt 1 
+</list>
+<list> submit
+taleoftwo.txt 1 
+</list>
+<list> subscribe
+taleoftwo.txt 1 
+</list>
+<list> subtle
+taleoftwo.txt 3 
+</list>
+<list> suburb
+taleoftwo.txt 3 
+</list>
+<list> such
+taleoftwo.txt 74 
+</list>
+<list> sucking
+taleoftwo.txt 2 
+</list>
+<list> suction
+taleoftwo.txt 1 
+</list>
+<list> sudden
+taleoftwo.txt 4 
+</list>
+<list> suddenly
+taleoftwo.txt 21 
+</list>
+<list> suddenness
+taleoftwo.txt 2 
+</list>
+<list> sufferer
+taleoftwo.txt 1 
+</list>
+<list> sufferers
+taleoftwo.txt 1 
+</list>
+<list> suffering
+taleoftwo.txt 2 
+</list>
+<list> suffocated
+taleoftwo.txt 2 
+</list>
+<list> suffocation
+taleoftwo.txt 1 
+</list>
+<list> suggested
+taleoftwo.txt 3 
+</list>
+<list> suggestion
+taleoftwo.txt 3 
+</list>
+<list> suggestions
+taleoftwo.txt 1 
+</list>
+<list> suicidal
+taleoftwo.txt 1 
+</list>
+<list> suit
+taleoftwo.txt 3 
+</list>
+<list> suitable
+taleoftwo.txt 2 
+</list>
+<list> suitably
+taleoftwo.txt 1 
+</list>
+<list> suited
+taleoftwo.txt 1 
+</list>
+<list> suitor
+taleoftwo.txt 2 
+</list>
+<list> suits
+taleoftwo.txt 1 
+</list>
+<list> sullen
+taleoftwo.txt 1 
+</list>
+<list> sullenly
+taleoftwo.txt 2 
+</list>
+<list> sulphur
+taleoftwo.txt 1 
+</list>
+<list> sultry
+taleoftwo.txt 2 
+</list>
+<list> summoned
+taleoftwo.txt 17 
+</list>
+<list> summons
+taleoftwo.txt 1 
+</list>
+<list> sumptuous
+taleoftwo.txt 2 
+</list>
+<list> sunday
+taleoftwo.txt 1 
+</list>
+<list> sundry
+taleoftwo.txt 1 
+</list>
+<list> sunk
+taleoftwo.txt 1 
+</list>
+<list> sunset
+taleoftwo.txt 4 
+</list>
+<list> sunshine
+taleoftwo.txt 4 
+</list>
+<list> supple
+taleoftwo.txt 1 
+</list>
+<list> support
+taleoftwo.txt 5 
+</list>
+<list> supposed
+taleoftwo.txt 4 
+</list>
+<list> supposition
+taleoftwo.txt 1 
+</list>
+<list> suppressed
+taleoftwo.txt 1 
+</list>
+<list> suppression
+taleoftwo.txt 1 
+</list>
+<list> supreme
+taleoftwo.txt 1 
+</list>
+<list> surveying
+taleoftwo.txt 3 
+</list>
+<list> survive
+taleoftwo.txt 2 
+</list>
+<list> surviving
+taleoftwo.txt 1 
+</list>
+<list> suspect
+taleoftwo.txt 1 
+</list>
+<list> suspended
+taleoftwo.txt 1 
+</list>
+<list> suspense
+taleoftwo.txt 1 
+</list>
+<list> suspicion
+taleoftwo.txt 3 
+</list>
+<list> sustained
+taleoftwo.txt 6 
+</list>
+<list> sustaining
+taleoftwo.txt 2 
+</list>
+<list> swallowed
+taleoftwo.txt 2 
+</list>
+<list> swamp
+taleoftwo.txt 1 
+</list>
+<list> swarming
+taleoftwo.txt 1 
+</list>
+<list> swart
+taleoftwo.txt 1 
+</list>
+<list> swarthy
+taleoftwo.txt 1 
+</list>
+<list> swaying
+taleoftwo.txt 1 
+</list>
+<list> swelling
+taleoftwo.txt 1 
+</list>
+<list> swells
+taleoftwo.txt 1 
+</list>
+<list> swept
+taleoftwo.txt 5 
+</list>
+<list> swift
+taleoftwo.txt 2 
+</list>
+<list> swiftly
+taleoftwo.txt 2 
+</list>
+<list> swing
+taleoftwo.txt 1 
+</list>
+<list> swinging
+taleoftwo.txt 10 
+</list>
+<list> swoon
+taleoftwo.txt 1 
+</list>
+<list> swords
+taleoftwo.txt 1 
+</list>
+<list> swore
+taleoftwo.txt 1 
+</list>
+<list> sworn
+taleoftwo.txt 2 
+</list>
+<list> swung
+taleoftwo.txt 4 
+</list>
+<list> syd
+taleoftwo.txt 1 
+</list>
+<list> sydney
+taleoftwo.txt 76 
+</list>
+<list> syllable
+taleoftwo.txt 4 
+</list>
+<list> syllables
+taleoftwo.txt 2 
+</list>
+<list> sympathise
+taleoftwo.txt 1 
+</list>
+<list> sympathy
+taleoftwo.txt 12 
+</list>
+<list> symptoms
+taleoftwo.txt 1 
+</list>
+<list> synonymous
+taleoftwo.txt 1 
+</list>
+<list> system
+taleoftwo.txt 4 
+</list>
+<list> systematically
+taleoftwo.txt 2 
+</list>
+<list> t
+taleoftwo.txt 227 
+</list>
+<list> table
+taleoftwo.txt 42 
+</list>
+<list> tables
+taleoftwo.txt 3 
+</list>
+<list> taciturn
+taleoftwo.txt 1 
+</list>
+<list> tackle
+taleoftwo.txt 1 
+</list>
+<list> tact
+taleoftwo.txt 1 
+</list>
+<list> tactician
+taleoftwo.txt 1 
+</list>
+<list> taint
+taleoftwo.txt 1 
+</list>
+<list> tainted
+taleoftwo.txt 2 
+</list>
+<list> takes
+taleoftwo.txt 5 
+</list>
+<list> takin
+taleoftwo.txt 1 
+</list>
+<list> taking
+taleoftwo.txt 41 
+</list>
+<list> tale
+taleoftwo.txt 3 
+</list>
+<list> talk
+taleoftwo.txt 2 
+</list>
+<list> talked
+taleoftwo.txt 2 
+</list>
+<list> talkers
+taleoftwo.txt 3 
+</list>
+<list> talking
+taleoftwo.txt 8 
+</list>
+<list> tall
+taleoftwo.txt 18 
+</list>
+<list> tame
+taleoftwo.txt 3 
+</list>
+<list> tamed
+taleoftwo.txt 1 
+</list>
+<list> tamper
+taleoftwo.txt 1 
+</list>
+<list> tangle
+taleoftwo.txt 1 
+</list>
+<list> tanneries
+taleoftwo.txt 2 
+</list>
+<list> tannery
+taleoftwo.txt 1 
+</list>
+<list> tapped
+taleoftwo.txt 1 
+</list>
+<list> tapping
+taleoftwo.txt 1 
+</list>
+<list> tarnish
+taleoftwo.txt 1 
+</list>
+<list> task
+taleoftwo.txt 4 
+</list>
+<list> taste
+taleoftwo.txt 7 
+</list>
+<list> tasted
+taleoftwo.txt 1 
+</list>
+<list> tastes
+taleoftwo.txt 1 
+</list>
+<list> tattered
+taleoftwo.txt 1 
+</list>
+<list> tatters
+taleoftwo.txt 1 
+</list>
+<list> taught
+taleoftwo.txt 3 
+</list>
+<list> tavern
+taleoftwo.txt 4 
+</list>
+<list> tax
+taleoftwo.txt 6 
+</list>
+<list> taxed
+taleoftwo.txt 1 
+</list>
+<list> taxes
+taleoftwo.txt 3 
+</list>
+<list> taxing
+taleoftwo.txt 3 
+</list>
+<list> tearing
+taleoftwo.txt 5 
+</list>
+<list> tears
+taleoftwo.txt 29 
+</list>
+<list> tedious
+taleoftwo.txt 1 
+</list>
+<list> teems
+taleoftwo.txt 1 
+</list>
+<list> teeth
+taleoftwo.txt 8 
+</list>
+<list> tell
+taleoftwo.txt 19 
+</list>
+<list> telling
+taleoftwo.txt 1 
+</list>
+<list> tells
+taleoftwo.txt 2 
+</list>
+<list> tellson
+taleoftwo.txt 92 
+</list>
+<list> temple
+taleoftwo.txt 2 
+</list>
+<list> temporarily
+taleoftwo.txt 1 
+</list>
+<list> tempt
+taleoftwo.txt 1 
+</list>
+<list> tempted
+taleoftwo.txt 1 
+</list>
+<list> tempter
+taleoftwo.txt 2 
+</list>
+<list> tendency
+taleoftwo.txt 2 
+</list>
+<list> tender
+taleoftwo.txt 1 
+</list>
+<list> tenderly
+taleoftwo.txt 1 
+</list>
+<list> tending
+taleoftwo.txt 7 
+</list>
+<list> tenth
+taleoftwo.txt 3 
+</list>
+<list> terms
+taleoftwo.txt 20 
+</list>
+<list> terrified
+taleoftwo.txt 1 
+</list>
+<list> terror
+taleoftwo.txt 8 
+</list>
+<list> terrors
+taleoftwo.txt 4 
+</list>
+<list> testified
+taleoftwo.txt 1 
+</list>
+<list> testify
+taleoftwo.txt 1 
+</list>
+<list> testimony
+taleoftwo.txt 3 
+</list>
+<list> tethered
+taleoftwo.txt 1 
+</list>
+<list> text
+taleoftwo.txt 1 
+</list>
+<list> texture
+taleoftwo.txt 1 
+</list>
+<list> thanks
+taleoftwo.txt 2 
+</list>
+<list> that
+taleoftwo.txt 1956 
+</list>
+<list> thatched
+taleoftwo.txt 1 
+</list>
+<list> the
+taleoftwo.txt 30 
+</list>
+<list> these
+taleoftwo.txt 188 
+</list>
+<list> they
+taleoftwo.txt 570 
+</list>
+<list> thirty
+taleoftwo.txt 6 
+</list>
+<list> this
+taleoftwo.txt 602 
+</list>
+<list> those
+taleoftwo.txt 1 
+</list>
+<list> thought
+taleoftwo.txt 2 
+</list>
+<list> thoughts
+taleoftwo.txt 16 
+</list>
+<list> thousand
+taleoftwo.txt 26 
+</list>
+<list> thousands
+taleoftwo.txt 3 
+</list>
+<list> through
+taleoftwo.txt 3 
+</list>
+<list> throughout
+taleoftwo.txt 1 
+</list>
+<list> throwing
+taleoftwo.txt 1 
+</list>
+<list> thrown
+taleoftwo.txt 3 
+</list>
+<list> throws
+taleoftwo.txt 1 
+</list>
+<list> thrust
+taleoftwo.txt 5 
+</list>
+<list> thundering
+taleoftwo.txt 2 
+</list>
+<list> thus
+taleoftwo.txt 33 
+</list>
+<list> thy
+taleoftwo.txt 2 
+</list>
+<list> ticking
+taleoftwo.txt 1 
+</list>
+<list> tickle
+taleoftwo.txt 2 
+</list>
+<list> tide
+taleoftwo.txt 1 
+</list>
+<list> tides
+taleoftwo.txt 3 
+</list>
+<list> tidings
+taleoftwo.txt 8 
+</list>
+<list> tie
+taleoftwo.txt 1 
+</list>
+<list> tied
+taleoftwo.txt 8 
+</list>
+<list> ties
+taleoftwo.txt 4 
+</list>
+<list> tight
+taleoftwo.txt 3 
+</list>
+<list> tightly
+taleoftwo.txt 1 
+</list>
+<list> tigress
+taleoftwo.txt 1 
+</list>
+<list> tiled
+taleoftwo.txt 1 
+</list>
+<list> till
+taleoftwo.txt 8 
+</list>
+<list> tillers
+taleoftwo.txt 1 
+</list>
+<list> tilson
+taleoftwo.txt 1 
+</list>
+<list> time
+taleoftwo.txt 5 
+</list>
+<list> timidity
+taleoftwo.txt 1 
+</list>
+<list> timidly
+taleoftwo.txt 2 
+</list>
+<list> timorous
+taleoftwo.txt 2 
+</list>
+<list> tinged
+taleoftwo.txt 2 
+</list>
+<list> tiny
+taleoftwo.txt 1 
+</list>
+<list> tips
+taleoftwo.txt 1 
+</list>
+<list> tiptoe
+taleoftwo.txt 2 
+</list>
+<list> tired
+taleoftwo.txt 4 
+</list>
+<list> tiresome
+taleoftwo.txt 1 
+</list>
+<list> tissue
+taleoftwo.txt 2 
+</list>
+<list> title
+taleoftwo.txt 3 
+</list>
+<list> tm
+taleoftwo.txt 57 
+</list>
+<list> to
+taleoftwo.txt 3651 
+</list>
+<list> toast
+taleoftwo.txt 3 
+</list>
+<list> toasts
+taleoftwo.txt 1 
+</list>
+<list> tobacco
+taleoftwo.txt 1 
+</list>
+<list> tobaccoey
+taleoftwo.txt 1 
+</list>
+<list> tocsin
+taleoftwo.txt 3 
+</list>
+<list> toes
+taleoftwo.txt 1 
+</list>
+<list> together
+taleoftwo.txt 64 
+</list>
+<list> toilette
+taleoftwo.txt 1 
+</list>
+<list> toilettes
+taleoftwo.txt 1 
+</list>
+<list> told
+taleoftwo.txt 29 
+</list>
+<list> tolerate
+taleoftwo.txt 1 
+</list>
+<list> tolerated
+taleoftwo.txt 4 
+</list>
+<list> tomb
+taleoftwo.txt 4 
+</list>
+<list> tomorrow
+taleoftwo.txt 2 
+</list>
+<list> tone
+taleoftwo.txt 3 
+</list>
+<list> tones
+taleoftwo.txt 5 
+</list>
+<list> tongue
+taleoftwo.txt 7 
+</list>
+<list> tongues
+taleoftwo.txt 3 
+</list>
+<list> too
+taleoftwo.txt 39 
+</list>
+<list> took
+taleoftwo.txt 63 
+</list>
+<list> tools
+taleoftwo.txt 7 
+</list>
+<list> toothache
+taleoftwo.txt 1 
+</list>
+<list> toothpick
+taleoftwo.txt 6 
+</list>
+<list> top
+taleoftwo.txt 4 
+</list>
+<list> topics
+taleoftwo.txt 1 
+</list>
+<list> topped
+taleoftwo.txt 1 
+</list>
+<list> tops
+taleoftwo.txt 3 
+</list>
+<list> torn
+taleoftwo.txt 1 
+</list>
+<list> tortured
+taleoftwo.txt 2 
+</list>
+<list> tortures
+taleoftwo.txt 1 
+</list>
+<list> tossed
+taleoftwo.txt 4 
+</list>
+<list> tossing
+taleoftwo.txt 2 
+</list>
+<list> total
+taleoftwo.txt 1 
+</list>
+<list> totally
+taleoftwo.txt 1 
+</list>
+<list> touch
+taleoftwo.txt 1 
+</list>
+<list> touches
+taleoftwo.txt 1 
+</list>
+<list> touching
+taleoftwo.txt 19 
+</list>
+<list> towards
+taleoftwo.txt 3 
+</list>
+<list> tower
+taleoftwo.txt 4 
+</list>
+<list> towers
+taleoftwo.txt 3 
+</list>
+<list> town
+taleoftwo.txt 6 
+</list>
+<list> towns
+taleoftwo.txt 1 
+</list>
+<list> townspeople
+taleoftwo.txt 1 
+</list>
+<list> toy
+taleoftwo.txt 1 
+</list>
+<list> trademark
+taleoftwo.txt 3 
+</list>
+<list> transcribe
+taleoftwo.txt 1 
+</list>
+<list> transcription
+taleoftwo.txt 1 
+</list>
+<list> transformations
+taleoftwo.txt 1 
+</list>
+<list> traveller
+taleoftwo.txt 1 
+</list>
+<list> travelling
+taleoftwo.txt 2 
+</list>
+<list> traversed
+taleoftwo.txt 2 
+</list>
+<list> traversing
+taleoftwo.txt 3 
+</list>
+<list> tray
+taleoftwo.txt 2 
+</list>
+<list> treatment
+taleoftwo.txt 1 
+</list>
+<list> trees
+taleoftwo.txt 2 
+</list>
+<list> tremble
+taleoftwo.txt 3 
+</list>
+<list> trembled
+taleoftwo.txt 3 
+</list>
+<list> trembling
+taleoftwo.txt 4 
+</list>
+<list> trenchant
+taleoftwo.txt 1 
+</list>
+<list> trenches
+taleoftwo.txt 1 
+</list>
+<list> trepidation
+taleoftwo.txt 1 
+</list>
+<list> triumph
+taleoftwo.txt 6 
+</list>
+<list> triumphs
+taleoftwo.txt 2 
+</list>
+<list> triumvirate
+taleoftwo.txt 1 
+</list>
+<list> trivial
+taleoftwo.txt 1 
+</list>
+<list> trouble
+taleoftwo.txt 1 
+</list>
+<list> troubled
+taleoftwo.txt 5 
+</list>
+<list> troubles
+taleoftwo.txt 3 
+</list>
+<list> troublesome
+taleoftwo.txt 4 
+</list>
+<list> troubling
+taleoftwo.txt 1 
+</list>
+<list> truly
+taleoftwo.txt 1 
+</list>
+<list> trust
+taleoftwo.txt 1 
+</list>
+<list> trusty
+taleoftwo.txt 2 
+</list>
+<list> truth
+taleoftwo.txt 21 
+</list>
+<list> truthfully
+taleoftwo.txt 1 
+</list>
+<list> try
+taleoftwo.txt 14 
+</list>
+<list> trying
+taleoftwo.txt 12 
+</list>
+<list> tst
+taleoftwo.txt 7 
+</list>
+<list> tuesday
+taleoftwo.txt 1 
+</list>
+<list> tuileries
+taleoftwo.txt 2 
+</list>
+<list> tumbril
+taleoftwo.txt 3 
+</list>
+<list> tumbrils
+taleoftwo.txt 14 
+</list>
+<list> tumult
+taleoftwo.txt 2 
+</list>
+<list> tumultuous
+taleoftwo.txt 1 
+</list>
+<list> tune
+taleoftwo.txt 2 
+</list>
+<list> turned
+taleoftwo.txt 41 
+</list>
+<list> turning
+taleoftwo.txt 2 
+</list>
+<list> turnkey
+taleoftwo.txt 3 
+</list>
+<list> turnkeys
+taleoftwo.txt 2 
+</list>
+<list> turns
+taleoftwo.txt 5 
+</list>
+<list> tut
+taleoftwo.txt 3 
+</list>
+<list> tutor
+taleoftwo.txt 3 
+</list>
+<list> twentieth
+taleoftwo.txt 2 
+</list>
+<list> twenty
+taleoftwo.txt 33 
+</list>
+<list> twinkling
+taleoftwo.txt 2 
+</list>
+<list> twist
+taleoftwo.txt 1 
+</list>
+<list> twisted
+taleoftwo.txt 1 
+</list>
+<list> twitching
+taleoftwo.txt 1 
+</list>
+<list> two
+taleoftwo.txt 230 
+</list>
+<list> twopence
+taleoftwo.txt 1 
+</list>
+<list> twos
+taleoftwo.txt 2 
+</list>
+<list> txt
+taleoftwo.txt 1 
+</list>
+<list> tyburn
+taleoftwo.txt 1 
+</list>
+<list> tying
+taleoftwo.txt 1 
+</list>
+<list> types
+taleoftwo.txt 2 
+</list>
+<list> typified
+taleoftwo.txt 1 
+</list>
+<list> tyrant
+taleoftwo.txt 1 
+</list>
+<list> tyrants
+taleoftwo.txt 3 
+</list>
+<list> u
+taleoftwo.txt 5 
+</list>
+<list> ubiquitous
+taleoftwo.txt 2 
+</list>
+<list> ud
+taleoftwo.txt 1 
+</list>
+<list> ugh
+taleoftwo.txt 1 
+</list>
+<list> uglier
+taleoftwo.txt 1 
+</list>
+<list> ugliness
+taleoftwo.txt 1 
+</list>
+<list> ugly
+taleoftwo.txt 3 
+</list>
+<list> ultimate
+taleoftwo.txt 1 
+</list>
+<list> un
+taleoftwo.txt 3 
+</list>
+<list> unaccountably
+taleoftwo.txt 1 
+</list>
+<list> unaccused
+taleoftwo.txt 1 
+</list>
+<list> unanimously
+taleoftwo.txt 1 
+</list>
+<list> unavailing
+taleoftwo.txt 1 
+</list>
+<list> unavenged
+taleoftwo.txt 1 
+</list>
+<list> unbecoming
+taleoftwo.txt 1 
+</list>
+<list> unborn
+taleoftwo.txt 2 
+</list>
+<list> unbrutalised
+taleoftwo.txt 1 
+</list>
+<list> unbuilt
+taleoftwo.txt 1 
+</list>
+<list> unchangeable
+taleoftwo.txt 1 
+</list>
+<list> uncomplaining
+taleoftwo.txt 1 
+</list>
+<list> unconnected
+taleoftwo.txt 2 
+</list>
+<list> unconscious
+taleoftwo.txt 10 
+</list>
+<list> unconsciously
+taleoftwo.txt 1 
+</list>
+<list> unconsciousness
+taleoftwo.txt 1 
+</list>
+<list> uncontrollable
+taleoftwo.txt 1 
+</list>
+<list> uncorrupted
+taleoftwo.txt 1 
+</list>
+<list> under
+taleoftwo.txt 8 
+</list>
+<list> understand
+taleoftwo.txt 3 
+</list>
+<list> understood
+taleoftwo.txt 4 
+</list>
+<list> underwent
+taleoftwo.txt 1 
+</list>
+<list> undoubtedly
+taleoftwo.txt 1 
+</list>
+<list> undressing
+taleoftwo.txt 1 
+</list>
+<list> undug
+taleoftwo.txt 1 
+</list>
+<list> undutiful
+taleoftwo.txt 1 
+</list>
+<list> unencumbered
+taleoftwo.txt 1 
+</list>
+<list> unenforceability
+taleoftwo.txt 1 
+</list>
+<list> unequal
+taleoftwo.txt 1 
+</list>
+<list> uneven
+taleoftwo.txt 1 
+</list>
+<list> unexpectedly
+taleoftwo.txt 3 
+</list>
+<list> unexplained
+taleoftwo.txt 1 
+</list>
+<list> unfastened
+taleoftwo.txt 1 
+</list>
+<list> unfortunate
+taleoftwo.txt 2 
+</list>
+<list> unfounded
+taleoftwo.txt 1 
+</list>
+<list> unfrequently
+taleoftwo.txt 2 
+</list>
+<list> unfruitful
+taleoftwo.txt 1 
+</list>
+<list> unglazed
+taleoftwo.txt 2 
+</list>
+<list> ungrateful
+taleoftwo.txt 1 
+</list>
+<list> unhappily
+taleoftwo.txt 2 
+</list>
+<list> unhappy
+taleoftwo.txt 6 
+</list>
+<list> unhardened
+taleoftwo.txt 1 
+</list>
+<list> unhealthy
+taleoftwo.txt 1 
+</list>
+<list> unheard
+taleoftwo.txt 2 
+</list>
+<list> unheeded
+taleoftwo.txt 1 
+</list>
+<list> uniform
+taleoftwo.txt 1 
+</list>
+<list> united
+taleoftwo.txt 10 
+</list>
+<list> units
+taleoftwo.txt 1 
+</list>
+<list> universal
+taleoftwo.txt 7 
+</list>
+<list> universe
+taleoftwo.txt 1 
+</list>
+<list> unjust
+taleoftwo.txt 2 
+</list>
+<list> unjustly
+taleoftwo.txt 1 
+</list>
+<list> unkind
+taleoftwo.txt 1 
+</list>
+<list> unknown
+taleoftwo.txt 8 
+</list>
+<list> unless
+taleoftwo.txt 2 
+</list>
+<list> unlikely
+taleoftwo.txt 1 
+</list>
+<list> unlink
+taleoftwo.txt 1 
+</list>
+<list> unluckily
+taleoftwo.txt 1 
+</list>
+<list> unlucky
+taleoftwo.txt 1 
+</list>
+<list> unmixed
+taleoftwo.txt 1 
+</list>
+<list> unmoved
+taleoftwo.txt 1 
+</list>
+<list> unnaturally
+taleoftwo.txt 1 
+</list>
+<list> unnecessarily
+taleoftwo.txt 1 
+</list>
+<list> unnecessary
+taleoftwo.txt 1 
+</list>
+<list> unopened
+taleoftwo.txt 1 
+</list>
+<list> unornamental
+taleoftwo.txt 1 
+</list>
+<list> unpopularity
+taleoftwo.txt 1 
+</list>
+<list> unprepared
+taleoftwo.txt 1 
+</list>
+<list> unprosperous
+taleoftwo.txt 1 
+</list>
+<list> unprotected
+taleoftwo.txt 1 
+</list>
+<list> unquestionably
+taleoftwo.txt 3 
+</list>
+<list> unreserved
+taleoftwo.txt 1 
+</list>
+<list> unreservedly
+taleoftwo.txt 1 
+</list>
+<list> unrobed
+taleoftwo.txt 1 
+</list>
+<list> unruly
+taleoftwo.txt 1 
+</list>
+<list> unsolicited
+taleoftwo.txt 1 
+</list>
+<list> unspeakable
+taleoftwo.txt 2 
+</list>
+<list> unsteady
+taleoftwo.txt 1 
+</list>
+<list> unsuccessful
+taleoftwo.txt 1 
+</list>
+<list> unsuitable
+taleoftwo.txt 1 
+</list>
+<list> unsuspicious
+taleoftwo.txt 1 
+</list>
+<list> unswallowed
+taleoftwo.txt 1 
+</list>
+<list> until
+taleoftwo.txt 21 
+</list>
+<list> untracked
+taleoftwo.txt 1 
+</list>
+<list> untrimmed
+taleoftwo.txt 1 
+</list>
+<list> untroubled
+taleoftwo.txt 1 
+</list>
+<list> unusual
+taleoftwo.txt 6 
+</list>
+<list> unusually
+taleoftwo.txt 4 
+</list>
+<list> unwholesome
+taleoftwo.txt 2 
+</list>
+<list> unwilling
+taleoftwo.txt 2 
+</list>
+<list> unwillingness
+taleoftwo.txt 3 
+</list>
+<list> unwonted
+taleoftwo.txt 1 
+</list>
+<list> unworthily
+taleoftwo.txt 1 
+</list>
+<list> unyoked
+taleoftwo.txt 1 
+</list>
+<list> up
+taleoftwo.txt 321 
+</list>
+<list> updated
+taleoftwo.txt 2 
+</list>
+<list> upheaving
+taleoftwo.txt 1 
+</list>
+<list> uphold
+taleoftwo.txt 2 
+</list>
+<list> upholsterers
+taleoftwo.txt 1 
+</list>
+<list> uplifted
+taleoftwo.txt 1 
+</list>
+<list> upon
+taleoftwo.txt 291 
+</list>
+<list> upper
+taleoftwo.txt 4 
+</list>
+<list> uppermost
+taleoftwo.txt 1 
+</list>
+<list> upright
+taleoftwo.txt 3 
+</list>
+<list> uproar
+taleoftwo.txt 3 
+</list>
+<list> upshot
+taleoftwo.txt 1 
+</list>
+<list> upstairs
+taleoftwo.txt 2 
+</list>
+<list> upturning
+taleoftwo.txt 1 
+</list>
+<list> upward
+taleoftwo.txt 9 
+</list>
+<list> upwards
+taleoftwo.txt 1 
+</list>
+<list> urchin
+taleoftwo.txt 2 
+</list>
+<list> urge
+taleoftwo.txt 1 
+</list>
+<list> urged
+taleoftwo.txt 5 
+</list>
+<list> urgent
+taleoftwo.txt 2 
+</list>
+<list> urging
+taleoftwo.txt 1 
+</list>
+<list> urns
+taleoftwo.txt 1 
+</list>
+<list> us
+taleoftwo.txt 109 
+</list>
+<list> usage
+taleoftwo.txt 3 
+</list>
+<list> use
+taleoftwo.txt 1 
+</list>
+<list> useless
+taleoftwo.txt 11 
+</list>
+<list> user
+taleoftwo.txt 3 
+</list>
+<list> using
+taleoftwo.txt 8 
+</list>
+<list> ust
+taleoftwo.txt 1 
+</list>
+<list> usual
+taleoftwo.txt 48 
+</list>
+<list> usually
+taleoftwo.txt 8 
+</list>
+<list> ut
+taleoftwo.txt 1 
+</list>
+<list> utmost
+taleoftwo.txt 9 
+</list>
+<list> utterance
+taleoftwo.txt 1 
+</list>
+<list> uttering
+taleoftwo.txt 1 
+</list>
+<list> utterly
+taleoftwo.txt 3 
+</list>
+<list> v
+taleoftwo.txt 6 
+</list>
+<list> vacant
+taleoftwo.txt 5 
+</list>
+<list> vacantly
+taleoftwo.txt 2 
+</list>
+<list> vacation
+taleoftwo.txt 5 
+</list>
+<list> vagabond
+taleoftwo.txt 1 
+</list>
+<list> vague
+taleoftwo.txt 4 
+</list>
+<list> vaguely
+taleoftwo.txt 2 
+</list>
+<list> vain
+taleoftwo.txt 19 
+</list>
+<list> vainest
+taleoftwo.txt 1 
+</list>
+<list> vainly
+taleoftwo.txt 1 
+</list>
+<list> valise
+taleoftwo.txt 1 
+</list>
+<list> valuable
+taleoftwo.txt 2 
+</list>
+<list> value
+taleoftwo.txt 3 
+</list>
+<list> valued
+taleoftwo.txt 1 
+</list>
+<list> vanilla
+taleoftwo.txt 2 
+</list>
+<list> vanished
+taleoftwo.txt 4 
+</list>
+<list> vanities
+taleoftwo.txt 1 
+</list>
+<list> vanity
+taleoftwo.txt 1 
+</list>
+<list> vapour
+taleoftwo.txt 3 
+</list>
+<list> vapouring
+taleoftwo.txt 2 
+</list>
+<list> vapours
+taleoftwo.txt 1 
+</list>
+<list> variety
+taleoftwo.txt 2 
+</list>
+<list> various
+taleoftwo.txt 4 
+</list>
+<list> variously
+taleoftwo.txt 1 
+</list>
+<list> varying
+taleoftwo.txt 2 
+</list>
+<list> vassal
+taleoftwo.txt 1 
+</list>
+<list> vast
+taleoftwo.txt 4 
+</list>
+<list> vaunted
+taleoftwo.txt 1 
+</list>
+<list> vaunting
+taleoftwo.txt 1 
+</list>
+<list> vauxhall
+taleoftwo.txt 1 
+</list>
+<list> ve
+taleoftwo.txt 9 
+</list>
+<list> vegetable
+taleoftwo.txt 2 
+</list>
+<list> vegetating
+taleoftwo.txt 1 
+</list>
+<list> vehicle
+taleoftwo.txt 4 
+</list>
+<list> vehicles
+taleoftwo.txt 2 
+</list>
+<list> veil
+taleoftwo.txt 1 
+</list>
+<list> veinous
+taleoftwo.txt 1 
+</list>
+<list> veins
+taleoftwo.txt 1 
+</list>
+<list> vendor
+taleoftwo.txt 1 
+</list>
+<list> vengeance
+taleoftwo.txt 43 
+</list>
+<list> ventured
+taleoftwo.txt 2 
+</list>
+<list> version
+taleoftwo.txt 2 
+</list>
+<list> very
+taleoftwo.txt 218 
+</list>
+<list> vessels
+taleoftwo.txt 1 
+</list>
+<list> vestige
+taleoftwo.txt 3 
+</list>
+<list> vexation
+taleoftwo.txt 1 
+</list>
+<list> vexed
+taleoftwo.txt 3 
+</list>
+<list> vi
+taleoftwo.txt 6 
+</list>
+<list> viands
+taleoftwo.txt 1 
+</list>
+<list> victim
+taleoftwo.txt 1 
+</list>
+<list> victims
+taleoftwo.txt 5 
+</list>
+<list> victorious
+taleoftwo.txt 1 
+</list>
+<list> victory
+taleoftwo.txt 1 
+</list>
+<list> viewed
+taleoftwo.txt 2 
+</list>
+<list> viewing
+taleoftwo.txt 1 
+</list>
+<list> views
+taleoftwo.txt 1 
+</list>
+<list> vigorous
+taleoftwo.txt 1 
+</list>
+<list> vigour
+taleoftwo.txt 1 
+</list>
+<list> vigourous
+taleoftwo.txt 1 
+</list>
+<list> vii
+taleoftwo.txt 4 
+</list>
+<list> viii
+taleoftwo.txt 4 
+</list>
+<list> village
+taleoftwo.txt 2 
+</list>
+<list> villagers
+taleoftwo.txt 1 
+</list>
+<list> villages
+taleoftwo.txt 1 
+</list>
+<list> villain
+taleoftwo.txt 1 
+</list>
+<list> villainy
+taleoftwo.txt 1 
+</list>
+<list> ville
+taleoftwo.txt 4 
+</list>
+<list> vindicating
+taleoftwo.txt 1 
+</list>
+<list> vinegar
+taleoftwo.txt 2 
+</list>
+<list> vineyards
+taleoftwo.txt 1 
+</list>
+<list> vinous
+taleoftwo.txt 1 
+</list>
+<list> violates
+taleoftwo.txt 1 
+</list>
+<list> violent
+taleoftwo.txt 6 
+</list>
+<list> violently
+taleoftwo.txt 4 
+</list>
+<list> virtuous
+taleoftwo.txt 3 
+</list>
+<list> virus
+taleoftwo.txt 1 
+</list>
+<list> visit
+taleoftwo.txt 2 
+</list>
+<list> visitor
+taleoftwo.txt 8 
+</list>
+<list> visitors
+taleoftwo.txt 2 
+</list>
+<list> vista
+taleoftwo.txt 1 
+</list>
+<list> vivid
+taleoftwo.txt 3 
+</list>
+<list> vividly
+taleoftwo.txt 2 
+</list>
+<list> vociferating
+taleoftwo.txt 1 
+</list>
+<list> vogue
+taleoftwo.txt 2 
+</list>
+<list> voices
+taleoftwo.txt 16 
+</list>
+<list> void
+taleoftwo.txt 1 
+</list>
+<list> voluntary
+taleoftwo.txt 1 
+</list>
+<list> volunteer
+taleoftwo.txt 1 
+</list>
+<list> volunteers
+taleoftwo.txt 7 
+</list>
+<list> voluptuous
+taleoftwo.txt 1 
+</list>
+<list> vortex
+taleoftwo.txt 1 
+</list>
+<list> vote
+taleoftwo.txt 2 
+</list>
+<list> voted
+taleoftwo.txt 2 
+</list>
+<list> votes
+taleoftwo.txt 1 
+</list>
+<list> vow
+taleoftwo.txt 1 
+</list>
+<list> voyage
+taleoftwo.txt 2 
+</list>
+<list> vulgar
+taleoftwo.txt 3 
+</list>
+<list> wager
+taleoftwo.txt 1 
+</list>
+<list> wages
+taleoftwo.txt 1 
+</list>
+<list> waggonloads
+taleoftwo.txt 1 
+</list>
+<list> wait
+taleoftwo.txt 1 
+</list>
+<list> waiters
+taleoftwo.txt 1 
+</list>
+<list> waiting
+taleoftwo.txt 17 
+</list>
+<list> wakened
+taleoftwo.txt 1 
+</list>
+<list> waking
+taleoftwo.txt 2 
+</list>
+<list> walking
+taleoftwo.txt 5 
+</list>
+<list> walks
+taleoftwo.txt 1 
+</list>
+<list> wall
+taleoftwo.txt 26 
+</list>
+<list> walls
+taleoftwo.txt 17 
+</list>
+<list> walnut
+taleoftwo.txt 1 
+</list>
+<list> walton
+taleoftwo.txt 1 
+</list>
+<list> wandering
+taleoftwo.txt 1 
+</list>
+<list> want
+taleoftwo.txt 1 
+</list>
+<list> wanting
+taleoftwo.txt 3 
+</list>
+<list> wantonly
+taleoftwo.txt 1 
+</list>
+<list> wants
+taleoftwo.txt 2 
+</list>
+<list> warnings
+taleoftwo.txt 1 
+</list>
+<list> warranties
+taleoftwo.txt 3 
+</list>
+<list> warranty
+taleoftwo.txt 2 
+</list>
+<list> warwickshire
+taleoftwo.txt 1 
+</list>
+<list> wary
+taleoftwo.txt 2 
+</list>
+<list> was
+taleoftwo.txt 146 
+</list>
+<list> waste
+taleoftwo.txt 6 
+</list>
+<list> wasted
+taleoftwo.txt 9 
+</list>
+<list> watching
+taleoftwo.txt 1 
+</list>
+<list> water
+taleoftwo.txt 5 
+</list>
+<list> waterspout
+taleoftwo.txt 1 
+</list>
+<list> watery
+taleoftwo.txt 2 
+</list>
+<list> wave
+taleoftwo.txt 5 
+</list>
+<list> waved
+taleoftwo.txt 5 
+</list>
+<list> waves
+taleoftwo.txt 5 
+</list>
+<list> wax
+taleoftwo.txt 1 
+</list>
+<list> wayfarer
+taleoftwo.txt 1 
+</list>
+<list> ways
+taleoftwo.txt 20 
+</list>
+<list> wayside
+taleoftwo.txt 1 
+</list>
+<list> we
+taleoftwo.txt 181 
+</list>
+<list> wear
+taleoftwo.txt 3 
+</list>
+<list> wearing
+taleoftwo.txt 1 
+</list>
+<list> weather
+taleoftwo.txt 9 
+</list>
+<list> weathers
+taleoftwo.txt 3 
+</list>
+<list> weaving
+taleoftwo.txt 1 
+</list>
+<list> web
+taleoftwo.txt 6 
+</list>
+<list> wednesday
+taleoftwo.txt 1 
+</list>
+<list> weep
+taleoftwo.txt 14 
+</list>
+<list> weeping
+taleoftwo.txt 6 
+</list>
+<list> weight
+taleoftwo.txt 8 
+</list>
+<list> weird
+taleoftwo.txt 2 
+</list>
+<list> welcome
+taleoftwo.txt 1 
+</list>
+<list> well
+taleoftwo.txt 179 
+</list>
+<list> wells
+taleoftwo.txt 1 
+</list>
+<list> wending
+taleoftwo.txt 1 
+</list>
+<list> went
+taleoftwo.txt 109 
+</list>
+<list> wenturs
+taleoftwo.txt 1 
+</list>
+<list> wept
+taleoftwo.txt 6 
+</list>
+<list> were
+taleoftwo.txt 545 
+</list>
+<list> weren
+taleoftwo.txt 1 
+</list>
+<list> wery
+taleoftwo.txt 1 
+</list>
+<list> west
+taleoftwo.txt 5 
+</list>
+<list> westminster
+taleoftwo.txt 2 
+</list>
+<list> westward
+taleoftwo.txt 2 
+</list>
+<list> wet
+taleoftwo.txt 12 
+</list>
+<list> wetted
+taleoftwo.txt 1 
+</list>
+<list> whatever
+taleoftwo.txt 16 
+</list>
+<list> whatsoever
+taleoftwo.txt 3 
+</list>
+<list> whenever
+taleoftwo.txt 1 
+</list>
+<list> where
+taleoftwo.txt 4 
+</list>
+<list> wherein
+taleoftwo.txt 1 
+</list>
+<list> whether
+taleoftwo.txt 43 
+</list>
+<list> whew
+taleoftwo.txt 1 
+</list>
+<list> which
+taleoftwo.txt 13 
+</list>
+<list> while
+taleoftwo.txt 3 
+</list>
+<list> whips
+taleoftwo.txt 1 
+</list>
+<list> whirrs
+taleoftwo.txt 1 
+</list>
+<list> whispered
+taleoftwo.txt 2 
+</list>
+<list> whistled
+taleoftwo.txt 1 
+</list>
+<list> white
+taleoftwo.txt 7 
+</list>
+<list> whiter
+taleoftwo.txt 1 
+</list>
+<list> whitewashed
+taleoftwo.txt 1 
+</list>
+<list> who
+taleoftwo.txt 7 
+</list>
+<list> whom
+taleoftwo.txt 1 
+</list>
+<list> whose
+taleoftwo.txt 46 
+</list>
+<list> whosoever
+taleoftwo.txt 4 
+</list>
+<list> why
+taleoftwo.txt 71 
+</list>
+<list> wicked
+taleoftwo.txt 3 
+</list>
+<list> wickedness
+taleoftwo.txt 1 
+</list>
+<list> wicket
+taleoftwo.txt 3 
+</list>
+<list> wicks
+taleoftwo.txt 1 
+</list>
+<list> widely
+taleoftwo.txt 1 
+</list>
+<list> widest
+taleoftwo.txt 2 
+</list>
+<list> widow
+taleoftwo.txt 2 
+</list>
+<list> widowhood
+taleoftwo.txt 1 
+</list>
+<list> width
+taleoftwo.txt 1 
+</list>
+<list> wielders
+taleoftwo.txt 1 
+</list>
+<list> wife
+taleoftwo.txt 99 
+</list>
+<list> wig
+taleoftwo.txt 6 
+</list>
+<list> wigged
+taleoftwo.txt 6 
+</list>
+<list> wigs
+taleoftwo.txt 2 
+</list>
+<list> will
+taleoftwo.txt 13 
+</list>
+<list> willingly
+taleoftwo.txt 6 
+</list>
+<list> wills
+taleoftwo.txt 1 
+</list>
+<list> wilt
+taleoftwo.txt 1 
+</list>
+<list> wink
+taleoftwo.txt 1 
+</list>
+<list> winning
+taleoftwo.txt 3 
+</list>
+<list> winter
+taleoftwo.txt 11 
+</list>
+<list> wintry
+taleoftwo.txt 2 
+</list>
+<list> wiped
+taleoftwo.txt 2 
+</list>
+<list> wiping
+taleoftwo.txt 1 
+</list>
+<list> wiry
+taleoftwo.txt 1 
+</list>
+<list> wise
+taleoftwo.txt 1 
+</list>
+<list> wish
+taleoftwo.txt 3 
+</list>
+<list> wishes
+taleoftwo.txt 1 
+</list>
+<list> wishing
+taleoftwo.txt 2 
+</list>
+<list> wisited
+taleoftwo.txt 1 
+</list>
+<list> wistfully
+taleoftwo.txt 1 
+</list>
+<list> with
+taleoftwo.txt 7 
+</list>
+<list> within
+taleoftwo.txt 4 
+</list>
+<list> without
+taleoftwo.txt 10 
+</list>
+<list> witness
+taleoftwo.txt 10 
+</list>
+<list> witnesses
+taleoftwo.txt 8 
+</list>
+<list> wittles
+taleoftwo.txt 3 
+</list>
+<list> wives
+taleoftwo.txt 3 
+</list>
+<list> wo
+taleoftwo.txt 2 
+</list>
+<list> woe
+taleoftwo.txt 3 
+</list>
+<list> wolf
+taleoftwo.txt 1 
+</list>
+<list> wolfishly
+taleoftwo.txt 1 
+</list>
+<list> woman
+taleoftwo.txt 2 
+</list>
+<list> womanly
+taleoftwo.txt 1 
+</list>
+<list> women
+taleoftwo.txt 61 
+</list>
+<list> won
+taleoftwo.txt 1 
+</list>
+<list> wonder
+taleoftwo.txt 1 
+</list>
+<list> wonderful
+taleoftwo.txt 1 
+</list>
+<list> wondering
+taleoftwo.txt 4 
+</list>
+<list> wonders
+taleoftwo.txt 2 
+</list>
+<list> wood
+taleoftwo.txt 8 
+</list>
+<list> woods
+taleoftwo.txt 3 
+</list>
+<list> woollen
+taleoftwo.txt 3 
+</list>
+<list> work
+taleoftwo.txt 45 
+</list>
+<list> works
+taleoftwo.txt 32 
+</list>
+<list> world
+taleoftwo.txt 1 
+</list>
+<list> worse
+taleoftwo.txt 1 
+</list>
+<list> worst
+taleoftwo.txt 5 
+</list>
+<list> worth
+taleoftwo.txt 7 
+</list>
+<list> worthlessness
+taleoftwo.txt 1 
+</list>
+<list> worthy
+taleoftwo.txt 10 
+</list>
+<list> wos
+taleoftwo.txt 10 
+</list>
+<list> wot
+taleoftwo.txt 20 
+</list>
+<list> would
+taleoftwo.txt 35 
+</list>
+<list> wouldn
+taleoftwo.txt 1 
+</list>
+<list> wound
+taleoftwo.txt 6 
+</list>
+<list> wounded
+taleoftwo.txt 6 
+</list>
+<list> wounds
+taleoftwo.txt 2 
+</list>
+<list> woven
+taleoftwo.txt 1 
+</list>
+<list> wows
+taleoftwo.txt 1 
+</list>
+<list> wrath
+taleoftwo.txt 2 
+</list>
+<list> wrathfully
+taleoftwo.txt 2 
+</list>
+<list> wrecks
+taleoftwo.txt 1 
+</list>
+<list> wretch
+taleoftwo.txt 2 
+</list>
+<list> wretched
+taleoftwo.txt 3 
+</list>
+<list> wretchedest
+taleoftwo.txt 1 
+</list>
+<list> wretchedly
+taleoftwo.txt 1 
+</list>
+<list> wretches
+taleoftwo.txt 1 
+</list>
+<list> writing
+taleoftwo.txt 14 
+</list>
+<list> written
+taleoftwo.txt 21 
+</list>
+<list> wrong
+taleoftwo.txt 3 
+</list>
+<list> wrongfully
+taleoftwo.txt 1 
+</list>
+<list> wrote
+taleoftwo.txt 13 
+</list>
+<list> wrought
+taleoftwo.txt 2 
+</list>
+<list> wrung
+taleoftwo.txt 5 
+</list>
+<list> www
+taleoftwo.txt 6 
+</list>
+<list> x
+taleoftwo.txt 4 
+</list>
+<list> xi
+taleoftwo.txt 4 
+</list>
+<list> xii
+taleoftwo.txt 4 
+</list>
+<list> xiii
+taleoftwo.txt 4 
+</list>
+<list> xiv
+taleoftwo.txt 4 
+</list>
+<list> xix
+taleoftwo.txt 2 
+</list>
+<list> xv
+taleoftwo.txt 4 
+</list>
+<list> xvii
+taleoftwo.txt 2 
+</list>
+<list> xviii
+taleoftwo.txt 2 
+</list>
+<list> xx
+taleoftwo.txt 2 
+</list>
+<list> xxiii
+taleoftwo.txt 2 
+</list>
+<list> xxiv
+taleoftwo.txt 2 
+</list>
+<list> yah
+taleoftwo.txt 3 
+</list>
+<list> yaha
+taleoftwo.txt 4 
+</list>
+<list> yard
+taleoftwo.txt 10 
+</list>
+<list> yards
+taleoftwo.txt 4 
+</list>
+<list> yawned
+taleoftwo.txt 1 
+</list>
+<list> ye
+taleoftwo.txt 7 
+</list>
+<list> yearning
+taleoftwo.txt 1 
+</list>
+<list> years
+taleoftwo.txt 89 
+</list>
+<list> yellow
+taleoftwo.txt 6 
+</list>
+<list> yells
+taleoftwo.txt 1 
+</list>
+<list> yes
+taleoftwo.txt 120 
+</list>
+<list> yesterday
+taleoftwo.txt 18 
+</list>
+<list> yet
+taleoftwo.txt 109 
+</list>
+<list> yield
+taleoftwo.txt 2 
+</list>
+<list> yielded
+taleoftwo.txt 6 
+</list>
+<list> yielding
+taleoftwo.txt 3 
+</list>
+<list> yieldings
+taleoftwo.txt 1 
+</list>
+<list> yo
+taleoftwo.txt 1 
+</list>
+<list> yoked
+taleoftwo.txt 1 
+</list>
+<list> yonder
+taleoftwo.txt 5 
+</list>
+<list> yore
+taleoftwo.txt 1 
+</list>
+<list> younger
+taleoftwo.txt 1 
+</list>
+<list> your
+taleoftwo.txt 38 
+</list>
+<list> yours
+taleoftwo.txt 1 
+</list>
+<list> yourself
+taleoftwo.txt 13 
+</list>
+<list> youth
+taleoftwo.txt 3 
+</list>
+<list> youthfulness
+taleoftwo.txt 1 
+</list>
+<list> youths
+taleoftwo.txt 1 
+</list>
+<list> zealous
+taleoftwo.txt 2 
+</list>
+<list> zip
+taleoftwo.txt 1 
+</list>

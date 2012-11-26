@@ -1,0 +1,39 @@
+<list> a
+first.txt 1 
+</list>
+<list> another
+first.txt 1 
+</list>
+<list> as
+first.txt 1 
+</list>
+<list> file
+first.txt 2 first_1.txt 1 
+</list>
+<list> has
+first.txt 1 first_1.txt 1 
+</list>
+<list> hello
+first_1.txt 2 first.txt 1 
+</list>
+<list> inside
+first_1.txt 1 
+</list>
+<list> is
+first.txt 1 first_1.txt 1 
+</list>
+<list> name
+first.txt 1 first_1.txt 1 
+</list>
+<list> same
+first.txt 1 first_1.txt 1 
+</list>
+<list> that
+first.txt 1 first_1.txt 1 
+</list>
+<list> the
+first_1.txt 2 first.txt 1 
+</list>
+<list> this
+first.txt 6 first_1.txt 1 
+</list>
